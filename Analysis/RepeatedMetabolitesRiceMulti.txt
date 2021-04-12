@@ -1,0 +1,11 @@
+Repository ID	Model ID	Attributes
+photon (662 to 691 nm, red)_u 	 M_photon630_u 	 ['photon (662 to 691 nm, red)', 'u', 'false', 'false', 'false', ' X', ' 0']
+photon (662 to 691 nm, red)_u 	 M_photon650_u 	 ['photon (662 to 691 nm, red)', 'u', 'false', 'false', 'false', ' X', ' 0']
+photon (662 to 691 nm, red)_u 	 M_photon670_u 	 ['photon (662 to 691 nm, red)', 'u', 'false', 'false', 'false', ' X', ' 0']
+photon (662 to 691 nm, red)_u 	 M_photon690_u 	 ['photon (662 to 691 nm, red)', 'u', 'false', 'false', 'false', ' X', ' 0']
+photon (662 to 691 nm, red)_u 	 M_photon550_u 	 ['photon (662 to 691 nm, red)', 'u', 'false', 'false', 'false', ' X', ' 0']
+photon (662 to 691 nm, red)_u 	 M_photon570_u 	 ['photon (662 to 691 nm, red)', 'u', 'false', 'false', 'false', ' X', ' 0']
+photon (662 to 691 nm, red)_u 	 M_photon590_u 	 ['photon (662 to 691 nm, red)', 'u', 'false', 'false', 'false', ' X', ' 0']
+photon (380 to 750 nm, visible spectrum)_u 	 M_photonPSII_u 	 ['photon (380 to 750 nm, visible spectrum)', 'u', 'false', 'false', 'false', ' X', ' 0']
+3-Isopropylmalate_p 	 M_3c2hmp_s 	 ['3-Isopropylmalate', 'p', 'false', 'false', 'false', ' C7H10O5', ' -2']
+tRNA(Met)_c 	 M_trnasemet_c 	 ['tRNA(Met)', 'c', 'false', 'false', 'false', ' R', ' 0']

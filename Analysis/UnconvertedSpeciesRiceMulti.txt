@@ -1,0 +1,292 @@
+M_starch_s	Starch (n=4, 4 glucose units)
+M_fa_os_r	fatty acid, lumped (oryza sativa specific)
+M_triglyc_os_r	Triacylglycerol (oryza sativa specific)
+M_pa_os_r	Phosphatidate (oryza sativa specific)
+M_pc_os_r	Phosphatidylcholine (oryza sativa specific)
+M_pe_os_r	Phosphatidylethanolamine (oryza sativa specific)
+M_ptd1ino_os_r	1-Phosphatidyl-D-myo-inositol (oryza sativa specific)
+M_ocdycacoa_c	Octadecadienoyl-CoA (n-C18:2CoA)
+M_lnlncoa_c	Linolenoyl-CoA (n-C18:3CoA)
+M_acylcoa_os_c	Acyl-CoA (oryza sativa specific)
+M_ocdycacoa_r	Octadecadienoyl-CoA (n-C18:2CoA)
+M_lnlncoa_r	Linolenoyl-CoA (n-C18:3CoA)
+M_acylcoa_os_r	Acyl-CoA (oryza sativa specific)
+M_hdeACP_s	cis-hexadec-9-enoyl-[acyl-carrier protein] ((9Z)-n-C16:1)
+M_octeACP_s	cis-octadec-11-enoyl-[acyl-carrier protein] ((11Z)-n-C18:1)
+M_ocdcyaACP_s	Octadecadienoyl-[acyl-carrier protein] (n-C18:2ACP)
+M_lnlnlACP_s	Linolenoyl-[acyl-carrier protein] (n-C18:3ACP)
+M_ACP_os_s	acyl carrier protein (oryza sativa specific)
+M_hdeACP_m	cis-hexadec-9-enoyl-[acyl-carrier protein] ((9Z)-n-C16:1)
+M_octeACP_m	cis-octadec-11-enoyl-[acyl-carrier protein] ((11Z)-n-C18:1)
+M_ocdcyaACP_m	Octadecadienoyl-[acyl-carrier protein] (n-C18:2ACP)
+M_lnlnlACP_m	Linolenoyl-[acyl-carrier protein] (n-C18:3ACP)
+M_ACP_os_m	acyl carrier protein (oryza sativa specific)
+M_fa_os_c	fatty acid, lumped (oryza sativa specific)
+M_hdcea_c	Hexadecenoate (16:1(9Z))
+M_lnlnl_c	Linolenate (n-C18:3)
+M_hdcea_r	Hexadecenoate (16:1(9Z))
+M_lnlnl_r	Linolenate (n-C18:3)
+M_photonVis_e	photon (380 to 750 nm, visible spectrum)
+M_photon410_u	photon (281 to 306 nm, UVB)
+M_photon430_u	photon (406 to 454 nm, indigo/blue)
+M_photon450_u	photon (378 to 482 nm, violet/blue)
+M_photon470_u	photon (417 to 472 nm, indigo/blue)
+M_photon490_u	photon (451 to 526 nm, blue/green)
+M_photon610_u	photon (662 to 691 nm, red)
+M_photon630_u	photon (662 to 691 nm, red)
+M_photon650_u	photon (662 to 691 nm, red)
+M_photon670_u	photon (662 to 691 nm, red)
+M_photon690_u	photon (662 to 691 nm, red)
+M_photon510_u	photon (608 to 666 nm, orange/red)
+M_photon530_u	photon (659 to 684 nm, red)
+M_photon550_u	photon (662 to 691 nm, red)
+M_photon570_u	photon (662 to 691 nm, red)
+M_photon590_u	photon (662 to 691 nm, red)
+M_photonPSI_u	photon (380 to 750 nm, visible spectrum)
+M_photonDrain_u	photon Drain
+M_photonPSII_u	photon (380 to 750 nm, visible spectrum)
+M_dtmp_s	dtmp[s]
+M_ahdt_c	2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridinetriphosphate
+M_gdhlam_m	S-glutaryldihydrolipoyllysine
+M_thglu_x	Tetrahydropteroyl-tri-L-glutamate
+M_thglu_v	Tetrahydropteroyl-tri-L-glutamate
+M_thglu_c	Tetrahydropteroyl-tri-L-glutamate
+M_iaa_DASH_ala_c	indole-3-acetyl-alanine
+M_iaa_DASH_leu_c	indole-3-acetyl-leucine
+M_iaa_DASH_asp_c	indole-3-acetyl-aspartate
+M_iaa_DASH_glu_c	indole-3-acetyl-glutamate
+M_iaa_DASH_gln_c	indole-3-acetyl-glutamine
+M_cgly_c	cgly[c]
+M_suc6p_c	sucrose-6-phosphate
+M_10fthglu_c	10-Formyltetrahydrofolate glutamate
+M_12dgr_os_c	1,2-Diacyl-sn-glycerol (oryza sativa specific)
+M_ptd1ino_os_c	1-Phosphatidyl-D-myo-inositol (oryza sativa specific)
+M_mi12346p_c	1D-myo-Inositol 1,2,3,4,6-pentakisphosphate
+M_mi12345p_c	1D-myo-Inositol 1,2,3,4,5-pentakisphosphate
+M_3psme_s	3-Phosphate-shikimate
+M_glucan_s	alpha-glucan (Amylose)
+M_pqh2_u	reduced plastoquinone
+M_pq_u	oxidized plastoquinone
+M_prfp_s	1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide
+M_thm_s	Thiamin (Vitamin B1)
+M_thm_c	Thiamin (Vitamin B1)
+M_prlp_s	5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide
+M_25aics_s	(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+M_coumqnt_c	p-Coumaroyl quinate
+M_caffskm_c	5-O-Caffeoylshikimate
+M_nrgchal_c	Naringenin-chalcone
+M_2herdtl6g_c	2-hydroxyeriodictyol 6-C-glucoside
+M_2herdtl8g_c	2-hydroxyeriodictyol 8-C-glucoside
+M_2hnrgn6g_c	2-hydroxynaringenin 6-C-glucoside
+M_2hnrgn8g_c	2-hydroxynaringenin 8-C-glucoside
+M_ivtxn2g_c	Isovitexin 2-O-beta-D-glucoside
+M_iscprn2g_c	Isoscoparin-2-O-glucoside
+M_iorntn2g_c	Isoorientin-2-O-glucoside
+M_tricing_c	Tricin-O-glucoside
+M_mtrctn_c	3-O-Methyltricetin
+M_epflzn_c	Epiafzelechin
+M_cndng_c	cyanidin-3-O-glucoside
+M_3opdhb_m	3-Octaaprenyl-4,5-dihydroxybenzoate
+M_pqnne_s	Phylloquinone (Vitamin K1)
+M_mnqnne_s	Menaquinone 8 (Vitamin K2)
+M_avite1_s	alpha-Tocopherol (Vitamin E)
+M_yvite_s	gamma-Tocopherol (Vitamin E)
+M_lim_s	(S)-Limonene
+M_stemol_c	Stemar-13-enol
+M_esandol_c	ent-sandaracopimaradiene-3alpha-ol
+M_ecasdol_c	ent-cassa-12,15-diene-3alpha-ol
+M_ecasdal_c	ent-cassa-12,15-diene-3alpha-al
+M_ecasdate_c	ent-cassa-12,15-diene-3alpha-ol-11-keto
+M_ecasd2ate_c	ent-cassa-12,15-diene-2,3alpha-ol-11-keto
+M_ga25_c	Gibberellin A25
+M_ga13_c	Gibberellin A13
+M_cnxan_s	9-cis-Neoxanthin
+M_habs_s	8-Hydroxyabscisate
+M_ee_DASH_carotl_s	epsilon-carotene-3-diol
+M_ptrna_c	prenyl-tRNA
+M_dhz7g_c	dihydrozeatin-7-N-glucoside
+M_4mzym_int2_c	4alpha-methyl-5alpha-cholesta-8,24-dien-3-one
+M_malACP_s	Malonyl-[acyl-carrier protein]
+M_3hbutACP_s	(R)-3-Hydroxybutanoyl-[acyl-carrier protein]
+M_but2eACP_s	But-2-enoyl-[acyl-carrier protein]
+M_3ohexACP_s	3-Oxohexanoyl-[acyl-carrier protein]
+M_3hhexACP_s	(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]
+M_thex2eACP_s	trans-Hex-2-enoyl-[acyl-carrier protein]
+M_3ooctACP_s	3-Oxooctanoyl-[acyl-carrier protein]
+M_3hoctACP_s	(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]
+M_toct2eACP_s	trans-Oct-2-enoyl-[acyl-carrier protein]
+M_3odecACP_s	3-Oxodecanoyl-[acyl-carrier protein]
+M_3hdecACP_s	(R)-3-Hydroxydecanoyl-[acyl-carrier protein]
+M_tdec2eACP_s	trans-Dec-2-enoyl-[acyl-carrier protein]
+M_3oddecACP_s	3-Oxododecanoyl-[acyl-carrier protein]
+M_3hddecACP_s	(R)-3-Hydroxydodecanoyl-[acyl-carrier protein]
+M_tddec2eACP_s	trans-Dodec-2-enoyl-[acyl-carrier protein]
+M_3omrsACP_s	3-Oxotetradecanoyl-[acyl-carrier protein]
+M_3hmrsACP_s	(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]
+M_tmrs2eACP_s	trans-Tetradec-2-enoyl-[acyl-carrier protein]
+M_3opalmACP_s	3-Oxohexadecanoyl-[acyl-carrier protein]
+M_3hpalmACP_s	R-3-hydroxypalmitoyl-[acyl-carrier protein]
+M_tpalm2eACP_s	trans-Hexadec-2-enoyl-[acyl-carrier protein]
+M_3ooctdACP_s	3-Oxooctadecanoyl-[acyl-carrier protein]
+M_3hoctaACP_s	(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]
+M_toctd2eACP_s	trans-octadec-2-enoyl-[acyl-carrier protein]
+M_hdcea_s	Hexadecenoate (16:1(9Z))
+M_lnlnl_s	Linolenate (n-C18:3)
+M_araccoa_r	arachidoyl-CoA (n-C20:0CoA)
+M_arac_r	arachidate (n-C20:0)
+M_behcoa_r	behenoyl CoA (n-C22:0CoA)
+M_beh_r	behenate (n-C22:0)
+M_lgnccoa_r	lignoceroyl-CoA (n-C24:0CoA)
+M_lgnc_r	lignocerate (n-C24:0)
+M_cercoa_r	cerotoyl-CoA (n-C26:0CoA)
+M_cero_r	cerotate (n-C26:0)
+M_mntcoa_r	montanoyl-CoA (n-C28:0CoA)
+M_mntt_r	montanate (n-C28:0)
+M_mlscoa_r	melissoyl-CoA (n-C30:0CoA)
+M_mls_r	melissate (n-C30:0)
+M_cerool_r	Cerotyl alcohol
+M_behpalm_r	Behenyl palmitate
+M_feralk_c	Feruloylalkate
+M_hydro20_r	20-hydroxyarachidate
+M_hydro24_r	24-hydroxylignocerate
+M_hydro26_r	26-hydroxycerotate
+M_hydro28_r	28-hydroxymontanate
+M_hydro30_r	30-hydroxymelissate
+M_20oarac_r	20-oxo-arachidate
+M_24olgnc_r	24-oxo-lignocerate
+M_26ocero_r	26-oxo-cerotate
+M_28omntt_r	28-oxo-montanate
+M_30omls_r	30-oxo-melissate
+M_ardt_r	arachidioate (n-C20:0)
+M_behdt_r	behendioate (n-C22:0)
+M_lgndt_r	lignocerdioate (n-C24:0)
+M_cerdt_r	cerotdioate (n-C26:0)
+M_mntdt_r	montandioate (n-C28:0)
+M_mlsdt_r	melissdioate (n-C30:0)
+M_3omntcoa_r	3-oxo-montanoyl-CoA
+M_3hmntcoa_r	(3R)-3-hydroxy-montanoyl-CoA
+M_tmnt2ecoa_r	trans-montan-2-enoyl-CoA
+M_3omlscoa_r	3-oxo-melissoyl-CoA
+M_3hmlscoa_r	(3R)-3-hydroxy-melissoyl-CoA
+M_tmls2ecoa_r	trans-meliss-2-enoyl-CoA
+M_ocdycacoa_x	Octadecadienoyl-CoA (n-C18:2CoA)
+M_lnlnl_x	Linolenate (n-C18:3)
+M_lnlncoa_x	Linolenoyl-CoA (n-C18:3CoA)
+M_malACP_c	Malonyl-[acyl-carrier protein]
+M_malACP_m	Malonyl-[acyl-carrier protein]
+M_3hbutACP_m	(R)-3-Hydroxybutanoyl-[acyl-carrier protein]
+M_but2eACP_m	But-2-enoyl-[acyl-carrier protein]
+M_3ohexACP_m	3-Oxohexanoyl-[acyl-carrier protein]
+M_3hhexACP_m	(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]
+M_thex2eACP_m	trans-Hex-2-enoyl-[acyl-carrier protein]
+M_3ooctACP_m	3-Oxooctanoyl-[acyl-carrier protein]
+M_3hoctACP_m	(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]
+M_toct2eACP_m	trans-Oct-2-enoyl-[acyl-carrier protein]
+M_3odecACP_m	3-Oxodecanoyl-[acyl-carrier protein]
+M_3hdecACP_m	(R)-3-Hydroxydecanoyl-[acyl-carrier protein]
+M_tdec2eACP_m	trans-Dec-2-enoyl-[acyl-carrier protein]
+M_3oddecACP_m	3-Oxododecanoyl-[acyl-carrier protein]
+M_3hddecACP_m	(R)-3-Hydroxydodecanoyl-[acyl-carrier protein]
+M_tddec2eACP_m	trans-Dodec-2-enoyl-[acyl-carrier protein]
+M_3omrsACP_m	3-Oxotetradecanoyl-[acyl-carrier protein]
+M_3hmrsACP_m	(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]
+M_tmrs2eACP_m	trans-Tetradec-2-enoyl-[acyl-carrier protein]
+M_3opalmACP_m	3-Oxohexadecanoyl-[acyl-carrier protein]
+M_3hpalmACP_m	R-3-hydroxypalmitoyl-[acyl-carrier protein]
+M_tpalm2eACP_m	trans-Hexadec-2-enoyl-[acyl-carrier protein]
+M_3ooctdACP_m	3-Oxooctadecanoyl-[acyl-carrier protein]
+M_3hoctaACP_m	(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]
+M_toctd2eACP_m	trans-octadec-2-enoyl-[acyl-carrier protein]
+M_1ag3p_os_r	1-Acyl-sn-glycerol 3-phosphate (oryza sativa specific)
+M_1ag3p_os_s	1-Acyl-sn-glycerol 3-phosphate (oryza sativa specific)
+M_1ag3p_os_m	1-Acyl-sn-glycerol 3-phosphate (oryza sativa specific)
+M_pa_os_s	Phosphatidate (oryza sativa specific)
+M_pa_os_m	Phosphatidate (oryza sativa specific)
+M_12dgr_os_r	1,2-Diacyl-sn-glycerol (oryza sativa specific)
+M_12dgr_os_s	1,2-Diacyl-sn-glycerol (oryza sativa specific)
+M_12dgr_os_m	1,2-Diacyl-sn-glycerol (oryza sativa specific)
+M_triglyc_os_c	Triacylglycerol (oryza sativa specific)
+M_mgr_os_c	Monoacylglycerol (oryza sativa specific)
+M_cdpdag_os_r	CDP-diacylglycerol (oryza sativa specific)
+M_cdpdag_os_m	CDP-diacylglycerol (oryza sativa specific)
+M_pgp_os_r	Phosphatidylglycerophosphate (oryza sativa specific)
+M_pgp_os_m	Phosphatidylglycerophosphate (oryza sativa specific)
+M_pg_os_m	Phosphatidylglycerol (oryza sativa specific)
+M_clpn_os_m	Cardiolipin (oryza sativa specific)
+M_ps_os_r	Phosphatidylserine (oryza sativa specific)
+M_ps_os_m	Phosphatidylserine (oryza sativa specific)
+M_pe_os_m	phosphatidylethanolamine (oryza sativa specific)
+M_pc_os_s	Phosphatidylcholine (oryza sativa specific)
+M_mgdg_os_s	Monogalactosyl-diacylglycerol (oryza sativa specific)
+M_dgdg_os_s	Digalactosyl-diacylglycerol (oryza sativa specific)
+M_sq12dgr_os_s	Sulfoquinovosyldiacylglycerol (oryza sativa specific)
+M_3o2c2poct_x	8-[(1R,2R)-3-Oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate
+M_7ijas_x	7-Isojasmonoate
+M_jasval_c	jasmonoyl-valine
+M_jasile_c	jasmonoyl-isoleucine
+M_jasleu_c	jasmonoyl-leucine
+M_cer1_os_r	Dihydroceramide (oryza sativa specific)
+M_cer2_os_r	Phytoceramide (oryza sativa specific)
+M_cer3_os_r	Ceramide (oryza sativa specific)
+M_lipACP_m	Lipoyl-[acyl carrier protein]
+M_lipro_m	a non-lipoylated protein-lipoyl domain
+M_malACPme_c	malonyl-ACP methyl ester
+M_akgACPme_c	3-Ketoglutaryl-[acp] methyl ester
+M_hakgACPme_c	3-Hydroxyglutaryl-[acp] methyl ester
+M_egluACPme_c	Enoylglutaryl-[acp] methyl ester
+M_gluACPme_c	Glutaryl-[acp] methyl ester
+M_kpimACPme_c	3-Ketopimeloyl-[acp] methyl ester
+M_hpimACPme_c	3-Hydroxypimeloyl-[acp] methyl ester
+M_epimACPme_c	Enoylpimeloyl-[acp] methyl ester
+M_pimACPme_c	Pimelyl-[acyl-carrier protein] methyl ester
+M_pimACP_c	Pimeloyl-[acyl-carrier protein]
+M_G00003_c	(GlcNAc)2 (Man)1 (PP-Dol)1
+M_G00004_c	(GlcNAc)2 (Man)2 (PP-Dol)1
+M_G00005_c	(GlcNAc)2 (Man)3 (PP-Dol)1
+M_G10526_c	(GlcNAc)2 (Man)4 (PP-Dol)1
+M_G00006_c	(GlcNAc)2 (Man)5 (PP-Dol)1
+M_G10595_c	(GlcNAc)2 (Man)6 (PP-Dol)1
+M_G10596_c	(GlcNAc)2 (Man)7 (PP-Dol)1
+M_G10597_c	(GlcNAc)2 (Man)8 (PP-Dol)1
+M_G00007_c	(GlcNAc)2 (Man)9 (PP-Dol)1
+M_G10598_c	(Glc)1 (GlcNAc)2 (Man)9 (PP-Dol)1
+M_G10599_c	(Glc)2 (GlcNAc)2 (Man)9 (PP-Dol)1
+M_G00008_c	(Glc)3 (GlcNAc)2 (Man)9 (PP-Dol)1
+M_Asn_DASH_X_DASH_Ser_DASH_FSLASH_DASH_Thr_c	protein-linked asparagine residue (N-glycosylation site)
+M_G00009_c	(Glc)3 (GlcNAc)2 (Man)9 (Asn)1
+M_G00171_c	(Glc)2 (GlcNAc)2 (Man)9 (Asn)1
+M_G00010_c	(Glc)1 (GlcNAc)2 (Man)9 (Asn)1
+M_G00011_c	(GlcNAc)2 (Man)9 (Asn)1
+M_G00012_c	(GlcNAc)2 (Man)5 (Asn)1
+M_G00013_c	(GlcNAc)3 (Man)5 (Asn)1
+M_G00014_c	(GlcNAc)3 (Man)3 (Asn)1
+M_G00015_c	(GlcNAc)4 (Man)3 (Asn)1
+M_G00019_c	(GlcNAc)5 (Man)3 (Asn)1
+M_G00179_c	(GlcNAc)4 (Man)3 (Xyl)1 (Asn)1
+M_G13056_c	(GlcNAc)4 (LFuc)1 (Man)3 (Xyl)1 (Asn)1
+M_G00143_c	(GlcNAc)1 (Ino-P)1
+M_G00144_c	(GlcN)1 (Ino-P)1
+M_G00145_c	(GlcN)1 (Ino(acyl)-P)1
+M_G00146_c	(GlcN)1 (Ino(acyl)-P)1 (Man)1
+M_pe_os_c	Phosphatidylethanolamine (oryza sativa specific)
+M_G00147_c	(GlcN)1 (Ino(acyl)-P)1 (Man)1 (EtN)1 (P)1
+M_G00148_c	(GlcN)1 (Ino(acyl)-P)1 (Man)2 (EtN)1 (P)1
+M_G00149_c	(GlcN)1 (Ino(acyl)-P)1 (Man)3 (EtN)1 (P)1
+M_G13044_c	(GlcN)1 (Ino(acyl)-P)1 (Man)3 (EtN)2 (P)2
+M_G13045_c	(GlcN)1 (Ino(acyl)-P)1 (Man)3 (EtN)2 (P)2 (protein)1
+M_iorntn2gcoum_c	Isoorientin-2-(6-coumaroyl)-O-glucoside
+M_iscprn2gcoum_c	Isoscoparin-2-O-(6-coumaroyl)-glucoside
+M_iscprn2gfer_c	Isoscoparin-2-O-(6-feruloyl)-glucoside
+M_ivtxn2gfer_c	Isovitexin-2-O-(6-feruloyl)-glucoside
+M_o2_u	o2[u]
+M_mcfer_c	24-methylenecycloartanyl ferulate
+M_cyartfer_c	Cycloartenyl ferulate
+M_campstfer_c	campesteryl ferulate
+M_sitstfer_c	sitosteryl ferulate
+M_ga98_c	Gibberallin A 98
+M_cdpdag_os_c	CDP-diacylglycerol (oryza sativa specific)
+M_ptd1ino_os_m	1-Phosphatidyl-D-myo-inositol (oryza sativa specific)
+M_ps_os_c	Phosphatidylserine (oryza sativa specific)
+M_pgp_os_c	Phosphatidylglycerophosphate (oryza sativa specific)
+M_pc_os_c	Phosphatidylcholine (oryza sativa specific)
+M_pc_os_m	Phosphatidylcholine (oryza sativa specific)

@@ -1,0 +1,2 @@
+Repository ID	Model ID	Reaction in Repository
+rxn03147	R_PRAISs	R_ADE1s

@@ -1,0 +1,18 @@
+Repository ID	Model ID	Reaction in Repository
+rxn00241	reac_153	reac_152
+rxn00062	reac_203	reac_151
+rxn00543	reac_226	reac_225
+rxn03003	reac_236	reac_158
+rxn00062	ATPase	reac_151
+rxn00836	reac_548	reac_547
+rxn02529	reac_776	reac_166
+rxn17983	reac_851	reac_146
+rxn00168	reac_1076	reac_744
+rxn00616	reac_1105	reac_477
+rxn02251	reac_1363	reac_292
+rxn01297	reac_1400	reac_1173
+rxn26498	reac_1401	reac_725
+rxn23925	reac_1430	reac_954
+rxn23924	reac_1431	reac_953
+rxn03911	reac_1435	reac_40
+rxn00527	reac_1630	reac_1628

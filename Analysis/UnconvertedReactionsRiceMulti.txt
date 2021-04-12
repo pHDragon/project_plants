@@ -1,0 +1,1571 @@
+R_Coleoptile_Biomass	Coleoptile Biomass reaction
+R_Straw_Biomass	Straw Biomass reaction
+R_ACCOAC_OSAc	Acyl-CoA (Aerobic composition)
+R_ACCOAC_OSAr	Acyl-CoA (Aerobic composition)
+R_ACPC_OSs	ACP(Aerobic composition)
+R_ACPC_OSm	ACP(Aerobic composition)
+R_FAC_Osc	Fatty acid (Aerobic composition)
+R_FAC_Osr	Fatty acid (Aerobic composition)
+R_EX_co2_LPAREN_e_RPAREN_	CO2 exchange
+R_EX_h2o_LPAREN_e_RPAREN_	H2O exchange
+R_EX_h_LPAREN_e_RPAREN_	H+ exchange
+R_EX_no3_LPAREN_e_RPAREN_	nitrate exchange
+R_EX_o2_LPAREN_e_RPAREN_	O2 exchange
+R_EX_pi_LPAREN_e_RPAREN_	Phosphate exchange
+R_EX_sucr_LPAREN_e_RPAREN_	Sucrose exchange
+R_EX_fru_DASH_B_LPAREN_e_RPAREN_	Fructose exchange
+R_EX_glc_DASH_A_LPAREN_e_RPAREN_	Glucose exchange
+R_EX_so4_LPAREN_e_RPAREN_	Sulfate exchange
+R_EX_hco3_LPAREN_e_RPAREN_	Bicarbonate exchange
+R_EX_so3_LPAREN_e_RPAREN_	Sulfite exchange
+R_EX_h2s_LPAREN_e_RPAREN_	Hydrogen sulfide exchange
+R_EX_nh4_LPAREN_e_RPAREN_	Ammonia exchange
+R_EX_asn_DASH_L_LPAREN_e_RPAREN_	L-Asparagine exchange
+R_EX_gln_DASH_L_LPAREN_e_RPAREN_	L-Glutamine exchange
+R_EX_etoh_LPAREN_e_RPAREN_	Ethanol exchange
+R_EX_ac_LPAREN_e_RPAREN_	Acetate exchange
+R_EX_lac_DASH_L_LPAREN_e_RPAREN_	L-Lactate exchange
+R_EX_tsul_LPAREN_e_RPAREN_	Thiosulfate exchange
+R_EX_fe2_LPAREN_e_RPAREN_	Fe2+ exchange
+R_EX_fe3_LPAREN_e_RPAREN_	Fe3+ exchange
+R_EX_mg2_LPAREN_e_RPAREN_	Magnesium exchange
+R_EX_ala_DASH_L_LPAREN_e_RPAREN_	L-Alanine exchange
+R_EX_arg_DASH_L_LPAREN_e_RPAREN_	L-Arginine exchange
+R_EX_asp_DASH_L_LPAREN_e_RPAREN_	L-Aspartate exchange
+R_EX_cys_DASH_L_LPAREN_e_RPAREN_	L-Cysteine exchange
+R_EX_glu_DASH_L_LPAREN_e_RPAREN_	L-Glutamate exchange
+R_EX_gly_LPAREN_e_RPAREN_	Glycine exchange
+R_EX_his_DASH_L_LPAREN_e_RPAREN_	L-Histidine exchange
+R_EX_ile_DASH_L_LPAREN_e_RPAREN_	L-Isoleucine exchange
+R_EX_leu_DASH_L_LPAREN_e_RPAREN_	L-Leucine exchange
+R_EX_lys_DASH_L_LPAREN_e_RPAREN_	L-Lysine exchange
+R_EX_met_DASH_L_LPAREN_e_RPAREN_	L-Methionine exchange
+R_EX_phe_DASH_L_LPAREN_e_RPAREN_	L-Phenylalanine exchange
+R_EX_pro_DASH_L_LPAREN_e_RPAREN_	L-Proline exchange
+R_EX_ser_DASH_L_LPAREN_e_RPAREN_	L-Serine exchange
+R_EX_thr_DASH_L_LPAREN_e_RPAREN_	L-Threonine exchange
+R_EX_trp_DASH_L_LPAREN_e_RPAREN_	L-Tryptophan exchange
+R_EX_tyr_DASH_L_LPAREN_e_RPAREN_	L-Tyrosine exchange
+R_EX_val_DASH_L_LPAREN_e_RPAREN_	L-Valine exchange
+R_EX_photonVis_LPAREN_e_RPAREN_	photon emission
+R_PRISM_blue_LED	spectral decomposition of blue LED (450  nm)
+R_PRISM_red_LED	spectral decomposition of red LED (660  nm)
+R_PRISM_green_LED	spectral decomposition of red LED (530  nm)
+R_RPSI_410_LPAREN_u_RPAREN_	Photosystem I 410 specific reaction
+R_RPSI_430_LPAREN_u_RPAREN_	Photosystem I 430 specific reaction
+R_RPSI_450_LPAREN_u_RPAREN_	Photosystem I 450 specific reaction
+R_RPSI_470_LPAREN_u_RPAREN_	Photosystem I 470 specific reaction
+R_RPSI_490_LPAREN_u_RPAREN_	Photosystem I 490 specific reaction
+R_RPSI_510_LPAREN_u_RPAREN_	Photosystem I 510 specific reaction
+R_RPSI_530_LPAREN_u_RPAREN_	Photosystem I 530 specific reaction
+R_RPSI_550_LPAREN_u_RPAREN_	Photosystem I 550 specific reaction
+R_RPSI_570_LPAREN_u_RPAREN_	Photosystem I 570 specific reaction
+R_RPSI_590_LPAREN_u_RPAREN_	Photosystem I 590 specific reaction
+R_RPSI_610_LPAREN_u_RPAREN_	Photosystem I 610 specific reaction
+R_RPSI_630_LPAREN_u_RPAREN_	Photosystem I 630 specific reaction
+R_RPSI_650_LPAREN_u_RPAREN_	Photosystem I 630 specific reaction
+R_RPSI_670_LPAREN_u_RPAREN_	Photosystem I 670 specific reaction
+R_RPSI_690_LPAREN_u_RPAREN_	Photosystem I 690 specific reaction
+R_RPSII_410_LPAREN_u_RPAREN_	Photosystem II 410 specific reaction
+R_RPSII_430_LPAREN_u_RPAREN_	Photosystem II 430 specific reaction
+R_RPSII_450_LPAREN_u_RPAREN_	Photosystem II 450 specific reaction
+R_RPSII_470_LPAREN_u_RPAREN_	Photosystem II 470 specific reaction
+R_RPSII_490_LPAREN_u_RPAREN_	Photosystem II 490 specific reaction
+R_RPSII_510_LPAREN_u_RPAREN_	Photosystem II 510 specific reaction
+R_RPSII_530_LPAREN_u_RPAREN_	Photosystem II 530 specific reaction
+R_RPSII_550_LPAREN_u_RPAREN_	Photosystem II 550 specific reaction
+R_RPSII_570_LPAREN_u_RPAREN_	Photosystem II 570 specific reaction
+R_RPSII_590_LPAREN_u_RPAREN_	Photosystem II 590 specific reaction
+R_RPSII_610_LPAREN_u_RPAREN_	Photosystem II 610 specific reaction
+R_RPSII_630_LPAREN_u_RPAREN_	Photosystem II 630 specific reaction
+R_RPSII_650_LPAREN_u_RPAREN_	Photosystem II 630 specific reaction
+R_RPSII_670_LPAREN_u_RPAREN_	Photosystem II 670 specific reaction
+R_RPSII_690_LPAREN_u_RPAREN_	Photosystem II 690 specific reaction
+R_CO2tex	CO2 transport (extracellular to cytosol)
+R_H2Otex	H2O transport (extracellular to cytosol)
+R_Htex	proton transport via diffusion (extracellular to cytosol)
+R_NO3tex	nitrate transport (extracellular to cytosol)
+R_O2tex	O2 transport in via diffusion (extracellular to cytosol)
+R_Pitex	PI transport in via diffusion (extracellular to cytosol)
+R_FRUtex	D-fructose transport via diffusion (extracellular to cytosol)
+R_GLCtex	glucose transport via diffusion (extracellular to cytosol)
+R_SO4tex	sulfate transport via diffusion (extracellular to cytosol)
+R_SO3tex	sulfite transport via diffusion (extracellular to cytosol)
+R_HCO3tex	bicarbonate transport via diffusion (extracellular to cytosol)
+R_H2Stex	hydrogen sulfide transport via diffusion (extracellular to cytosol)
+R_NH4tex	ammonia transport via diffusion (extracellular to cytosol)
+R_ASNtex	L-asparagine transport via diffusion (extracellular to cytosol)
+R_GLNtex	L-glutamine transport via diffusion (extracellular to cytosol)
+R_ETOHtex	ethanol transport via diffusion (extracellular to cytosol)
+R_ACtex	Acetate transport via diffusion (extracellular to cytosol)
+R_LACtex	L-lactate transport via diffusion (extracellular to cytosol)
+R_TSULtex	Thiosulfate transport via diffusion (extracellular to cytosol)
+R_FE2tex	Fe2+ transport via diffusion (extracellular to cytosol)
+R_FE3tex	Fe3+ transport via diffusion (extracellular to cytosol)
+R_MG2tex	Mg2 transport via diffusion (extracellular to cytosol)
+R_ALAtex	L-alanine transport via diffusion (extracellular to cytosol)
+R_ARGtex	L-arginine transport via diffusion (extracellular to cytosol)
+R_ASPtex	L-aspartate transport via diffusion (extracellular to cytosol)
+R_CYStex	L-cysteine transport via diffusion (extracellular to cytosol)
+R_GLUtex	L-glutamate transport via diffusion (extracellular to cytosol)
+R_GLYtex	Glycine transport via diffusion (extracellular to cytosol)
+R_HIStex	L-histidine transport via diffusion (extracellular to cytosol)
+R_ILEtex	L-isoleucine transport via diffusion (extracellular to cytosol)
+R_LEUtex	L-leucine transport via diffusion (extracellular to cytosol)
+R_LYStex	L-lysine transport via diffusion (extracellular to cytosol)
+R_METtex	L-methionine transport via diffusion (extracellular to cytosol)
+R_PHEtex	L-phenylalanine transport via diffusion (extracellular to cytosol)
+R_PROtex	L-proline transport via diffusion (extracellular to cytosol)
+R_SERtex	L-serine transport via diffusion (extracellular to cytosol)
+R_THRtex	L-threonine transport via diffusion (extracellular to cytosol)
+R_TRPtex	L-tryptophan transport via diffusion (extracellular to cytosol)
+R_TYRtex	L-tyrosine transport via diffusion (extracellular to cytosol)
+R_VALtex	L-valine transport via diffusion (extracellular to cytosol)
+R_PPASc	Soluble inorganic pyrophosphatase, cytosol
+R_PPASs	Soluble inorganic pyrophosphatase, plastidic
+R_PPASm	Soluble inorganic pyrophosphatase, mitochondrial
+R_PPASx	Soluble inorganic pyrophosphatase, peroxisomal
+R_PPASv	Soluble inorganic pyrophosphatase, vacuolar
+R_PPAIcxc	Membrane -bound H+-inorganic pyrophosphatase, peroxisomal
+R_PPAIcvc	Membrane -bound H+-inorganic pyrophosphatase, vacuolar
+R_APLs	Acetolactate synthase, plastidic
+R_APLm	Acetolactate synthase, mitochondrial
+R_GLUSfm	Glutamate synthase (ferredoxin), mitochondrial
+R_GLUSfs	Glutamate synthase (ferredoxin), plastidic
+R_RBPC2s	Ribulose-bisphosphate carboxylase (photorespiration, Vc/Vo=3/1)
+R_CYOO6m	Cytochrome c oxidase (complex IV)
+R_NO3Rm	Nitrate reductase (Ubiquinol-8), mitochondrial
+R_AOXm	Alternative oxidase
+R_GTHRc	Glutathione reductase (NADPH), cytosolic
+R_GTHRs	Glutathione reductase (NADPH), plastidic
+R_GTHRm	Glutathione reductase (NADPH), mitochondrial
+R_ATPAPc	Apyrase
+R_GAL1PUTc	galactose-1-phosphate uridylyltransferase
+R_URIKGc	uridine kinase (GTP), cytosolic
+R_URIKGs	uridine kinase (GTP), plastidic
+R_GTPCYTDPTc	GTP:cytidine 5-phosphotransferase, cytosolic
+R_GTPCYTDPTs	GTP:cytidine 5-phosphotransferase, plastidic
+R_DCTPDAc	deoxycytidine triphosphate deaminase
+R_CTPRc	ribonucleoside-triphosphate reductase (CTP)
+R_UTPRc	ribonucleoside-triphosphate reductase (UTP)
+R_ATPRc	ribonucleoside-triphosphate reductase (ATP)
+R_GTPRc	ribonucleoside-triphosphate reductase (GTP)
+R_DURIKc	ATP:deoxyuridine 5-phosphotransferase
+R_TMDKc	Thymidine kinase
+R_DGSNHc	Deoxyguanosine 5-phosphohydrolase, cytosolic
+R_DUMPc	2-Deoxyuridine 5-monophosphate phosphohydrolase
+R_UMPc	Uridine 5-monophosphate phosphohydrolase, cytosolic
+R_UMPs	Uridine 5-monophosphate phosphohydrolase, plastidic
+R_CTPSc	CTP synthetase
+R_DUMPKc	dUMP kinase 
+R_DCMPKc	dCMP kinase 
+R_CMPKc	CMP kinase, cytosolic
+R_CMPKs	CMP kinase, plastidic
+R_AMPPc	Adenosine 5-monophosphate phosphohydrolase
+R_PEPSs	PEP synthetase
+R_PDCm	pyruvate decarboxylase, mitochondrial
+R_PDCs	pyruvate decarboxylase, plastidic
+R_GDHym	Glutamate dehydrogenase (NADP+)
+R_PYR5CDm	1-pyrroline-5-carboxylate dehydrogenase (NAD), mitochondrial
+R_PYR5CDs	1-pyrroline-5-carboxylate dehydrogenase (NAD), plastidic
+R_PYR5CDym	1-pyrroline-5-carboxylate dehydrogenase (NADP), mitochondrial
+R_PYR5CDys	1-pyrroline-5-carboxylate dehydrogenase (NADP), plastidic
+R_ASPCLc	L-aspartate 1-carboxy-lyase (beta-alanine-forming)
+R_UPGCDc	UDP-glucose 6-dehydrogenase
+R_THAc	alpha,alpha-trehalase
+R_TPSc	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
+R_GLCNSc	1,3-beta-glucan synthase
+R_GLCNGBc	Glucan endo-1,3-beta-D-glucosidase
+R_GLCNGBv	Glucan endo-1,3-beta-D-glucosidase
+R_GLCNGAc	Glucan 1,3-beta-glucosidase
+R_GLCNGAv	Glucan 1,3-beta-glucosidase
+R_RAFFINSc	raffinose synthase
+R_ATDADc	ATP:dADP phosphotransferase
+R_OXAACc	oxaloacetase
+R_OXAODc	Oxaloacetate oxidase
+R_NADS_LPAREN_nh4_RPAREN_c	NAD(+) synthetase
+R_NADS_LPAREN_gln_DASH_L_RPAREN_c	NAD(+) synthetase (glutamine-hydrolysing)
+R_NADHKc	NADH kinase, cytosolic
+R_NADHKs	NADH kinase, plastidic
+R_NADHKm	NADH kinase, mitochondrial
+R_SUCL_LPAREN_GDP_RPAREN_m	Succinate--CoA ligase (GDP-forming)
+R_SUCL_LPAREN_ADP_RPAREN_m	Succinate--CoA ligase (ADP-forming)
+R_CTPCHc	GTP cyclohydrolase I
+R_AASADc	alpha-aminoadipate reductase
+R_SACCDyc	Saccharopine dehydrogenase (NADP+, L-lysine forming)
+R_SACCDc	Saccharopine dehydrogenase (NAD+, L-glutamate forming)
+R_PDHam1m	Pyruvate dehydrogenase (lipoamide) (reaction 1), mitochondrial
+R_PDHam2m	Pyruvate dehydrogenase (lipoamide) (reaction 2), mitochondrial
+R_PDHe2m	Dihydrolipoamide S-acetyltransferase, mitochondrial
+R_PDHe3m	dihydrolipoyl dehydrogenase, mitochondrial
+R_PDHam1s	Pyruvate dehydrogenase (lipoamide) (reaction 1), plastidic
+R_PDHam2s	Pyruvate dehydrogenase (lipoamide) (reaction 2), plastidic
+R_PDHe2s	Dihydrolipoamide S-acetyltransferase, plastidic
+R_PDHe3s	dihydrolipoyl dehydrogenase, plastidic
+R_AKGDHam1m	2-oxoglutarate dehydrogenase (lipoamide) (reaction 1), mitochondrial
+R_AKGDHam2m	2-oxoglutarate dehydrogenase (lipoamide) (reaction 2), mitochondrial
+R_AKGDHe2m	2-oxoglutarate dehydrogenase E2 component
+R_OXADH1m	2-oxoadipate dehydrogenase E1 component
+R_OXADH2m	2-oxoadipate dehydrogenase E2 component
+R_GOXx	glycolate oxidase
+R_AOBUTDx	(No enzyme)
+R_THR3DHx	L-threonine 3-dehydrogenase
+R_ASPALs	Aspartate--ammonia ligase
+R_ASPALc	Aspartate--ammonia ligase
+R_FDHNc	Formate dehydrogenase-N
+R_AMPORc	3-aminopropanal:NAD+ oxidoreductase
+R_ARG2MO	arginine 2-monooxygenase
+R_GABUTAHc	4-Guanidinobutanamide amidohydrolase
+R_GABUTNAHc	4-Guanidinobutanoate amidinohydrolase
+R_CYSTBSs	Cystathionine beta-synthase
+R_METSMTc	Methionine S-methyltransferase
+R_AMETAHYCSTc	S-adenosyl-L-methionine:L-histidine N-methyltransferase
+R_METLc	Methionine gamma-lyase
+R_ACHYSLc	O-Acetyl-L-homoserine acetate-lyase (adding methanethiol)
+R_AMCPCOc	aminocyclopropanecarboxylate oxidase
+R_TRPMOc	tryptophan N-monooxygenase
+R_IAOc	Indole-3-acetaldehyde oxidase
+R_TOORc	Tryptamine:oxygen oxidoreductase(deaminating)
+R_ALAADc	Aromatic-L-amino-acid decarboxylase
+R_IAOHLc	3-Indoleacetaldoxime hydro-lyase
+R_TRYPTORc	Tryptamine 5-hydroxylase
+R_TRP2MOc	Tryptophan 2-monooxygenase
+R_IAAGTc	indole-3-acetate beta-glucosyltransferase
+R_IAAINOSTc	IAA-myo-inositol synthase
+R_IAAIGSc	indol-3-ylacetyl-myo-inositol galactoside synthase
+R_IAAIASc	indol-3-ylacetyl-myo-inositol arabinoside synthase
+R_IAAALASc	indole-3-acetic acid amido synthetase (ala-L)
+R_IAALEUSc	indole-3-acetic acid amido synthetase (leu-L)
+R_IAAASPSc	indole-3-acetic acid amido synthetase (asp-L)
+R_IAAGLUSc	indole-3-acetic acid amido synthetase (glu-L)
+R_IAAGLNSc	indole-3-acetic acid amido synthetase (gln-L)
+R_IAAALAHc	IAA-amino acid conjugate hydrolase (iaa-ala)
+R_IAALEUHc	IAA-amino acid conjugate hydrolase (iaa-leu)
+R_IAAAMYHc	indole-3-acetyl-myo-inositol hydrolase
+R_LDH_Lc	L-lactate dehydrogenase
+R_MALCOADCc	Malonyl-CoA decarboxylase
+R_MALSADHm	malonate-semialdehyde dehydrogenase (acetylating)
+R_MALSADHym	malonate-semialdehyde dehydrogenase (acetylating)
+R_ICHDxm	Isocitrate dehydrogenase (NAD+)
+R_ACALDHc	acetaldehyde dehydrogenase, cytosolic
+R_ACALDHs	acetaldehyde dehydrogenase, plastidic
+R_ACALDHm	acetaldehyde dehydrogenase, mitochondrial
+R_GLYCRORc	Glycerol:NAD+ oxidoreductase
+R_GLYCORc	Glycerol:NADP+ oxidoreductase
+R_SSNOm	Succinate-semialdehyde dehydrogenase, mitochondrial
+R_TYRDCc	Tyrosine decarboxylase
+R_ARGDHTs	arogenate dehydratase
+R_ARGOAT1s	L-arogenate:oxaloacetate aminotransferase
+R_ARGOAT2s	L-arogenate:2-oxoglutarate aminotransferase
+R_ARGDHs	arogenate dehydrogenase
+R_ALCDx2c	alcohol dehydrogenase (NAD)
+R_BETALDDHc	Betaine-aldehyde dehydrogenase
+R_BETHCYSs	Betaine--homocysteine S-methyltransferase
+R_DMTGDHs	dimethylglycine dehydrogenase
+R_MTAMnh4m	Aminomethyltransferase
+R_ALCDx1c	alcohol dehydrogenase
+R_MANKINc	Hexokinase (D-mannose)
+R_MDHARc	Monodehydroascorbate reductase (NADH), cytosolic
+R_MDHARs	Monodehydroascorbate reductase (NADH), plastidic
+R_MDHARm	Monodehydroascorbate reductase (NADH), mitochondrial
+R_MDHARyc	Monodehydroascorbate reductase (NADPH), cytosolic
+R_MDHARys	Monodehydroascorbate reductase (NADPH), plastidic
+R_MDHARym	Monodehydroascorbate reductase (NADPH), mitochondrial
+R_ASCOXc	L-ascorbate oxidase
+R_ASCPO1c	L-ascorbate peroxidase (reaction 1), cytosolic
+R_ASCPO1s	L-ascorbate peroxidase (reaction 1), plastidic
+R_ASCPO2c	L-ascorbate peroxidase (reaction 2), cytosolic
+R_ASCPO2s	L-ascorbate peroxidase (reaction 2), plastidic
+R_GGT1v	gamma-glutamyltransferase (reaction 1)
+R_GGT2c	gamma-glutamyltransferase (reaction 2)
+R_GGLUCTc	gamma-glutamylcyclotransferase
+R_OPAHirc	 5-Oxoproline amidohydrolase (ATP-hydrolysing) (ir)
+R_CYSGLYv	cysteinylglycinase
+R_GTHDHc	Glutathione dehydrogenase (ascorbate), cytosolic
+R_GTHDHs	Glutathione dehydrogenase (ascorbate), plastidic
+R_GALLDHm	Galactonolactone dehydrogenase, mitochondrial
+R_GALDHc	L-galactose 1-dehydrogenase 
+R_GDPGPc	GDP-L-galactose phosphorylase
+R_GDPME1c	GDP-mannose 3,5-epimerase 
+R_GDPME3c	GDP-D-galactose:GDP-L-gulose epimerase
+R_FUCPGTc	fucose-1-phosphate guanylyltransferase 
+R_LACDHc	Lactaldehyde dehydrogenase
+R_FCPAc	L-fuculose-phosphate aldolase
+R_FCKc	L-fuculokinase
+R_FUKc	fucokinase 
+R_SPSc	Sucrose-phosphate synthase, cytosol
+R_SPSv	Sucrose-phosphate synthase, vacuolar
+R_PGI1c	Glucose-6-phosphate isomerase (g6p-A), cytoslic
+R_PGI1s	Glucose-6-phosphate isomerase (g6p-A), plastidic
+R_PGI2c	Glucose-6-phosphate isomerase (g6p-B), cytoslic
+R_PGI2s	Glucose-6-phosphate isomerase (g6p-B), plastidic
+R_INVc	Invertase, cytosolic
+R_INVv	Invertase, vacuolar
+R_SUSc	Sucrose synthase, cytosolic
+R_SUSv	Sucrose synthase, vacuolar
+R_MI3PSc	myo-inositol-1-phosphate synthase
+R_XYL2c	Xylose isomerase, cytosolic
+R_XYL2v	Xylose isomerase, vacuolar
+R_UDPACGEc	UDP-N-acetylglucosamine 4-epimerase
+R_GAMPTc	ATP:D-glucosamine 6-phosphotransferase
+R_GAMACTc	glucosamine acetyltransferase
+R_CAGHc	chitobiose N-acetylglucosaminohydrolase
+R_CHITNc	chitinase
+R_ACGAM2Ec	N-acetylglucosamine 2-epimerase
+R_UAG2EMAic	UDP-N-acetyl-D-glucosamine 2-epimerase (Hydrolysis)
+R_CMPSASc	CMP sialic acid synthase
+R_FKc	Fructokinase
+R_TSSTm	Thiosulfate sulfurtransferase
+R_TSSTs	Thiosulfate sulfurtransferase
+R_SOXs	sulfite oxidase
+R_3SPYRSPs	3-sulfinopyruvate hydrolase (spontaneous), plastidic
+R_3SPYRSPm	3-sulfinopyruvate hydrolase (spontaneous), mitochondrial
+R_LCYSTSs	cysteine dioxygenase, plastid
+R_LCYSTSm	cysteine dioxygenase, mitochondrial
+R_ALABATc	b-alanine-pyruvate aminotransferase
+R_FPGSc	folylpolyglutamate synthetase
+R_CALANc	beta-cyanoalanine nitrilase
+R_CALASc	beta-cyanoalanine synthetase
+R_MANITL	(R)-mandelonitrile lyase
+R_BG1c	beta-glucosidase (prunasin forming)
+R_BG2c	beta-glucosidase (amyloglucoside forming)
+R_FORMHLc	formamide hydro-lyase (cyanide-forming)
+R_SHMTs	Serine hydroxymethyltransferase, plastidic
+R_SHMTm	Serine hydroxymethyltransferase, mitochondrial
+R_MLTHFRc	methylenetetrahydrofolate reductase, cytosolic
+R_MLTHFRs	methylenetetrahydrofolate reductase, plastidic
+R_MLTHFR_Fs	methylenetetrahydrofolate reductase (ferredoxin), cytosolic
+R_MLTHFR_Fc	methylenetetrahydrofolate reductase (ferredoxin), plastidic
+R_GLPATs	Glucose-1-phosphate adenylyltransferase
+R_RIBFKc	Riboflavin kinase
+R_GAPDHys	Glyceraldehyde-3-phosphate dehydrogenase (NADP+), plastidic
+R_GAPDH1c	Glyceraldehyde-3-phosphate dehydrogenase (NAD+), cytsolic
+R_GAPDH2s	Glyceraldehyde-3-phosphate dehydrogenase (NAD+), plastidic
+R_GAPDHc	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating), cytosolic
+R_GAPDH1ys	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating), plastidic
+R_KHKc	ketohexokinase
+R_FALDTKc	Formaldehyde transketolase, cytosolic
+R_FALDTKs	Formaldehyde transketolase, plastidic
+R_GLYCNKc	Glycerone kinase, cytsosolic
+R_GLYCNKs	Glycerone kinase, plastidic
+R_ADSALc	Adenylosuccinate lyase, cytosolic
+R_ADSALs	Adenylosuccinate lyase, plastidic
+R_ARGSL1c	Argininosuccinate lyase
+R_LATs	L-leucine aminotransferase, plastidic
+R_LATm	L-leucine aminotransferase, cytosolic
+R_GSNPc	guanosine phosphorylase
+R_ADNPc	adenosine phosphorylase
+R_INSPc	inosine phosphorylase
+R_IMPc	Inosine 5-monophosphate phosphohydrolase
+R_GMPS1c	GMP synthetase
+R_GDKc	Guanylate kinase
+R_DGDTc	2-Deoxyadenosine 5-diphosphate (GDP):oxidized-thioredoxin 2-oxidoreductase
+R_DADTc	2-Deoxyadenosine 5-diphosphate (ADP):oxidized-thioredoxin 2-oxidoreductase
+R_PI45PLCc	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase
+R_PI5P4Kc	1-phosphatidylinositol-5-phosphate 4-kinase
+R_PI4P5Kc	1-phosphatidylinositol-4-phosphate kinase
+R_PIK4c	1-phosphatidylinositol 4-kinase
+R_PIK3c	1-phosphatidylinositol 3-kinase
+R_PI3P5Kc	1-phosphatidylinositol-3-phosphate 5-kinase
+R_MI34Pc	Inositol-3-phosphate 4-kinase
+R_MI346Pc	Inositol-3,4-diphosphate 6-kinase
+R_MI3456Pc	Inositol-3,4,6-triphosphate 5-kinase
+R_MI14PPc	D-myo-Inositol-1,4-bisphosphate 1-phosphohydrolase
+R_MI134PPc	D-myo-Inositol 1,3,4-trisphosphate 1-phosphohydrolase
+R_MI145PPc	Inositol-1,4,5-trisphosphate 5-phosphatase
+R_MI1456PKc	inositol-polyphosphate multikinase 
+R_MI145PKc	1D-myo-inositol-trisphosphate 3-kinase
+R_MI134PK1c	Inositol-1,3,4-trisphosphate 5/6-kinase 1
+R_MI134PK2c	Inositol-1,3,4-trisphosphate 5/6-kinase 2
+R_MI1346PK1c	inositol-tetrakisphosphate 5-kinase
+R_MI1346PK2c	inositol-tetrakisphosphate 5-kinase
+R_IPKK2c	Inositol-pentakisphosphate 2-kinase
+R_IPKK5c	Inositol-pentakisphosphate 5-kinase
+R_IPKK4c	Inositol-pentakisphosphate 4-kinase
+R_IPKK6c	Inositol-pentakisphosphate 6-kinase
+R_PHYTASEc	6-phytase
+R_MIHPPc	myo-inositol-hexakisphosphate 4-phosphohydrolase
+R_MI1345PPc	inositol (1,3,4,5)-tetrakisphosphate 3-phosphatase
+R_MI1345PP2c	D-myo-inositol(1,4,5)/(1,3,4,5)-polyphosphate 5-phosphatase
+R_DHAD_DASH_bs	Dihydroxy-acid dehydratase
+R_GCOADx	glutaryl-CoA degradation
+R_GCOADCx	Glutaconyl-CoA decarboxylase
+R_MCDH1m	2-methylacyl-CoA dehydrogenase
+R_ECH1m	Enoyl-CoA hydratase
+R_VALATs	L-valine aminotransferase, plastidic
+R_VALATm	L-valine aminotransferase, mitochondrial
+R_MTHFDym	Methylenetetrahydrofolate dehydrogenase (NADP+)
+R_MTHFDys	Methylenetetrahydrofolate dehydrogenase (NADP+)
+R_MTHFDyc	Methylenetetrahydrofolate dehydrogenase (NADP+)
+R_GMPc	Guanosine 5-monophosphate phosphohydrolase
+R_GNSKc	Guanosine 5-phosphotransferase
+R_DAD2DAc	Deoxyadenosine aminohydrolase
+R_DGSNPP	Deoxyguanosine phosphorylase
+R_DINSPc	Deoxyinosine:orthophosphate ribosyltransferase
+R_DAD2NPc	Deoxyadenosine:orthophosphate ribosyltransferase
+R_ADNRHc	Adenosine ribohydrolase
+R_PPPGPPPc	guanosine-5-triphosphate, 3-diphosphate pyrophosphatase
+R_PRODHm	Proline dehydrogenase
+R_P5CRyc	Pyrroline-5-carboxylate reductase (NADPH), cytosolic
+R_P5CRys	Pyrroline-5-carboxylate reductase (NADPH), plastidic
+R_CYSTALs	Cystathionine beta-lyase
+R_GLCRPUic	Glucuronate-1-phosphate uridylyltransferase
+R_XYLXYLc	xylan 1,4-beta-xylosidase
+R_XSc	1,4-beta-D-xylan synthase
+R_UG46DHc	UDP-glucose 4,6-dehydratase
+R_PECTNc	Pectinesterase
+R_UDDGEc	UDP-4-dehydro-6-deoxy-glucose 3,5-epimerase
+R_URMNORc	UDP-L-rhamnose:NADP+ 4-oxidoreductase
+R_HPRs	Hydroxypyruvate reductase (NAD), plastidic
+R_HPRx	Hydroxypyruvate reductase (NAD), peroxisomal
+R_HPRys	Hydroxypyruvate reductase (NADP), plastidic
+R_HPRyx	Hydroxypyruvate reductase (NADP), peroxisomal
+R_ASPCT1c	Aspartate carbamoyltransferase (asp-L)
+R_UTPUc	UTP-monosaccharide-1-phosphate uridylyltransferase
+R_GLCURKc	Glucuronokinase
+R_GLYK1s	Glycerate kinase (3-PG)
+R_GLYK2s	Glycerate kinase (2-PG)
+R_G6PEc	glucose-6-phosphate 1-epimerase, cytosolic
+R_G6PEs	glucose-6-phosphate 1-epimerase, plastidic
+R_GLNKc	Gluconokinase, cytosolic
+R_GLNKs	Gluconokinase, plastidic
+R_XYLIc	Xylose isomerase
+R_3HPPDc	3-hydroxypropionate dehydrogenase
+R_ABTA1m	4-aminobutyrate aminotransferase (GABA-TK)
+R_ABTA2m	4-aminobutyrate aminotransferase (GABA-TP)
+R_GSNRHc	Guanosine ribohydrolase
+R_HXANORc	hypoxanthine oxidoreductase
+R_INSRHc	Inosine ribohydrolase
+R_HOMATs	Homoserine O-acetyltransferase
+R_HOMSTs	Homoserine O-succinyltransferase
+R_HSDHys	Homoserine dehydrogenase (NADPH)
+R_BAMYLs	beta-amylase 
+R_GGSs	Glucan 1,4-alpha-glucosidase
+R_MGHs	maltose glucohydrolase
+R_SPPAs	starch phosphorylase
+R_ACONc	Aconitase, cytosolic
+R_ACONm	Aconitase, mitochondrial
+R_PFPc	Diphosphate--fructose-6-phosphate 1-phosphotransferase
+R_AGSs	Amylo-1,6-glucosidase
+R_XTSNPc	Xanthosine phosphorylase
+R_XSTNRHc	Xanthosine ribohydrolase
+R_GSNDc	Guanosine deaminase
+R_CYORm	Q-cytochrome c oxidoreductase (complex III)
+R_NADORm	NADH-coenzyme Q oxidoreductase (complex I)
+R_PTOXs	Plastid terminal oxidase
+R_NADOR1u	NAD(P)H-dehydrogenase (complex I-like)
+R_SUCDH1m	Succinate-Q oxidoreductase (complex II)
+R_BCTA3s	Branched-chain amino acid (ile-L) aminotransferase, plastidic
+R_BCTA3m	Branched-chain amino acid (ile-L) aminotransferase, mitochondrial
+R_PRPNCOAHYDm	3-hydroxyacyl-CoA dehydrogenase
+R_XMPc	Xanthosine 5-phosphate phosphohydrolase
+R_CELLBGc	cellobiose beta-glucosidase
+R_CELLc	cellulase
+R_CELLSc	Cellulose synthase (UDP-forming)
+R_HDAHs	Histidinal dehydrogenase
+R_KARAm	Ketol-acid reductoisomerase, mitochondrial
+R_KARAs	Ketol-acid reductoisomerase, plastidic
+R_3HPCOAHYDc	3-hydroxyisobutyryl-CoA hydrolase
+R_PYDMPATc	Pyridoxamine--pyruvate aminotransferase
+R_PYDXNSc	Pyridoxine synthase
+R_DHNPTAc	Dihydroneopterin aldolase
+R_DHPRys	Dihydrodipicolinate reductase
+R_TMMPKs	thiamin-monophosphate kinase
+R_HMPKs	Hydroxymethylpyrimidine kinase
+R_THMKs	Thiamine kinase
+R_THICs	thiamine biosynthesis protein (ThiC)
+R_THZPSN3s	thiazole phosphate synthesis
+R_TYRLs	tyrosine lyase
+R_ICYSDSs	ISC Cysteine desulfuration
+R_FGFTs	N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide formyltransferase, chloroplast
+R_PPCOAOc	Propanoyl-CoA:(acceptor) 2,3-oxidoreductase
+R_FGFTm	N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide formyltransferase, mitochondria
+R_DHAD_DASH_ps	Dihydroxy-acid dehydratase
+R_GLDPs	4-alpha-glucanotransferase
+R_ASRGs	Adenylyl-sulfate reductase (glutathione)
+R_AAs	alpha-amylase
+R_PHETAs	L-phenylalanine transferase, plastidic
+R_PHETAc	L-phenylalanine transferase, cytosolic
+R_ALCD25c	Phenylethylalcohol:NAD+ oxidoreductase
+R_MCDH2m	2-methyl-branched-chain-enoyl-CoA reductase 
+R_ECH2m	Tiglyl-CoA hydratase 
+R_CYSTS_Gs	Cystathionine gamma-synthase
+R_DHRDHm	Dihydroorotate dehydrogenase
+R_PHENH4Lc	Phenylalanine ammonia-lyase
+R_TYRNH4Lc	Tyrosine ammonia-lyase
+R_COUMCOARc	4-coumaryl-CoA reductase
+R_COUMCOALc	4-coumarate--CoA ligase
+R_CAFFCMTc	Caffeoyl-CoA O-methyltransferase
+R_CAFFQTc	Caffeoyl-CoA:quinate O-(3,4-dihydroxycinnamoyl)transferase
+R_FERCOARc	feruloyl-CoA reductase
+R_TCMO4c	Trans-cinnamate 4-monooxygenase
+R_TCMO2c	Trans-cinnamate 2-monooxygenase
+R_SKMHCTc	Shikimate O-hydroxycinnamoyltransferase
+R_CONOHDHc	coniferyl-alcohol dehydrogenase
+R_SINOHDHc	sinapyl-alcohol dehydrogenase
+R_COUMQMOc	coumaroylquinate 3-monooxygenase
+R_FERH2c	ferulate 5-hydroxylase
+R_CONCMTc	S-adenosyl-L-methionine:3,4-dihydroxy-trans-cinnamate 3-O-methyltransferase
+R_COUMSKMMOc	coumaroylshikimate 3-monooxygenase
+R_COUMCQHc	p-coumaroyl-CoA:quinate hydroxycinnamoyltransferase
+R_HCCSHCTc	Hydroxycinnamoyl-CoA:shikimate hydroxycinnamoyltransferase
+R_COUMOHDHc	4-coumaryl-alcohol dehydrogenase
+R_CINNCOARc	Cinnamoyl-CoA reductase 
+R_CINNCOALc	cinnamate:CoA ligase
+R_CINNALDOc	cinnamaldehyde oxidase
+R_CINNOHDHc	cinnamyl-alcohol dehydrogenase
+R_TFCOASc	trans-feruloyl-CoA synthase
+R_COUMGUTFc	2-coumarate O-beta-glucosyltransferase
+R_COUMGUIc	2-coumarate beta-D-glucoside isomerase
+R_EBGLCSc	exo-beta-glucanse
+R_COUMNSc	coumarin synthase
+R_COUMHYc	4-coumaroyl 2-hydroxylase
+R_UMBLFSc	umbelliferone biosynthesis 
+R_PRENTc	prenyltransferase
+R_MARMSc	marmesin synthase
+R_PSORSc	psoralen synthase
+R_PSORMOc	psoralen 5-monooxygenase
+R_BGPTLMTc	bergaptol O-methyltransferase
+R_PINCAOc	Pinocembrin,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)
+R_MALCINNMTc	malonyl-CoA:cinnamoyl-CoA malonyltransferase (cyclizing)
+R_PINCLc	Pinocembrin chalcone lyase (decyclizing)
+R_NRGNDOc	Naringenin 3-dioxygenase
+R_DCHALSc	6-deoxychalcone synthase 
+R_NRGCSc	Naringenin-chalcone synthase
+R_CHALIc	Chalcone isomerase
+R_NRGNAORc	naringenin 2-oxoglutarate oxygen oxidoreductase
+R_NRGNNORc	naingenin, NADPH:oxygen osidoreductase
+R_APG3Hc	apigenin 3-hydroxylase
+R_ERDTLHc	eriodictyol 2-hydroxylase
+R_2HEDBTSc	2-hydroxyeriodictyol dibenzoylmethane tautomer synthase
+R_2HEDBT6GTc	2-hydroxyeriodictyol dibenzoylmethane tautomer 6C-glucosyltransferase
+R_2HEDGDHc	2-hydroxyeriodictyol-C-glucoside dehydratase
+R_2HEDBT8GTc	2-hydroxyeriodictyol dibenzoylmethane tautomer 8C-glucosyltransferase
+R_ORNTNSc	orientin synthase (spontaneous)
+R_NRGNHc	naringenin 2-hydroxylase
+R_2HNDBTSc	2-hydroxynaringenin dibenzoylmethane tautomer synthase
+R_2HNDBT6GTc	2-hydroxynaringenin dibenzoylmethane tautomer 6C-glucosyltransferase
+R_2HNDGDHc	2-hydroxynaringenin-C-glucoside dehydratase
+R_2HNDBT8GTc	2-hydroxynaringenin dibenzoylmethane tautomer 8C-glucosyltransferase
+R_VTXNSc	vitexin synthase (spontaneous)
+R_ISVTXNGTc	isovitexin beta-glucosyltransferase
+R_IORNTNMTc	isoorientin 3-methyltransferase
+R_ISCPRNGTc	Isoscoparin beta-glucosyltransferase
+R_IORNTNGTc	Isoorientin beta-glucosyltransferase
+R_TRICINGTc	Tricin beta-glucosyltransferase
+R_LTLNHOc	luteolin 3-hydroxylase
+R_TRICINS1c	tricin synthase 1
+R_TRICINS2c	tricin synthase 2
+R_ISQTGNLc	Isoliquiritigenin lyase (decyclizing)
+R_LQTGN6Hc	Liquiritigenin 6-hydroxylase
+R_NRGNMOc	Naringenin 3-monooxygenase
+R_DHKFORc	Dihydrokaempferol,2-oxoglutarate:oxygen oxidoreductase
+R_DHQORc	Dihydroquercetin,2-oxoglutarate:oxygen oxidoreductase
+R_DHKMOc	Dihydrokaempferol 3-monooxygenase
+R_KMPFLMOc	Kaempferol 3-monooxygenase
+R_QRCTNGLT3c	Quercetin 3-O-glucosyltransferase
+R_KMPFLGLT3c	Kaempferol 3-O-glucosyltransferase
+R_DHKRc	dihydrokaempferol 4-reductase
+R_LCYCORc	leucocyanidin:NADP+ 4-oxidoreductase
+R_ERYORc	Eriodictyol 2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)
+R_LPLGRc	leucopelargonidin reductase
+R_LCYCRc	leucoanthocyanidin reductase 
+R_LPLGDOc	leucopelargonidin dioxygenase
+R_PNGLTc	Pelargonidin 3-O-glucosyltransferase
+R_PLGNRc	Pelargonidin reductase
+R_CNDNRc	Cyanidin reductase
+R_CNDNGLTc	Cyanidin 3-O-glucosyltransferase
+R_CNDNGLT5c	Cyanidin 5-O-glucosyltransferase
+R_CNDNG3Gc	Cyanidin 5-O-glucoside: 3-O-glucosyltransferase
+R_CNDNG5Gc	Cyanidin 3-O-glucoside: 5-O-glucosyltransferase
+R_LCYCDOc	Leucoanthocyanidin dioxygenase
+R_CHLOR410s	chlorophyllide-a:NADP+ oxidoreductase (photon410)
+R_CHLOR430s	chlorophyllide-a:NADP+ oxidoreductase (photon430)
+R_CHLOR450s	chlorophyllide-a:NADP+ oxidoreductase (photon450)
+R_CHLOR470s	chlorophyllide-a:NADP+ oxidoreductase (photon470)
+R_CHLOR490s	chlorophyllide-a:NADP+ oxidoreductase (photon490)
+R_CHLOR510s	chlorophyllide-a:NADP+ oxidoreductase (photon510)
+R_CHLOR530s	chlorophyllide-a:NADP+ oxidoreductase (photon530)
+R_CHLOR550s	chlorophyllide-a:NADP+ oxidoreductase (photon550)
+R_CHLOR570s	chlorophyllide-a:NADP+ oxidoreductase (photon570)
+R_CHLOR590s	chlorophyllide-a:NADP+ oxidoreductase (photon590)
+R_CHLOR610s	chlorophyllide-a:NADP+ oxidoreductase (photon610)
+R_CHLOR630s	chlorophyllide-a:NADP+ oxidoreductase (photon630)
+R_CHLOR650s	chlorophyllide-a:NADP+ oxidoreductase (photon650)
+R_CHLOR670s	chlorophyllide-a:NADP+ oxidoreductase (photon670)
+R_CHLOR690s	chlorophyllide-a:NADP+ oxidoreductase (photon690)
+R_DVCHLOR410s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon410)
+R_DVCHLOR430s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon430)
+R_DVCHLOR450s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon450)
+R_DVCHLOR470s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon470)
+R_DVCHLOR490s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon490)
+R_DVCHLOR510s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon510)
+R_DVCHLOR530s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon530)
+R_DVCHLOR550s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon550)
+R_DVCHLOR570s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon570)
+R_DVCHLOR590s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon590)
+R_DVCHLOR610s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon610)
+R_DVCHLOR630s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon630)
+R_DVCHLOR650s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon650)
+R_DVCHLOR670s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon670)
+R_DVCHLOR690s	divinyl chlorophyllide-a:NADP+ oxidoreductase (photon690)
+R_MGCHLs	Magnesium chelatase
+R_FCRs	Ferric-chelate reductase
+R_HEMELs	heme c ligase (chloroplast)
+R_HEMELm	heme c ligase (mitochondria)
+R_CHLBSEs	Chlorophyllase
+R_CHLBSNs	chlorophyll synthase 
+R_CHLAOs	chlorophyllide-a oxygenase (CHLA)
+R_CHLASNs	chlorophyll synthase 
+R_FRDPFTm	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase
+R_CHORLm	chorismate lyase
+R_HBZOPT8m	4-hydroxybenzoate octaprenyltransferase
+R_3OPHBH2m	Hydroxylation of 3-Decaprenyl-4-hydroxybenzoate (NADPH)
+R_3OPHBH1m	Hydroxylation of 3-Decaprenyl-4-hydroxybenzoate (NADPH)
+R_DHOPBMTm	dihydroxydecaprenylbenzoate methyltransferase
+R_OPHMBDCm	3-Decaprenyl-4-hydroxy-5-methoxybenzoate  decarboxylation
+R_COQ7m	Ubiquinone biosynthesis COQ7
+R_DHNCOASs	1,4-dihydroxy-2-naphthoyl-CoA synthase 
+R_DHNCOAHs	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+R_ICHORMs	Isochorismate mutase
+R_2SBZCOALs	o-succinylbenzoate-CoA ligase
+R_SBZSs	o-succinylbenzoate synthase
+R_DHNPPTs	1,4-dihydroxy-2-naphthoate polyprenyltransferase
+R_DMPPTs	demethylphylloquinone phytyltransferase
+R_DHNOPTs	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+R_DMPQMTs	demethylphylloquinone methyltransferase
+R_SEPHCHCSs	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase 
+R_SEPHHCSs	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+R_FRDPFTs	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase
+R_OCTDPOTs	(E)-octaprenyl-diphosphate:isopentenyl-diphosphate octaprenyltranstransferase
+R_HGENTISSTs	homogentisate solanesyltransferase
+R_MSBQMTs	MPBQ/MSBQ methyltransferase
+R_TYCGs	tocopherol cyclase
+R_TYCDs	tocopherol cyclase
+R_HMGCOARyc	Hydroxymethylglutaryl-CoA reductase (NADH)
+R_MEVKc	Mevalonate kinase
+R_IPDPS2s	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp, nadph)
+R_IPDPS1s	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp, nadh)
+R_DMPPS2s	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp, nadph)
+R_DMPPS1s	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp, nadh)
+R_MECDPDH5s	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase 
+R_LIMSs	(4S)-limonene synthase
+R_SQLMOc	squalene monooxygenase
+R_PRIMARTSc	9-beta-pimara-7,15-diene oxidase
+R_SCODPSs	syn-copalyl-diphosphate synthase
+R_PRIMARDSs	syn-pimara-7,15-diene synthase
+R_MOMASys	momilactone-A synthase
+R_MOMASs	momilactone-A synthase
+R_STEMSs	stemar-13-ene synthase
+R_STEMOc	stemar-13-ene oxidase
+R_P450MO1c	cytochrome P450 monooxygenase
+R_ESANDSs	ent-sandaracopimaradiene synthase 
+R_ESANDO1c	ent-cassa-12,15-diene oxidase
+R_P450MO4c	cytochrome P450 monooxygenase
+R_P450MO5c	cytochrome P450 monooxygenase
+R_P450MO6c	cytochrome P450 monooxygenase
+R_OZLNDO1c	Oryzalexin D oxidase
+R_OZLNDO2c	Oryzalexin D oxidase
+R_OZLNAOc	Oryzalexin A oxidase
+R_OZLNBOc	Oryzalexin B oxidase
+R_PRIMADNSs	ent-pimara-8(14),15-diene synthase
+R_EIKAURSs	ent-isokaurene synthase
+R_EIKAUROc	ent-isokaurene C2-hydroxylase
+R_ECASDSs	ent-cassa-12,15-diene synthase
+R_ECASDO1c	ent-cassa-12,15-diene oxidase
+R_ECASDO2c	ent-cassa-12,15-diene oxidase
+R_ECASDO3c	ent-cassa-12,15-diene oxidase
+R_ECASDATEO1c	ent-cassa-12,15-diene-3alpha-ol-11-keto oxidase
+R_ECASDATEO2c	ent-cassa-12,15-diene-3alpha-ol-11-keto oxidase
+R_P450MO2c	cytochrome P450 monooxygenase
+R_ECASDATEO3c	ent-cassa-12,15-diene-3alpha-ol-11-keto oxidase
+R_ECASD2ATEO1c	ent-cassa-12,15-diene-2,3alpha-ol-11-keto oxidase
+R_ECASD2ATEO2c	ent-cassa-12,15-diene-2,3alpha-ol-11-keto oxidase
+R_P450MO3c	cytochrome P450 monooxygenase
+R_EKAURSs	Ent-kaurene synthase
+R_ECPDs	ent-copalyl diphosphate synthase
+R_EKAURO1c	Ent-kaurene oxidase
+R_EKAURO2c	Ent-kaurene oxidase
+R_EKAURO3c	Ent-kaurene oxidase
+R_EKAURATEO1c	Ent-kaurenoic acid oxidase
+R_EKAURATEO2c	Ent-kaurenoic acid oxidase
+R_EKAURATEO3c	Ent-kaurenoic acid oxidase
+R_GADO12c	(gibberellin-12),2-oxoglutarate:oxygen oxidoreductase
+R_GAAKGOR1c	(gibberellin-12),2-oxoglutarate:oxygen oxidoreductase
+R_GAAKGOR2c	(gibberellin-15),2-oxoglutarate:oxygen oxidoreductase
+R_GAAKGOR3c	(gibberellin-24),2-oxoglutarate:oxygen oxidoreductase
+R_GADO1c	gibberellin 3beta-dioxygenase
+R_GAAKORG12c	(gibberellin-4),2-oxoglutarate:oxygen oxidoreductase
+R_GAAKORG10c	(gibberellin-9),2-oxoglutarate:oxygen oxidoreductase
+R_GAAKORG11c	(gibberellin-51),2-oxoglutarate:oxygen oxidoreductase
+R_GAAKGOR4c	(gibberellin-24),2-oxoglutarate:oxygen oxidoreductase
+R_GADO2c	gibberellin 3beta-dioxygenase
+R_GADO3c	gibberellin 3beta-dioxygenase
+R_GADO4c	gibberellin 3beta-dioxygenase
+R_GADO5c	gibberellin 3beta-dioxygenase
+R_GAAKGOR5c	(gibberellin-37),2-oxoglutarate:oxygen oxidoreductase
+R_GAAKGOR6c	(gibberellin-36),2-oxoglutarate:oxygen oxidoreductase
+R_GADO6c	gibberellin 3beta-dioxygenase
+R_GAAKORG7c	(gibberellin-19),2-oxoglutarate:oxygen oxidoreductase
+R_GAAKORG15c	(gibberellin-19),2-oxoglutarate:oxygen oxidoreductase
+R_GAAKORG8c	(gibberellin-20),2-oxoglutarate:oxygen oxidoreductase
+R_GAAKORG9c	(gibberellin-29),2-oxoglutarate:oxygen oxidoreductase
+R_GADO7c	gibberellin-44 dioxygenase 
+R_GA3DOc	gibberellin 3 beta-dioxygenase 
+R_GA2DOc	gibberellin 2 beta-dioxygenase 
+R_GA4DOc	gibberellin 2 beta-dioxygenase 
+R_VLXANDEOs	violaxanthin de-epoxidase
+R_ANXANDEOs	antheraxanthin de-epoxidase
+R_ZXANEOys	zeaxanthin epoxidase (nadph)
+R_ZXANEOs	zeaxanthin epoxidase (nadh)
+R_ANXANEOys	antheraxanthin epoxidase (nadph)
+R_ANXANEOs	antheraxanthin epoxidase (nadh)
+R_ACAROTORs	alpha-carotene,NADH:oxygen 3-oxidoreductase
+R_CAROTEMOs	carotene epsilon-monooxygenase
+R_CPTXANORs	alpha-cryptoxanthin,NADH:oxygen 3-oxidoreductase
+R_ZNXANMOs	zeinoxanthin epsilon-monooxygenase
+R_PHYTDSs	15-cis-phytoene desaturase
+R_PHYTFLDSs	all-trans phytofluene desaturase
+R_BCAROTHs	beta-carotene 3-hydroxylase
+R_BCPTXANHs	beta-cryptoxanthin 3-hydroxylase 
+R_CAROTDSs	Carotene 7,8-desaturase 
+R_ZCARTDSs	all-trans-zeta-carotene desaturase 
+R_CBGL1s	carotenoid beta-end group lyase (decyclizing), nrsprn
+R_CBGL2s	carotenoid beta-end group lyase (decyclizing), z-carot
+R_PHYTS1s	phytoene synthase (phdp forming)
+R_PHYTS2s	phytoene synthase (phyt forming)
+R_NXANSs	neoxanthin synthase
+R_LYCOPEC1s	lycopene epsilon-cyclase
+R_LYCOPBC1s	lycopene beta-cyclase (a-carot)
+R_LYCOPBC2s	lycopene beta-cyclase (g-carot)
+R_LYCOPBC3s	lycopene beta-cyclase (b-carot)
+R_NXANIs	neoxanthin isomerase
+R_XANXNDHs	Xanthoxin dehydrogenase
+R_EPCDOs	9-cis-epoxycarotenoid dioxygenase
+R_ABSALDOs	Abscisic-aldehyde oxidase
+R_ABSH1s	abscisic acid 8-hydroxylase
+R_ABSH2s	phaseic acid synthase
+R_ECAROTHs	epsilon-carotene hydroxylase
+R_EECAROTLHs	apsilon,epsilon-carotene-3-diol hydroxylase 
+R_LYCOPEC2s	lycopene epsilon-cyclase
+R_HSTDHc	3-beta-hydroxysteroid dehydrogenase
+R_DXCSTNMOc	3-epi-6-deoxocathasterone 23-monooxygenase
+R_DXSTNORc	6-Deoxoteasterone:brassinosteroid C3-oxidoreductase
+R_DXTSTc	6-Deoxotyphasterol:brassinosteroid C3-oxidoreductase
+R_DXTSTOc	6-Deoxotyphasterol:brassinosteroid C6-oxidase
+R_DXSTNOc	6-Deoxoteasterone:brassinosteroid C6-oxidase
+R_DHDXSTNOc	3-Dehydro-6-deoxoteasterone:brassinosteroid C6-oxidase
+R_TSTNORc	Teasterone:brassinosteroid C3-oxidoreductase
+R_BRS1c	Typhasterol synthase
+R_BRS2c	Castasterone synthase
+R_BRS3c	Brassinolide synthase
+R_CAMPSTHc	Campesterol,NADPH:brassinosteroid C22alpha-hydroxylase
+R_22HCAMHc	5alpha-Campestan-3-one,NADPH:brassinosteroid C22alpha-hydroxylase
+R_CAMPST43EHc	Campest-4-en-3-one,NADPH:brassinosteroid C22alpha-hydroxylase
+R_CAMPSTLHc	Campesterol,NADPH:brassinosteroid C22alpha-hydroxylase
+R_22HCAM43Rc	22alpha-Hydroxy-campest-4-en-3-one;NADPH:steroid 5alpha-reductase
+R_CAM43Rc	Campest-4-en-3-one,NADPH:steroid 5alpha-reductase
+R_DKSTIc	Delta5-3-ketosteroid isomerase
+R_BRS5c	6-Deoxocathasterone synthase
+R_BRS4c	Campestanol synthase
+R_STR14DMc	sterol 14alpha-demethylase 
+R_CAMPSTc	Campesterol synthase
+R_STISTSc	Stigmasterol synthase
+R_DHAVESTRc	5-dehydroavenasterol reductase
+R_DHEPISTRc	5-Dehydroepisterol reductase
+R_MERGRc	4alpha-methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol delta14 reductase 
+R_DHAVESTSc	5-dehydroavenasterol synthase
+R_DHEPISTSc	5-Dehydroepisterol synthase
+R_AVESTSc	avenasterol synthase
+R_METMTc	24-methylenesterol C-methyltransferase
+R_CSTLIc	cholestenol Delta-isomerase
+R_CYECYCIc	Cycloeucalenol cycloisomerase
+R_DSTRc	delta24-sterol reductase
+R_IPDPT1s	2-Isopentenyl-diphosphate:ATP delta2-isopentenyltransferase
+R_IPDPT2s	2-Isopentenyl-diphosphate:ADP delta2-isopentenyltransferase
+R_ADMATs	adenylate dimethylallyltransferase 
+R_CYTTHs	cytokinin trans-hydroxylase
+R_TZTNS1s	trans zeatin synthesis 1
+R_TZTNS2s	trans zeatin synthesis 2
+R_IPAMRPs	N6-(delta2-isopentenyl)-adenosine 5-monophosphate phosphoribohydrolase
+R_TZTNS3s	trans zeatin synthesis 3
+R_TZTNS4s	trans zeatin synthesis 4
+R_TZTNS5s	trans zeatin synthesis 5
+R_TZTNS6s	trans zeatin synthesis 6
+R_IPADEDHs	Isopentenyladenosine-5-diphosphate-hydroxylase
+R_IPADETHs	Isopentenyladenosine-5-triphosphate-hydroxylase
+R_CKTHs	cytokinin trans-hydroxylase
+R_ZTNRs	zeatin reductase
+R_P450MOc	P-450 monooxygenase
+R_CKDH3c	cytokinin dehydrogenase
+R_CKDH2c	cytokinin dehydrogenase
+R_CKDH1c	cytokinin dehydrogenase
+R_TRNAIPTc	tRNA isopentenyltransferase
+R_cZTNS1c	cis-zeatin synthesis, 1
+R_cZTNS2c	cis-zeatin synthesis, 2
+R_CKPc	cytokinin phosphohydrolase
+R_cZTNS3c	cis-zeatin synthesis, 3
+R_CKGT1c	cytokinin N-glucosyltransferase
+R_CKGT2c	cytokinin N-glucosyltransferase
+R_CKGT3c	cytokinin N-glucosyltransferase
+R_CKGT4c	cytokinin N-glucosyltransferase
+R_CKGT5c	cytokinin N-glucosyltransferase
+R_CKGT6c	cytokinin N-glucosyltransferase
+R_CKGT7c	cytokinin N-glucosyltransferase
+R_CKGT8c	cytokinin N-glucosyltransferase
+R_CKOGT1c	cytokinin O-glucosyltransferase
+R_CKOGT2c	cytokinin O-glucosyltransferase
+R_CKOGT3c	cytokinin O-glucosyltransferase
+R_LTHSTRLOc	lathosterol oxidase 
+R_7DHCSRc	7-dehydrocholesterol reductase
+R_D24STR1c	delta 24-sterol reductase
+R_CHLSDDIc	5alpha-Cholest-7-en-3beta-ol delta7-delta8-isomerase
+R_LATOXc	lathosterol oxidase
+R_C22SDc	C-22 sterol desaturase
+R_D24STRc	delta 24(24(1))-sterol reductase
+R_URDGLLc	Ureidoglycolate lyase
+R_ALTNDAc	allantoate deiminase
+R_URDGLAHc	Ureidoglycine aminohydrolase
+R_MACPCLs	malonyl-[acyl-carrier-protein] carboxy-lyase
+R_FAS161ACP_Ls	fatty acyl-ACP synthase (n-C16:1ACP)
+R_FAS181ACP_Ls	fatty acyl-ACP synthase (n-C18:1ACP)
+R_FAS182ACP_Ls	fatty acyl-ACP synthase (n-C18:2ACP)
+R_FAS183ACP_Ls	fatty acyl-ACP synthase (n-C18:3ACP)
+R_FA183ACPHs	fatty-acyl-ACP hydrolase (n-C18:3)
+R_FACOAL183r	fatty-acid--CoA ligase (linolenoate), endoplasmic reticular
+R_FA200COAHr	Long-chain fatty-acyl-CoA hydrolase (arachidate), endoplasmic reticular
+R_FA220COAHr	Long-chain fatty-acyl-CoA hydrolase (behenate), endoplasmic reticular
+R_FA240COAHr	Long-chain fatty-acyl-CoA hydrolase (lignocerate), endoplasmic reticular
+R_FA260COAHr	Long-chain fatty-acyl-CoA hydrolase (cerotate), endoplasmic reticular
+R_FA280COAHr	Long-chain fatty-acyl-CoA hydrolase (montanate), endoplasmic reticular
+R_FA300COAHr	Long-chain fatty-acyl-CoA hydrolase (melissate), endoplasmic reticular
+R_FACOAL220r	fatty-acid--CoA ligase (behenate), endoplasmic reticular
+R_FACOAL240r	fatty-acid--CoA ligase (lignocerate), endoplasmic reticular
+R_FACOAL260r	fatty-acid--CoA ligase (cerotate), endoplasmic reticular
+R_FACOAL280r	fatty-acid--CoA ligase (montanate), endoplasmic reticular
+R_FACOAL300r	fatty-acid--CoA ligase (melissate), endoplasmic reticular
+R_ALFACOAR200r	alcohol-forming fatty acyl-CoA reductase (n-C20:0CoA) 
+R_ALFACOAR220r	alcohol-forming fatty acyl-CoA reductase (n-C22:0CoA) 
+R_ALFACOAR240r	alcohol-forming fatty acyl-CoA reductase (n-C24:0CoA) 
+R_ALFACOAR260r	alcohol-forming fatty acyl-CoA reductase (n-C26:0CoA) 
+R_ALFACOAR280r	alcohol-forming fatty acyl-CoA reductase (n-C28:0CoA) 
+R_ALFACOAR300r	alcohol-forming fatty acyl-CoA reductase (n-C30:0CoA) 
+R_ALFAACT200r	long-chain-alcohol O-fatty-acyltransferase (n-C20:0CoA) 
+R_ALFAACT220r	long-chain-alcohol O-fatty-acyltransferase (n-C22:0CoA) 
+R_PALMH1r	palmitate omega-hydroxylase
+R_FAOH1r	fatty acid omega-hydroxylase
+R_HPALMDHr	16-hydroxypalmitate dehydrogenase
+R_OOFADH1r	omega-oxo fatty acid dehydrogenase
+R_OLEHr	oleate omega-hydroxylase
+R_HOLEDHr	18-hydroxyoleate dehydrogenase
+R_OOFADH2r	omega-oxo fatty acid dehydrogenase
+R_FAOH2r	fatty acid omega-hydroxylase
+R_THYDRO91018Sc	9,10,18-trihydroxystearate synthesis
+R_OFAFTc	omega-fatty acid O-feruloyl transferase 
+R_FAOH3r	fatty acid (arachidate) omega-hydroxylase
+R_FAOH4r	fatty acid (behenate) omega-hydroxylase
+R_FAOH5r	fatty acid (lignocerate) omega-hydroxylase
+R_FAOH6r	fatty acid (cerotate) omega-hydroxylase
+R_FAOH7r	fatty acid (montanate) omega-hydroxylase
+R_FAOH8r	fatty acid (melissate) omega-hydroxylase
+R_HARACDHr	20-hydroxyarachidate dehydrogenase
+R_HBEHDHr	22-hydroxybehenate dehydrogenase
+R_HLGNCDHr	24-hydroxylignocerate dehydrogenase
+R_HCERODHr	26-hydroxycerotate dehydrogenase
+R_HMNTDHr	28-hydroxymontanate dehydrogenase
+R_HMLSDHr	30-hydroxymelissate dehydrogenase
+R_OOFADH3r	omega-oxo fatty acid dehydrogenase
+R_OOFADH4r	omega-oxo fatty acid dehydrogenase
+R_OOFADH5r	omega-oxo fatty acid dehydrogenase
+R_OOFADH6r	omega-oxo fatty acid dehydrogenase
+R_OOFADH7r	omega-oxo fatty acid dehydrogenase
+R_OOFADH8r	omega-oxo fatty acid dehydrogenase
+R_FACOAL183c	fatty-acid--CoA ligase (linolenoate)
+R_FAS161COA_Lc	fatty acyl-CoA synthase (n-C16:1CoA)
+R_FAS181COA_Lc	fatty acyl-CoA synthase (n-C18:1CoA)
+R_FAS182COA_Lc	fatty acyl-CoA synthase (n-C18:2CoA)
+R_FAS183COA_Lc	fatty acyl-CoA synthase (n-C18:3CoA)
+R_3OCS200r	3-oxoacyl-CoA synthase (n-C20:0)
+R_3OCR200r	3-oxoacyl-CoA reductase (n-C20:0)
+R_3HCD200r	3-hydroxyacyl-CoA dehydratase (n-C20:0)
+R_ECR200yr	enoyl-CoA reductase (NADPH) (n-C20:0)
+R_3OCS220r	3-oxoacyl-CoA synthase (n-C22:0)
+R_3OCR220r	3-oxoacyl-CoA reductase (n-C22:0)
+R_3HCD220r	3-hydroxyacyl-CoA dehydratase (n-C22:0)
+R_ECR220yr	enoyl-CoA reductase (NADPH) (n-C22:0)
+R_3OCS240r	3-oxoacyl-CoA synthase (n-C24:0)
+R_3OCR240r	3-oxoacyl-CoA reductase (n-C24:0)
+R_3HCD240r	3-hydroxyacyl-CoA dehydratase (n-C24:0)
+R_ECR240yr	enoyl-CoA reductase (NADPH) (n-C24:0)
+R_3OCS260r	3-oxoacyl-CoA synthase (n-C26:0)
+R_3OCR260r	3-oxoacyl-CoA reductase (n-C26:0)
+R_3HCD260r	3-hydroxyacyl-CoA dehydratase (n-C26:0)
+R_ECR260yr	enoyl-CoA reductase (NADPH) (n-C26:0)
+R_3OCS280r	3-oxoacyl-CoA synthase (n-C28:0)
+R_3OCR280r	3-oxoacyl-CoA reductase (n-C28:0)
+R_3HCD280cr	3-hydroxyacyl-CoA dehydratase (n-C28:0)
+R_ECR280yr	enoyl-CoA reductase (NADPH) (n-C28:0)
+R_3OCS300r	3-oxoacyl-CoA synthase (n-C30:0)
+R_3OCR300r	3-oxoacyl-CoA reductase (n-C30:0)
+R_3HCD300r	3-hydroxyacyl-CoA dehydratase (n-C30:0)
+R_ECR300yr	enoyl-CoA reductase (NADPH) (n-C30:0)
+R_FA140ACOASc	long-chain-fatty-acid-CoA ligase (n-C14:0)
+R_FA160ACOASc	long-chain-fatty-acid-CoA ligase (n-C16:0)
+R_FA161ACOASc	long-chain-fatty-acid-CoA ligase (n-C16:1)
+R_FA180ACOASc	long-chain-fatty-acid-CoA ligase (n-C18:0)
+R_FA181ACOASc	long-chain-fatty-acid-CoA ligase (n-C18:1)
+R_FA182ACOASc	long-chain-fatty-acid-CoA ligase (n-C18:2)
+R_FA183ACOASc	long-chain-fatty-acid-CoA ligase (n-C18:3)
+R_FACOAL183x	fatty-acid--CoA ligase (linoleoate)
+R_ACOA180ORx	Octadecanoyl-CoA::oxygen 2-oxidoreductase
+R_HCAD8x	(3R)-3-Hydroxyoctadecanoyl-CoA:NAD+ oxidoreductase
+R_ACAT8x	HexadecanoylCoA:acetyl-CoA C-acyltransferase
+R_FAOS183yx	fatty acid oxidation saturation (C18)
+R_FAOS182yx	fatty acid oxidation saturation (C18)
+R_FAOS181yx	fatty acid oxidation saturation (C18)
+R_FAOS161yx	fatty acid oxidation saturation (C16)
+R_FAOS183x	fatty acid oxidation saturation (C18)
+R_FAOS182x	fatty acid oxidation saturation (C18)
+R_FAOS181x	fatty acid oxidation saturation (C18)
+R_FAOS161x	fatty acid oxidation saturation (C16)
+R_3OCS60m	3-oxoacyl-CoA synthase (n-C6:0)
+R_3OCR60m	3-oxoacyl-CoA reductase (n-C6:0)
+R_3HCD60m	3-hydroxyacyl-CoA dehydratase (n-C6:0)
+R_ECR60ym	enoyl-CoA reductase (NADPH) (n-C6:0)
+R_3OCS80m	3-oxoacyl-CoA synthase (n-C8:0)
+R_3OCR80m	3-oxoacyl-CoA reductase (n-C8:0)
+R_3HCD80m	3-hydroxyacyl-CoA dehydratase (n-C8:0)
+R_ECR80ym	enoyl-CoA reductase (NADPH) (n-C8:0)
+R_3OCS100m	3-oxoacyl-CoA synthase (n-C10:0)
+R_3OCR100m	3-oxoacyl-CoA reductase (n-C10:0)
+R_3HCD100m	3-hydroxyacyl-CoA dehydratase (n-C10:0)
+R_ECR100ym	enoyl-CoA reductase (NADPH) (n-C10:0)
+R_3OCS120m	3-oxoacyl-CoA synthase (n-C12:0)
+R_3OCR120m	3-oxoacyl-CoA reductase (n-C12:0)
+R_3HCD120m	3-hydroxyacyl-CoA dehydratase (n-C12:0)
+R_ECR120ym	enoyl-CoA reductase (NADPH) (n-C12:0)
+R_3OCS140m	3-oxoacyl-CoA synthase (n-C14:0)
+R_3OCR140m	3-oxoacyl-CoA reductase (n-C14:0)
+R_3HCD140m	3-hydroxyacyl-CoA dehydratase (n-C14:0)
+R_ECR140ym	enoyl-CoA reductase (NADPH) (n-C14:0)
+R_3OCS160m	3-oxoacyl-CoA synthase (n-C16:0)
+R_3OCR160m	3-oxoacyl-CoA reductase (n-C16:0)
+R_3HCD160m	3-hydroxyacyl-CoA dehydratase (n-C16:0)
+R_ECR160ym	enoyl-CoA reductase (NADPH) (n-C16:0)
+R_MTE160m	mitochondrial acyl-CoA thioesterase
+R_MACPCLm	malonyl-[acyl-carrier-protein] carboxy-lyase
+R_FAS161ACP_Lm	fatty acyl-ACP synthase (n-C16:1ACP)
+R_FAS181ACP_Lm	fatty acyl-ACP synthase (n-C18:1ACP)
+R_FAS182ACP_Lm	fatty acyl-ACP synthase (n-C18:2ACP)
+R_FAS183ACP_Lm	fatty acyl-ACP synthase (n-C18:3ACP)
+R_G3PDNc	glycerol-3-phosphate dehydrogenase (NAD+)
+R_G3PATr	Glycerol-3-phosphate O-acyltransferase, endoplasmic reticular
+R_G3PATs	Glycerol-3-phosphate O-acyltransferase, plastidic
+R_G3PATm	Glycerol-3-phosphate O-acyltransferase, mitochondrial
+R_PAPAr	Phosphatidate phosphatase, endoplasmic reticular
+R_PAPAs	Phosphatidate phosphatase, plastidic
+R_PAPAm	Phosphatidate phosphatase, mitochondrial
+R_DAGACTr	diacylglycerol O-acyltransferase, endoplasmic reticular
+R_TAGLc	triacylglycerol lipase
+R_DAGLc	diacylglycerol lipase
+R_MAGLc	monoacylglycerol lipase
+R_CDPDAGSr	phosphatidate cytidylyltransferase, endoplasmic reticular
+R_CDPDAGSm	phosphatidate cytidylyltransferase, mitochondrial
+R_CDIPTr	phosphatidylinositol synthase, endoplasmic reticular
+R_PGPSr	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase, endoplasmic reticular
+R_PGPSm	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase, mitochondrial
+R_PGPPm	Phosphatidylglycerophosphatase, mitochondrial
+R_CLPNSm	cardiolipin synthase, mitochondrial
+R_PSSr	phosphatidylserine synthase, endoplasmic reticular
+R_PSSm	phosphatidylserine synthase, mitochondrial
+R_PEDCr	phosphatidylserine decarboxylase, endoplasmic reticular
+R_PEDCm	phosphatidylserine decarboxylase, mitochondrial
+R_ETHAPTr	Ethanolaminephosphotransferase, endoplasmic reticular
+R_PETHACTr	phosphoethanolamine cytidyltransferase
+R_PETHAMTr	phosphoethanolamine N-methyltransferase , endoplasmic reticular
+R_PETHAMTs	phosphoethanolamine N-methyltransferase, plastidic
+R_PCHOLPPr	phocholine phosphatase, endoplasmic reticular
+R_PCHOLPPs	phocholine phosphatase, plastidic
+R_CHOLPCTr	choline phosphate cytididyltransferase, endoplasmic reticular
+R_CHOLPCTs	choline phosphate cytididyltransferase, plastidic
+R_DAGCPr	diacylglycerol cholinephosphotransferase, endoplasmic reticular
+R_DAGCPs	diacylglycerol cholinephosphotransferase, plastidic
+R_PLCr	Phospholipase C 
+R_PLAr	Phospholipase A
+R_LPPr	Lysophospholipase
+R_GPEPEr	Glycerophosphodiester phosphodiesterase (Glycerophosphocholine)
+R_MGDGSs	monogalactosyldiacylglycerol synthase
+R_DGDGSs	digalactosyldiacylglycerol synthase
+R_SQTs	sulfoquinovosyltransferase
+R_LNL9LOs	linolenate 9-lipoxygenase
+R_OCDCYA9LOs	linoleate 9-lipoxygenase
+R_LNL13LOs	linolenate 13-lipoxygenase
+R_OCDCYA13LOs	linoleate 13-lipoxygenase
+R_LNL9HPLs	linolenate 9-hydroperoxide lyase
+R_OCDCYA9HPLs	linoleate 9-hydroperoxide lyase
+R_LNL13HPLs	linolenate 13-hydroperoxide lyase
+R_OCDCYA13HPLs	linoleate 13-hydroperoxide lyase
+R_HPDHs	hydroperoxide dehydratase
+R_ALOCs	allene-oxide cyclase
+R_OPRx	12-oxophytodienoate reductase
+R_3OOPCOALx	3-oxo-2-(2-[Z]-pentenyl)cyclopentane-1-octanoate CoA ligase
+R_OPC8ACOx	OPC8 acyl-CoA oxidase
+R_OPC8T2ECHx	OPC8-trans-2-enoyl-CoA hydratase
+R_OPC8HACDHx	OPC8-3-hydroxyacyl-CoA dehydrogenase
+R_OOPC8CTx	OPC8-3-ketoacyl-CoA thiolase
+R_OPC6ACOx	OPC6 acyl-CoA oxidase
+R_OPC6T2ECHx	OPC6-trans-2-enoyl-CoA hydratase
+R_OPC6HACDHx	OPC6-3-hydroxyacyl-CoA dehydrogenase
+R_OOPC6CTx	OPC6-3-ketoacyl-CoA thiolase
+R_OPC4ACOx	OPC4 acyl-CoA oxidase
+R_OPC4T2ECHx	OPC4-trans-2-enoyl-CoA hydratase
+R_OPC4HACDHx	OPC4-3-hydroxyacyl-CoA dehydrogenase
+R_OOPC4CTx	OPC4-3-ketoacyl-CoA thiolase
+R_JASCHc	jasmonate coa hydrolase
+R_JASIc	jasmonate synthase, spontaneous
+R_AMETJASMTc	S-adenosyl-L-methionine:jasmonate O-methyltransferase
+R_JASVSc	jasmonic acid-valine synthetase
+R_JASILSc	jasmonic acid-isoleucine synthetase
+R_JASLSc	jasmonic acid-leucine synthetase
+R_SGPL12r	sphingosine 1-phosphate aldolase
+R_ASPHGNAr	N-Acylsphingosine amidohydrolase
+R_PCAHr	Phytoceramide amidohydrolase
+R_ASPHGNAHr	N-Acylsphingosine amidohydrolase
+R_SPHOORr	sphinganine oxygen oxidoreductase (NADPH, 4-hydroxylating)
+R_PCSr	dihydrosphinganine delta(4)-desaturase
+R_DHCDSr	dihydroceramide delta(4)-desaturase
+R_ASPHGNAT1r	acyl-CoA:sphingosine N-acyltransferase
+R_ASPHGNAT2r	acyl-CoA:sphingosine N-acyltransferase
+R_ASPHGNAT3r	acyl-CoA:sphingosine N-acyltransferase
+R_UGCGr	Ceramide glucosyltransferase
+R_UGALCGc	glucosylceramide beta-1,4-galactosyltransferase lactosylceramide synthase
+R_GLB1c	Beta-galactosidase
+R_OACPSSTm	octanoyl-[acp]:sulfur sulfurtransferase
+R_LACPLTm	lipoyl-[acp]:protein N6-lipoyltransferase
+R_MCOAMTc	malonyl-CoA O-methyltransferase
+R_MACPMMEc	malonyl-[acyl-carrier protein]-methyl-ester:malonyl-[acyl-carrier protein] C-acyltransferase
+R_3HGNORc	3-hydroxyglutaryl-[acp]-methyl-ester:NADP+ oxidoreductase
+R_3HGMELc	3-hydroxyglutaryl-[acp]-methyl-ester hydro-lyase
+R_GLUACPMEORc	glutaryl-[acp]-methyl-ester:NADP+ oxidoreductase
+R_GLUMEORc	glutaryl-[acp]-methyl-ester:malonyl-[acyl-carrier protein] C-acyltransferase (decarboxylating)
+R_HPIMMEORc	3-hydroxypimeloyl-[acp]-methyl-ester:NADP+ oxidoreductase
+R_HPIMMELc	3-hydroxypimeloyl-[acp]-methyl-ester hydro-lyase
+R_PIMACPMEc	pimelyl-[acyl-carrier protein]-methyl-ester:NADP+ oxidoreductase
+R_PACPMEEc	pimelyl-[acyl-carrier protein] methyl ester esterase
+R_AONSc	8-amino-7-oxononanoate synthase
+R_AMETAOTc	adenosylmethionine-8-amino-7-oxononanoate transaminase
+R_DTBTSc	dethiobiotin synthase
+R_BTNSc	biotin synthase
+R_PFRTc	protein farnesyltransferase
+R_CAAPc	CAAX protease
+R_PIOCMTc	protein-S-isoprenylcysteine O-methyltransferase
+R_FRCYOc	farnesyl-L-cysteine oxidase
+R_FRNCTIc	(2E,6E)-farnesol 2-cis-trans-isomerase
+R_FRORc	2-trans,6-trans-farnesol:NADP+ 1-oxidoreductase
+R_FRPTc	CTP:2-trans,6-trans-farnesol O-phosphotransferase
+R_FRPPTc	CTP:farnesyl-phosphate phosphotransferase
+R_G16MT1c	alpha-1,6-mannosyltransferase (G00004)
+R_G16MT2c	alpha-1,6-mannosyltransferase (G10596)
+R_MGAGT1c	alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase (G00013)
+R_MGAGT2c	alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase (G00015)
+R_MGAGT3c	alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase (G10619)
+R_GPXTc	glycoprotein 2-beta-D-xylosyltransferase
+R_GPFTc	glycoprotein 3-alpha-L-fucosyltransferase
+R_PIACGTc	phosphatidylinositol N-acetylglucosaminyltransferase
+R_ACGPIDc	N-acetylglucosaminylphosphatidylinositol deacetylase
+R_GPIATc	glucosaminylphosphatidyl inositol acetyltransferase
+R_GPIMTc	GlcN-acylPI mannosyltransferase
+R_H6ET3c	H6 phosphoethanolaminyl transferase
+R_H2MTc	H2 mannosyltransferase
+R_H3MTc	H3 mannosyltransferase
+R_H4ETc	H4 phosphoethanolaminyl transferase
+R_H6MTc	H6 mannosyltransferase
+R_B3GALT3c	Beta-1,3-galactosyltransferase 3
+R_AGALSc	alpha-galactosidase
+R_HXAMS1c	Hexaminadose
+R_SIAT9c	Lactosylceramide alpha-2,3-sialyltransferase
+R_GALGT2c	Beta-1,4 N-acetylgalactosaminyltransferase
+R_B3GALT42c	Beta-1,3-galactosyltransferase 4
+R_HXAMS2c	Hexaminadose
+R_BGALSc	beta-galactosidase
+R_UDPACGALEc	UDP-N-acetylglucosamine 4-epimerase
+R_ALATc	alanine---tRNA ligase, cytosolic
+R_ALATs	alanine---tRNA ligase, plastidic
+R_ALATm	alanine---tRNA ligase, mitochondrion
+R_METTc	N-methyltransferase
+R_BETAHHs	betaine aldehyde hydrate hydratase
+R_CHOLMOs	choline monooxygenase
+R_GLYB1s	Glycine betane biosynthesis, spontaneous reaction
+R_23DDHBDHs	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+R_ENTBSs	enterobactin synthetase
+R_GDPMDHc	GDP-mannose 4,6-dehydratase
+R_DTDPDHRRc	dTDP-4-dehydrorhamnose reductase
+R_ARAB5PIc	arabinose-5-phosphate isomerase
+R_UACGAMCVTc	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+R_UACMDHc	UDP-N-acetylmuramate dehydrogenase
+R_STCSDSc	strictosidine synthase
+R_TRPNRc	tropinone (psi-tropine-forming) reductase
+R_CNLNSs	L-canaline synthase
+R_ASPCT2s	Aspartate carbamoyltransferase 2
+R_CAVNS2s	argininosuccinate synthase
+R_ARGSL2s	argininosuccinate lyase
+R_ARGCAVs	arginase (cavanine)
+R_CC3H1c	p-coumarate:caffeate 3-hydroxylase
+R_CAFFMTc	caffeate O-methyltransferase
+R_FERHc	ferulate 5-hydroxylase 
+R_HFERMTc	hydroxy-ferulate O-methyltransferase
+R_DHQRc	dihydroquercetin reductase
+R_LCAKGORc	leucocyanidin,2-oxoglutarate:oxygen oxidoreductase
+R_UDPGATc	UDP-glucose:anthocyanidin 3-O-D-glucosyltransferase
+R_UDPGAGGc	UDP-glucose:anthocyanidin 3-glucoside-2-O-glucosyltransferase
+R_GENT1c	hydroxycinnamoyl-CoA:anthocyanidin 3,5-diglucoside 5-O-glucoside-6-O-hydroxycinnamoyltransferase
+R_GENT2c	UDP-glucose:anthocyanidin-3-glucoside glucosyltransferase
+R_GENT3c	UDP-glucose:anthocyanidin-3-glucoside glucosyltransferase
+R_GENT4c	anthocyanin 3-O-glucoside 6-O-hydroxycinnamoyltransferase
+R_GENT5c	anthocyanin 3-O-glucoside 6-O-hydroxycinnamoyltransferase
+R_GENT6c	hydroxycinnamoyl-CoA:anthocyanidin 3,5-diglucoside 5-O-glucoside-6-O-hydroxycinnamoyltransferase
+R_GENT7c	hydroxycinnamoyl-CoA:anthocyanidin 3,5-diglucoside 5-O-glucoside-6-O-hydroxycinnamoyltransferase
+R_GENT8c	hydroxycinnamoyl-CoA:anthocyanidin 3,5-diglucoside 5-O-glucoside-6-O-hydroxycinnamoyltransferase
+R_GENT9c	hydroxycinnamoyl-CoA:anthocyanidin 3,5-diglucoside 5-O-glucoside-6-O-hydroxycinnamoyltransferase
+R_PLIVLPNSm	phloroisovalerophenone synthase
+R_PRET1c	prenyltransferase 1
+R_PRET2c	prenyltransferase 2
+R_HUMSc	humulone synthase
+R_PLIBTNSm	phloroisobutyrophenone synthase
+R_PRET3c	prenyltransferase 3
+R_PRET4c	prenyltransferase 4
+R_CHUMSc	cohumulone synthase
+R_LACRc	lactate racemase
+R_HMGS_Ss	S-(hydroxymethyl)glutathione synthase (spontaneous)
+R_HMGDys	S-(hydroxymethyl)glutathione dehydrogenase
+R_NADOR2u	NAD(P)H-dehydrogenase (complex I-like)
+R_MRs	Mehler reaction
+R_CBFCNCEFs	cytochrome b6/f complex
+R_CCEFs	Cyclic electron flow
+R_PSIMR	photosystem I
+R_PSIINC	photosystem II
+R_ACHMSSCc	O-Acetylhomoserine succinate-lyase (adding cysteine), cytosol
+R_ACHMSSCs	O-Acetylhomoserine succinate-lyase (adding cysteine), chloroplast
+R_PHOMSCc	O-Phosphorylhomoserine succinate-lyase (adding cysteine), cytosol
+R_PHOMSCs	O-Phosphorylhomoserine succinate-lyase (adding cysteine), chloroplast
+R_SELTORc	Selenite:ferredoxin oxidoreductase, cytosol
+R_METTSc	methionyl-tRNA synthetase
+R_METSMTFc	methionine S-methyltransferase
+R_SELMETLs	Selenomethionine methanethiol-lyase (deaminating)
+R_MCFTc	24-methylenecycloartanyl feruloyltransferase
+R_CYARTFTc	Cycloartenol feruloyltransferase
+R_CAMPSTFTc	campesterol feruloyltransferase
+R_SITSTFTc	sitosterol feruloyltransferase
+R_LEVSc	levansucrase
+R_SSFTc	sucrose:sucrose fructosyltransferase
+R_FFFTc	2,1-fructan:2,1-fructan 1-fructosyltransferase
+R_SFFTc	sucrose:fructan 6-fructosyltransferase
+R_FRCEXHc	fructan exohydrolase
+R_DGSNTTPc	diguanosinetetraphosphatase
+R_ACPCDAc	1-aminocyclopropane-1-carboxylate deaminase
+R_AHCYSNc	adenosylhomocysteine nucleosidase
+R_ADECYCc	adenylate cyclase
+R_TYRMOc	tyrosine 3-monooxygenase
+R_4HTHBPTHLc	4a-hydroxytetrahydrobiopterin hydro-lyase
+R_THBPTDHc	5,6,7,8-tetrahydrobiopterin:NAD+ oxidoreductase
+R_PHENMUTc	phosphopentomutase
+R_MALTDPs	maltodextrin phosphorylase
+R_MALTGAMs	maltase-glucoamylase
+R_NRGNMTc	naringenin 7-O-methyltransferase
+R_UDPGLTLNGc	UDP-glucose-luteolin beta-D-glucosyltransferase
+R_UDPRMNLc	UDP-L-rhamnose:luteolin-7-O-beta-D-glucoside 2-O-alpha-L-rhamnosyltransferase
+R_UDPGAPGNGc	UDPglucose:apigenin 7-O-beta-D-glucosyltransferase
+R_UDPRMNAc	UDP-L-rhamnose:apigenin 7-O-beta-D-glucoside 2-O-beta-L-rhamnosyltransferase
+R_CRPESc	beta-caryophyllene synthase
+R_HUMLSc	alpha-humulene synthase
+R_ELMSc	beta-elemene synthase
+R_GAAKORG4498c	(gibberellin-4),2-oxoglutarate:oxygen oxidoreductase
+R_NADtm	NAD transporter, mitochondrial
+R_UACGAMtm	UDP-N-acetyl-D-glucosamine transport, mitochondrial
+R_CKDOtm	CMPKDO transport, mitochondrial
+R_THFtm	Tetrahydrofolate transport, diffusion, mitochondrial
+R_FORtm	formate transport out via proton symport, mitochondrial
+R_ADENm	adenine nucleotide carrier, mitochondrial
+R_LYSt2m	Amino acid transporter (lys-L), mitochondrial
+R_METt2m	Amino acid transporter (met-L), mitochondrial
+R_ASPGLU2m	Aspartate-glutamate transporter
+R_H2Otm	H2O transport, mitochondrial
+R_CO2tm	CO2 transport, mitochondrial
+R_NH4tm	ammonia transport, mitochondrial
+R_O2tmr	O2 transport (diffusion)
+R_FADH2tm	FADH2 transport, mitochondria
+R_FADtm	FAD transport by free diffusion, mitochondria
+R_PItm	phosphate transporter, mitochondrial
+R_H2O2tm	hydrogen peroxide transport via diffusion, mitochondria
+R_ATPtm	ADP/ATP transporter, mitochondrial
+R_4ABUTtmi	Gamma-aminobutyric acid permease, mitochondrial
+R_SUCFUMtmr	Succinate/fumarate antiporter, mitochondrial
+R_GLYtm	Amino acid transporter (gly), mitochondrial
+R_SERtm	Amino acid transporter (ser-L), mitochondrial
+R_DICtm	dicarboxylate transport, mitochondrial
+R_MALCITtm	Dicarboxylate/tricarboxylate carrier (mal:cit), mitochondrial
+R_MALAKGtm	Malate/2-oxoglutarate carrier, mitochondrial
+R_SO4AKGtm	Sulfate/2-oxoglutarate carrier, mitochondrial
+R_AKGCITtm	Dicarboxylate/tricarboxylate carrier (akg:cit), mitochondrial
+R_AKGICITtm	Dicarboxylate/tricarboxylate carrier (akg:icit), mitochondrial
+R_MALICITtm	Dicarboxylate/tricarboxylate carrier (mal:icit), mitochondrial
+R_MALOAAtm	Dicarboxylate/tricarboxylate carrier (mal:oaa), mitochondrial
+R_OAAAKGtm	Dicarboxylate/tricarboxylate carrier (oaa:akg), mitochondrial
+R_OAACITtm	Dicarboxylate/tricarboxylate carrier (oaa:cit), mitochondrial
+R_OAAICITtm	Dicarboxylate/tricarboxylate carrier (oaa:icit), mitochondrial
+R_ASNtm	Asparagine/H+ symporter, mitochondrial
+R_ORNtm	mitochondrial basic amino acid transporter, orn for arg-L
+R_CITRtm	mitochondrial basic amino acid transporter, orn for arg-L
+R_ACtm	acetate transport, mitochondrial
+R_COAtm	CoA transporter
+R_ACCOAtm	Acetyl-CoA:CoA antiporter, mitochondrial
+R_IPDPtm	isopentenyl pyrophosphate transport, mitochondria
+R_HCO3_LPAREN_h_RPAREN_tmi	hco3 transport, mitochondria
+R_GCOAtm	Glutaconyl-CoA reversible mitochondrial transport
+R_GLXtm	glyoxylate transport, mitochondrial
+R_3HPCOAtm	3-Hydroxypropionyl-CoA transport, mitochondria
+R_CTPtm	CTP/CMP antiport
+R_2AHHMPtm	2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine transport
+R_4ABZtm	4-Aminobenzoate mitochondrial transport via diffusion
+R_THMPPt2m	Thiamine diphosphate transport, mitochondria
+R_FMNtm	FMN transport, mitochondrial
+R_PANTtm	pantothenate mitochondrial transport
+R_2OXOADPTm	2-oxoadipate shuttle (cytosol/mitochondria)
+R_TSULtm	Thiosulfate porter, mitochondrial
+R_5FTHFtm	5-Formyltetrahydrofolate uptake carrier, mitochondria
+R_MLTHFtm	5,10-Methylenetetrahydrofolate uptake carrier, mitochondria
+R_ACSERtmi	efflux pump for O-acetylserine, mitochondria
+R_NA1ATPasem	Na+-translocating F-type ATPase, mitochondrial
+R_NA1Htm	Na+/H+ antiporter, mitochondrial
+R_PInatm	phosphate transporter, mitochondrial
+R_PHEMEtm	protoheme transport (mitochondrion)
+R_FA40COAtm	butanoyl-CoA transport (mitochondria)
+R_MSAtm	malonate-semialdehyde transport, mitochondria
+R_MHDASCBtm	Monodehydroascorbate transport, mitochondrial
+R_PINA1tm	Pi:Na+ symporter, mitochondrial
+R_CHORtm	Chorismate transport, mitochondrial
+R_SO3tm	sulfite transport, mitochondrial
+R_GLYCtm	glycerol transport, mitochondrial
+R_CDPDAGtm	CDP-diacylglycerol transport, mitochondrial
+R_PTD1INOtm	1-Phosphatidyl-D-myo-inositol transport, Mitochondrial
+R_PEtm	Phosphatidylethanolamine transport, Mitochondrial
+R_PStm	PhosphatidylsMitochondrialine transport, Mitochondrial
+R_PGPtm	PhosphatidylglycMitochondrialophosphate transport, Mitochondrial
+R_H2Stm	H2S mitochondrial transport
+R_PLIVLPNm	Phlorisovalerophenone transport
+R_PLIBTNm	Phlorisobutyrophenone transport
+R_ACts	Acetate transporter, plastidic
+R_NADts	NAD transporter, plastidic
+R_5FTHFts	5-Formyltetrahydrofolate uptake carrier, plastid
+R_5MTHFts	5-Methylenetetrahydrofolate uptake carrier, plastid
+R_MHDASCBts	Monodehydroascorbate transport, plastidic
+R_DHORSts	(S)-Dihydroorotate transport via diffusion, plastid
+R_OROTts	Orotate transport via diffusion, plastidic
+R_ACCOAts	Acetyl-CoA:CoA antiporter, plastidic
+R_SUCCOAtz	Succinyl-CoA transport, plastid
+R_TSULts	Thiosulfate porter, plastidic
+R_ASPts	Amino acid transporter (asp-L), plastidic
+R_CYSts	cysteine transport, plastidic
+R_GLYts	Amino acid transporter (gly), plastidic
+R_HISts	Amino acid transporter (his-L), plastidic
+R_ILEts	Amino acid transporter (ile-L), plastidic
+R_LEUts	Amino acid transporter (leu-L), plastidic
+R_LYSts	Amino acid transporter (lys-L), plastidic
+R_METts	Amino acid transporter (met-L), plastidic
+R_PHEts	phenylalanine transport, plastidic
+R_PROts	Amino acid transporter (pro-L), plastidic
+R_SERts	Amino acid transporter (ser-L), plastidic
+R_THRts	Amino acid transporter (thr-L), plastidic
+R_TRPts	Tryptophan permease, plastidic
+R_TYRts	Tyrosine permease, plastidic
+R_VALts	Amino acid transporter (val-L), plastidic
+R_THFts	Tetrahydrofolate transport, diffusion, plastidic
+R_FORts	formate out via proton symport, plastidic
+R_G1P_LPAREN_pi_RPAREN_ts	Glucose 1-phosphate:pi antiporter, plastidic
+R_G3P_LPAREN_pi_RPAREN_tsr	Glyceraldehyde 3-phosphate transport via triose-phosphate translocator (from plastid)
+R_G6PA_LPAREN_pi_RPAREN_ts	alpha-glucose 6-phosphate:pi antiporter, plastidic
+R_G6PB_LPAREN_pi_RPAREN_ts	beta-glucose 6-phosphate:pi antiporter, plastidic
+R_DHAP_LPAREN_pi_RPAREN_tsr	Dihydroxyacetone phosphate transport via triose-phosphate translocator (from plastidic)
+R_3PG_LPAREN_pi_RPAREN_tsr	3-Phospho-D-glycerate transport via triose phosphate translocator (from plastidic)
+R_PEPPIts	Phosphoenolpyruvate:Pi antiporter, plastidic
+R_ATP2ts	AMP transporter, plastidic
+R_FMNts	FMN transport, plastidic
+R_4ABZts	4-Aminobenzoate plastidic transport via diffusion
+R_NICRNTts	Nicotinate D-ribonucleotide plastidic transport via diffusion
+R_THMPPt2s	Thiamine diphosphate transport, plastidic
+R_H2Ots	H2O transport, plastidic
+R_CO2ts	CO2 plastidic transport
+R_H2Sts	H2S plastidic transport
+R_NH4ts	ammonia transport, plastidic
+R_O2tsr	O2 transport (diffusion), plastidic
+R_Pits	phosphate transporter, plastidic
+R_SO4ts	Sulfate transport, plastidic
+R_NO2ts	nitrite transport, plastidic
+R_HCYSts	homocysteine transport, chloropalst
+R_ATPts	ADP/ATP transporter, plastidic
+R_GLYCRts	Glycolate/Glycerate transport, plastidic
+R_MALFUMts	Malate/Fumarate transport, plastidic
+R_MALOAAts	Oxaloacetate/Malate transport, plastidic
+R_MALAKGts	alpha-Ketoglutarate/Malate transport, plastidic
+R_MALGLUts	Glutamate/Malate transport, plastidic
+R_SUCFUMtsr	succinate-fumarate antiport, plastid
+R_UDPGALts	UDP-galactose:UMP antiporter, plastid
+R_UDPGts	UDP-glucose antiporter, plastid
+R_RIBFLVts	riboflavin transport, plastidic
+R_IPDPts	Isopentenyl diphosphate transport, plastidic
+R_EKAURts	ent-kaurene transport, plastidic
+R_UTPUMPts	UMP transporter
+R_PPHNts	prephenate transport, plastidic
+R_CHOLts	Choline transport, plastidic
+R_4ABUTts	Gamma-aminobutyric acid permease, plastidic
+R_GLU4ABUTtsi	Glutamate:gamma-aminobutyrate antiporter, plastidic, irreversible
+R_GLYC3Pts	glycerol 3-phosphate transport (plastid)
+R_GLYCts	Glycerol:H+ symporter, plastidic
+R_CTPts	CDP/CTP transporter, plastidic
+R_UTPts	UDP/UTP transporter, plastidic
+R_FE2ts	ferrous iron transport, plastidic
+R_FE3abcs	ferric iron transport (ABC-type), plastidic
+R_HCO3_LPAREN_h_RPAREN_tsi	hco3 transport, plastid
+R_HGENTISts	homogentisate transport
+R_PHEMEts	protoheme transport (plastid)
+R_PINA1ts	Pi:Na+ symporter, plastid
+R_MG2ts	Divalent cation (Mg2+) transport system, plastid
+R_METHFts	5,10-Methenyltetrahydrofolate uptake carrier, plastid
+R_NA1ATPases	Na+-translocating F-type ATPase, plastid
+R_PYRts	pyruvate transport by free diffusion, plastid
+R_NA1Hts	Na+/H+ antiporter, plastid
+R_FA140s	fatty acid transport (14:0), plastidic
+R_FA160s	fatty acid transport (16:0), plastidic
+R_FA161s	fatty acid transport (16:1), plastidic
+R_FA180s	fatty acid transport (18:0), plastidic
+R_FA181s	fatty acid transport (18:1), plastidic
+R_FA182s	fatty acid transport (18:2), plastidic
+R_FA183s	fatty acid transport (18:3), plastidic
+R_ARGSUCts	Argininosuccinate transport, plastid
+R_ACGLUts	Acetylglutamate transport, plastid
+R_GLYBETts	Glycine betaine transport, plastid
+R_AC5GSAtr	N-Acetyl-L-glutamate 5-semialdehyde transport
+R_ACORNts	N2-Acetyl-L-ornithine transport
+R_CHORts	Chorismate transport
+R_26dap_DASH_Mts	meso-2,6-Diaminoheptanedioate transport
+R_STEMts	Stemar-13-ene transport
+R_EIKAURts	ent-isokaurene transport
+R_ECASDts	ent-Cassa-12,15-diene transport
+R_ESANDts	ent-Sandaracopimara-8(14),15-diene transport
+R_DHZts	Dihydrozeatin transport
+R_IPADNEts	N6-Dimethylallyladenine transport
+R_TZTNRts	trans-zeatin riboside transport
+R_TZTNts	trans-zeatin transport
+R_IPADNts	Isopentenyl adenosine transport
+R_COA_LPAREN_h_RPAREN_ts	CoA transport, plastid
+R_OPDAts	OPDA transport, plastidic
+R_PYRtv	pyruvate vacuolar transport
+R_FRUCtv	hexose vacuolar transport via proton symport
+R_GLCAtv	hexose vacuolar transport via proton symport
+R_GLCBtv	hexose vacuolar transport via proton symport
+R_GLYtv	Amino acid transporter (gly), vacuolar
+R_CYStv	cysteine transport, vacuolar
+R_H2Otv	H2O transport, vacuolar
+R_GTHRDabcv	Reduced glutathione via ABC system (vacuolar)
+R_THFtv	Tetrahydrofolate transport, diffusion, vacuolar
+R_HPGLUtv	Tetrahydropteroyltri-L-glutamate transport, diffusion, vacuolar
+R_NO2tvr	O2 transport (diffusion)
+R_NO3tvr	NO3 transport (diffusion)
+R_O2tv	O2 transport (diffusion)
+R_H2O2tv	hydrogen peroxide transport via diffusion, vacuole
+R_FA140COAabcx	fatty acyl-CoA transport via ABC system (14:0), peroxisomal
+R_FA160COAabcx	fatty acyl-CoA transport via ABC system (16:0), peroxisomal
+R_FA161COAabcx	fatty acyl-CoA transport via ABC system (16:1), peroxisomal
+R_FA180COAabcx	fatty acyl-CoA transport via ABC system (18:0), peroxisomal
+R_FA181COAabcx	fatty acyl-CoA transport via ABC system (18:1), peroxisomal
+R_FA182COAabcx	fatty acyl-CoA transport via ABC system (18:2), peroxisomal
+R_FA183COAabcx	fatty acyl-CoA transport via ABC system (18:3), peroxisomal
+R_ATP2tx	AMP/ATP transporter, peroxisomal
+R_ATPtx	ADP/ATP transporter, peroxisomal
+R_GLYtx	Amino acid transporter (gly), peroxisomal
+R_SERtx	Amino acid transporter (ser-L), peroxisomal
+R_GLYCLTtx	glycolate transport, peroxisomal
+R_MALOAAtx	malate/oxaloacetate shuttle
+R_H2Otx	H2O transport, peroxisomal
+R_CITx	citrate transport, peroxisomal
+R_CO2tx	CO2 transport, peroxisomal
+R_O2tx	O2 transport, peroxisomal
+R_PItx	phosphate peroxisomal transport via proton symport
+R_CITtcx	citrate/isocitrate antiport into peroxisome
+R_ACtx	acetate transport, peroxisomal
+R_ALAtx	Amino acid transporter (ala-L), peroxisomal
+R_SUCCtx	succinate transporter, peroxisome
+R_NH4tx	Ammonium transporter, peroxisomal
+R_THRtx	Amino acid transporter (thr-L), peroxisomal
+R_ACCOAtx	Acetyl-CoA:CoA antiporter, peroxisomal
+R_COA_LPAREN_h_RPAREN_tx	CoA transport, peroxisome
+R_GLXtx	glyoxylate transport, peroxisomal
+R_GLUtx	L-glutamate transport, peroxisome
+R_AKGtx	alpha-Ketoglutarate transport, peroxisome
+R_GCOAtx	Glutaryl-CoA transport, peroxisome
+R_GLYCRtx	Glycerate transport, peroxisome
+R_FADH2tx	FADH2 transport, peroxisome
+R_FADtx	FAD transport by free diffusion, peroxisome
+R_NADPH2tx	NADPH transport, peroxisome
+R_NADPtx	NADP transport by free diffusion, peroxisome
+R_MTHGXLtx	Methyl glyoxal transport via diffucision
+R_B2COAtx	Crotonoyl-CoA transport
+R_FA40COAtx	butanoyl-CoA transport (peroxisome)
+R_JAStx	Jasmonate transport, peroxisomal
+R_OPDAtx	OPDA transport, peroxisomal
+R_SO4tx	Sulfate transport, peroxisomal
+R_FA140CoAr	fatty acyl CoA transport (14:0), ER
+R_FA160CoAr	fatty acyl CoA transport (16:0), ER
+R_FA161CoAr	fatty acyl CoA transport (16:1), ER
+R_FA180CoAr	fatty acyl CoA transport (18:0), ER
+R_FA181CoAr	fatty acyl CoA transport (18:1), ER
+R_FA182CoAr	fatty acyl CoA transport (18:2), ER
+R_FA183CoAr	fatty acyl CoA transport (18:3), ER
+R_FA140r	fatty acid transport (14:0), ER
+R_FA160r	fatty acid transport (16:0), ER
+R_FA161r	fatty acid transport (16:1), ER
+R_FA180r	fatty acid transport (18:0), ER
+R_FA181r	fatty acid transport (18:1), ER
+R_FA182r	fatty acid transport (18:2), ER
+R_FA183r	fatty acid transport (18:3), ER
+R_NADPH2tr	NADPH transport, ER
+R_NADPtr	NADP transport by free diffusion, ER
+R_UDPGr	UDP-glucose transport, ER
+R_GLUSIDEr	Glucosylceramide transport, ER
+R_HYDRO16tr	16-Hydroxypalmitate transport, ER
+R_HYDRO18tr	18-Hydroxypalmitate transport, ER
+R_DHYDRO1016tr	10,16-dihydroxypalmitate transport, ER
+R_DHYDRO1018tr	9,10-epoxy-18-hydroxystearate transport, ER
+R_THYDRO91018tr	9,10,18-trihydroxystearate transport, ER
+R_ATPtr	ADP/ATP transporter, ER
+R_ATP2tr	AMP/ATP transporter, ER
+R_H2Otr	H2O transport, ER
+R_CO2tr	CO2 transport, ER
+R_O2tr	O2 transport, ER
+R_MALCOAtr	Malonyl-CoA transport, ER
+R_Pitr	phosphate ER transport via proton symport
+R_SERtr	Amino acid transporter (ser-L), ER
+R_COA_LPAREN_h_RPAREN_tr	CoA transport, ER
+R_GLYC3Ptr	glycerol 3-phosphate transport (ER)
+R_TRIGLYCtr	Triacylglycerol transport, ER
+R_CTPtr	CTP transport, ER
+R_CDPDAGtr	CDP-diacylglycerol transport, ER
+R_PTD1INOtr	1-Phosphatidyl-D-myo-inositol transport, ER
+R_PEtr	Phosphatidylethanolamine transport, ER
+R_PStr	Phosphatidylserine transport, ER
+R_PGPtr	Phosphatidylglycerophosphate transport, ER
+R_CHOLtr	Choline transport, ER
+R_INOSTtr	Inositol transport, ER
+R_FADH2tr	FADH2 transport, ER
+R_FADtr	FAD transport by free diffusion, ER
+R_O2tu	O2 thylakoid trnasport
+R_H2Otu	H2O transport by passive diffusion, Thylakoid Lumen
+R_DM_12O9DD_LPAREN_s_RPAREN_	Sink needed to allow 12-oxo-c-9-dodecenoate to leave system
+R_DM_3_DASH_NON_LPAREN_s_RPAREN_	Sink needed to allow (3Z)-nonenal to leave system
+R_DM_3_DASH_NOND_LPAREN_s_RPAREN_	Sink needed to allow (3Z,6Z)-nonadienal to leave system
+R_DM_9_DASH_NONAN_LPAREN_s_RPAREN_	Sink needed to allow 9-oxo-nonanoate to leave system
+R_DM_ACRTNL_LPAREN_s_RPAREN_	Sink needed to allow C25-Allenic-apo-aldehyde to leave system
+R_DM_ACT_LPAREN_s_RPAREN_	Sink needed to allow acetone to leave system
+R_DM_ADE_LPAREN_s_RPAREN_	Sink needed to allow Adenine to leave system
+R_DM_AFZL_LPAREN_c_RPAREN_	Sink needed to allow Afzelechin to leave system
+R_DM_AMOB_LPAREN_c_RPAREN_	Sink needed to allow S-Adenosyl-4-methylthio-2-oxobutanoate to leave system
+R_DM_AMYGD_LPAREN_c_RPAREN_	Sink needed to allow (R)-Amygdalin to leave system
+R_DM_APGNNP_LPAREN_c_RPAREN_	Sink needed to allow Apigenin 7-O-neohesperidoside to leave system
+R_DM_AVITE1_LPAREN_s_RPAREN_	Sink needed to allow alpha-Tocopherol to leave system
+R_DM_BGPTN_LPAREN_c_RPAREN_	Sink needed to allow bergapten to leave system
+R_DM_BILIVERD_LPAREN_s_RPAREN_	Sink needed to allow Biliverdin to leave system
+R_DM_BRSNL_LPAREN_c_RPAREN_	Sink needed to allow Brassinolide to leave system
+R_DM_BTN_LPAREN_c_RPAREN_	Sink needed to allow Biotin to leave system
+R_DM_BUTIN_LPAREN_c_RPAREN_	Sink needed to allow Butin to leave system
+R_DM_CADAVERINE_LPAREN_s_RPAREN_	Sink needed to allow Cadaverine to leave system
+R_DM_CAMP_LPAREN_c_RPAREN_	Sink needed to allow cyclic-AMP to leave system
+R_DM_CAMPSTFER_LPAREN_c_RPAREN_	Sink needed to allow campesteryl ferulate to leave system
+R_DM_CATCN_LPAREN_c_RPAREN_	Sink needed to allow D-Catechin to leave system
+R_DM_CERDT_LPAREN_r_RPAREN_	Sink needed to allow cerotdioate (n-C26:0) to leave system
+R_DM_CEROOL_LPAREN_r_RPAREN_	Sink needed to allow Cerotyl alcohol to leave system
+R_DM_CHSTEROL_LPAREN_c_RPAREN_	Sink needed to allow Cholesterol to leave system
+R_DM_CHUMU_LPAREN_c_RPAREN_	Sink needed to allow Cohumulone to leave system
+R_DM_CNDM35DG_LPAREN_c_RPAREN_	Sink needed to allow cyanidin-3,5-diglucoside to leave system
+R_DM_COA_LPAREN_c_RPAREN_	demand removing excess coa
+R_DM_COUMN_LPAREN_c_RPAREN_	Sink needed to allow coumarin to leave system
+R_DM_COUMOH_LPAREN_c_RPAREN_	Sink needed to allow 4-Coumaryl alcohol to leave system
+R_DM_CPP1_LPAREN_s_RPAREN_	Sink needed to allow Coproporphyrin I to leave system
+R_DM_CRPE_LPAREN_c_RPAREN_	Sink needed to allow beta-Caryophyllene to leave system
+R_DM_CYARTFER_LPAREN_c_RPAREN_	Sink needed to allow Cycloartenyl ferulate to leave system
+R_DM_CYTC_LPAREN_m_RPAREN_	Sink needed to allow Cytochrome c to leave system
+R_DM_CYTC_LPAREN_s_RPAREN_	Sink needed to allow Cytochrome c to leave system
+R_DM_C_DASH_ZTN7G_LPAREN_c_RPAREN_	Sink needed to allow cis-zeatin-7-N-glucoside to leave system
+R_DM_C_DASH_ZTN9G_LPAREN_c_RPAREN_	Sink needed to allow cis-zeatin-9-N-glucoside to leave system
+R_DM_ZTNG_LPAREN_c_RPAREN_	Sink needed to allow cis-Zeatin-O-glucoside to leave system
+R_DM_DHBZCAROT_LPAREN_s_RPAREN_	Sink needed to allow 7,8-Dihydro-beta-carotene to leave system
+R_DM_DHZ7G_LPAREN_c_RPAREN_	Sink needed to allow dihydrozeatin-7-N-glucoside to leave system
+R_DM_DHZ9G_LPAREN_c_RPAREN_	Sink needed to allow dihydrozeatin-9-N-glucoside to leave system
+R_DM_DHZG_LPAREN_c_RPAREN_	Sink needed to allow Dihydrozeatin-O-glucoside to leave system
+R_DM_DVCHLDA_LPAREN_s_RPAREN_	Sink needed to allow Divinyl chlorophyllide a to leave system
+R_DM_EIHKAUR_LPAREN_c_RPAREN_	Sink needed to allow ent-2alpha-Hydroxyisokaurene to leave system
+R_DM_ELM_LPAREN_c_RPAREN_	Sink needed to allow beta-elemene to leave system
+R_DM_ENTB_LPAREN_s_RPAREN_	Sink needed to allow enterobactin to leave system
+R_DM_EPCTCN_LPAREN_c_RPAREN_	Sink needed to allow Epicatechin to leave system
+R_DM_EPLZN_LPAREN_c_RPAREN_	Sink needed to allow Epiafzelechin to leave system
+R_DM_ERGTOL_LPAREN_c_RPAREN_	Sink needed to allow Ergosterol to leave system
+R_DM_ETHYLENE_LPAREN_c_RPAREN_	Sink needed to allow Ethylene to leave system
+R_DM_GA13_LPAREN_c_RPAREN_	Sink needed to allow Gibberellin A13 to leave system
+R_DM_GA17_LPAREN_c_RPAREN_	Sink needed to allow gibberellin A17 to leave system
+R_DM_GA29CAT_LPAREN_c_RPAREN_	Sink needed to allow gibberellin A29-catabolite to leave system
+R_DM_GA34_LPAREN_c_RPAREN_	Sink needed to allow Gibberellin A34 to leave system
+R_DM_GA51CAT_LPAREN_c_RPAREN_	Sink needed to allow Gibberellin A51-catabolite to leave system
+R_DM_GA8CAT_LPAREN_c_RPAREN_	Sink needed to allow Gibberellin A8-catabolite to leave system
+R_DM_GA98_LPAREN_c_RPAREN_	Sink needed to allow Gibberallin A 98 to leave system
+R_DM_GENTDP_LPAREN_c_RPAREN_	Sink needed to allow Gentiodelphin to leave system
+R_DM_HUML_LPAREN_c_RPAREN_	Sink needed to allow alpha-Humulene to leave system
+R_DM_HUMU_LPAREN_c_RPAREN_	Sink needed to allow Humulone to leave system
+R_DM_IORNTN2GCOUM_LPAREN_c_RPAREN_	Sink needed to allow Isoorientin-2-(6-coumaroyl)-O-glucoside to leave system
+R_DM_IPADNE7G_LPAREN_c_RPAREN_	Sink needed to allow isopentenyladenine-7-N-glucoside to leave system
+R_DM_IPADNE9G_LPAREN_c_RPAREN_	Sink needed to allow isopentenyladenine-9-N-glucoside to leave system
+R_DM_ISCPRN2GCOUM_LPAREN_c_RPAREN_	Sink needed to allow Isoscoparin-2-O-(6-coumaroyl)-glucoside to leave system
+R_DM_ISCPRN2GFER_LPAREN_c_RPAREN_	Sink needed to allow Isoscoparin-2-O-(6-feruloyl)-glucoside to leave system
+R_DM_IVTXN2GFER_LPAREN_c_RPAREN_	Sink needed to allow Isovitexin-2-O-(6-feruloyl)-glucoside to leave system
+R_DM_JASILE_LPAREN_c_RPAREN_	Sink needed to allow jasmonoyl-isoleucine to leave system
+R_DM_JASLEU_LPAREN_c_RPAREN_	Sink needed to allow jasmonoyl-leucine to leave system
+R_DM_JASVAL_LPAREN_c_RPAREN_	Sink needed to allow jasmonoyl-valine to leave system
+R_DM_JASKMPFL3G_LPAREN_c_RPAREN_	Sink needed to allow Kaempferol 3-O-glucoside to leave system
+R_DM_LACXAN_LPAREN_s_RPAREN_	Sink needed to allow Lactucaxanthin to leave system
+R_DM_LGNCOL_LPAREN_r_RPAREN_	Sink needed to allow lignoceryl alcohol to leave system
+R_DM_LGNDT_LPAREN_r_RPAREN_	Sink needed to allow lignocerdioate (n-C24:0) to leave system
+R_DM_LIM_LPAREN_s_RPAREN_	Sink needed to allow (S)-Limonene to leave system
+R_DM_LTNNP_LPAREN_c_RPAREN_	Sink needed to allow Luteolin 7-O-neohesperidoside to leave system
+R_DM_LUTEIN_LPAREN_c_RPAREN_	Sink needed to allow Lutein to leave system
+R_DM_MNQNNE_LPAREN_s_RPAREN_	Sink needed to allow Menaquinone 8 to leave system
+R_DM_MOMA_LPAREN_s_RPAREN_	Sink needed to allow Momilactone A to leave system
+R_DM_ORNTN_LPAREN_c_RPAREN_	Sink needed to allow Orientin to leave system
+R_DM_OZLN_DASH_C_LPAREN_c_RPAREN_	Sink needed to allow oryzalexin C to leave system
+R_DM_OZLN_DASH_E_LPAREN_c_RPAREN_	Sink needed to allow oryzalexin E to leave system
+R_DM_OZLN_DASH_F_LPAREN_c_RPAREN_	Sink needed to allow oryzalexin F to leave system
+R_DM_OZLN_DASH_S_LPAREN_c_RPAREN_	Sink needed to allow oryzalexin S to leave system
+R_DM_PHAS_LPAREN_s_RPAREN_	Sink needed to allow O-Phospho-L-homoserine to leave system
+R_DM_PHOM_LPAREN_c_RPAREN_	Sink needed to allow Menaquinone 8 to leave system
+R_DM_photonDrain_LPAREN_u_RPAREN_	demand removing excess photon from system
+R_DM_PHTC_DASH_A_LPAREN_c_RPAREN_	Sink needed to allow phytocassane A to leave system
+R_DM_PHTC_DASH_B_LPAREN_c_RPAREN_	Sink needed to allow phytocassane B to leave system
+R_DM_PHTC_DASH_D_LPAREN_c_RPAREN_	Sink needed to allow phytocassane D to leave system
+R_DM_PHTC_DASH_E_LPAREN_c_RPAREN_	Sink needed to allow phytocassane E to leave system
+R_DM_PINBAN_LPAREN_c_RPAREN_	Sink needed to allow Pinobanksin to leave system
+R_DM_PLAST_LPAREN_s_RPAREN_	Sink needed to allow Plastoquinone A to leave system
+R_DM_PLGNG_LPAREN_c_RPAREN_	Sink needed to allow Pelargonidin 3-O-glucoside to leave system
+R_DM_PQNNE_LPAREN_s_RPAREN_	Sink needed to allow Phylloquinone to leave system
+R_DM_PRIMARDN_LPAREN_s_RPAREN_	Sink needed to allow ent-Pimara-8(14),15-diene to leave system
+R_DM_QRCTN3G_LPAREN_c_RPAREN_	Sink needed to allow Quercetin 3-O-glucoside to leave system
+R_DM_SCLGN_LPAREN_c_RPAREN_	Sink needed to allow Secologanin to leave system
+R_DM_SQ12DGR_OS_LPAREN_s_RPAREN_	Sink needed to allow Sulfoquinovosyldiacylglycerol to leave system
+R_DM_SRNTN_LPAREN_c_RPAREN_	Sink needed to allow Serotonin to leave system
+R_DM_STCSD_LPAREN_c_RPAREN_	Sink needed to allow Strictosidine to leave system
+R_DM_TRICING_LPAREN_c_RPAREN_	Sink needed to allow Tricin-O-glucoside to leave system
+R_DM_TRPN_LPAREN_c_RPAREN_	Sink needed to allow Tropinone to leave system
+R_DM_T_DASH_ZTN7G_LPAREN_c_RPAREN_	Sink needed to allow trans-zeatin-7-N-glucoside to leave system
+R_DM_T_DASH_ZTN9G_LPAREN_c_RPAREN_	Sink needed to allow trans-zeatin-9-N-glucoside to leave system
+R_DM_T_DASH_ZTNG_LPAREN_c_RPAREN_	Sink needed to allow trans-zeatin-O-glucoside to leave system
+R_DM_T_DASH_ZTNR_LPAREN_c_RPAREN_	Sink needed to allow trans-Zeatin riboside to leave system
+R_DM_VTXN_LPAREN_c_RPAREN_	Sink needed to allow Vitexin to leave system
+R_DM_YVITE_LPAREN_s_RPAREN_	Sink needed to allow gamma-Tocopherol to leave system
+R_DM_PSI	demand removing excess photon from system
+R_DM_PSII	demand removing excess photon from system

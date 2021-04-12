@@ -1,0 +1,1302 @@
+dGDP	{META:DGDP=MetaCyc}
+S-Adenosylmethioninamine	{META:S-ADENOSYLMETHIONINAMINE=MetaCyc}
+30-hydroxymelissate	null
+Phenylpyruvate	{META:PHENYL-PYRUVATE=MetaCyc}
+N-((R)-4-Phosphopantothenoyl)-L-cysteine	{cpd02666=ModelSeed, META:R-4-PHOSPHOPANTOTHENOYL-L-CYSTEINE=MetaCyc}
+arachidioate (n-C20:0)	null
+Selenohomocysteine	{META:SELENOHOMOCYSTEINE=MetaCyc}
+3-Oxodecanoyl-CoA	{META:CPD0-2123=MetaCyc}
+Octadecadienoate (n-C18:2)	{cpd16888=ModelSeed}
+20-oxo-arachidate	null
+D-Galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide	{META:CPD-7188=MetaCyc}
+4-Guanidinobutanamide	{META:4-GUANIDO-BUTYRAMIDE=MetaCyc}
+Mercaptopyruvate	{META:3-MERCAPTO-PYRUVATE=MetaCyc}
+myo-Inositol hexakisphosphate	{META:MI-HEXAKISPHOSPHATE=MetaCyc}
+2-hydroxynaringenin	{META:CPD-15074=MetaCyc}
+7,8-Dihydro-beta-carotene	{META:CPD-20647=MetaCyc}
+(3R)-3-hydroxy-melissoyl-CoA	null
+selenophosphate	{META:SEPO3=MetaCyc}
+3-Oxooctadecanoyl-CoA	{META:CPD-10260=MetaCyc}
+L-Histidine	{META:HIS=MetaCyc}
+(S)-3-Hydroxyhexadecanoyl-CoA	{META:CPD0-2232=MetaCyc}
+Dihydrokaempferol	{META:DIHYDROKAEMPFEROL-CMPD=MetaCyc}
+3-Oxotetradecanoyl-[acyl-carrier protein]	null
+(S)-3-Hydroxytetradecanoyl-CoA	{META:CPD0-2171=MetaCyc}
+Lutein	{META:CPD1F-119=MetaCyc}
+Protein C-terminal S-farnesyl-L-cysteine	{META:PROTEIN-C-TERMINAL-S-ETC-CYSTEINE=MetaCyc}
+Glycolate	{META:GLYCOLLATE=MetaCyc}
+Quercetin 3-O-glucoside	{META:CPD1F-437=MetaCyc}
+Castasterone	{META:CPD-634=MetaCyc}
+trans-Hexadec-2-enoyl-[acyl-carrier protein]	null
+Cytochrome c	{cpd00410=ModelSeed, META:CPD-16495=MetaCyc}
+(22S)-22-Hydroxy-campesterol	{META:CPD-3943=MetaCyc}
+5alpha-Campestan-3-one	{META:CPD-709=MetaCyc}
+1,2-Diacyl-sn-glycerol	{META:DIACYLGLYCEROL=MetaCyc}
+Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine	{META:C5=MetaCyc}
+cyclic-AMP	{META:CAMP=MetaCyc}
+10-Formyltetrahydrofolate glutamate	null
+Methaneselenol	{cpd03401=ModelSeed}
+Feruloyl-CoA	{META:FERULOYL-COA=MetaCyc}
+Reduced ferredoxin	{cpd11620=ModelSeed}
+1-Phosphatidyl-1D-myo-inositol 5-phosphate	{META:1-PHOSPHATIDYL-1D-MYO-INOSITOL-5-PHOSPHA=MetaCyc}
+(Glc)3 (GlcNAc)2 (Man)9 (Asn)1	null
+(Glc)1 (GlcNAc)2 (Man)9 (PP-Dol)1	null
+26-hydroxycerotate	null
+24-Ethylidenelophenol	{META:CPD-4124=MetaCyc}
+Apigenin 7-O-neohesperidoside	{META:APIGENIN-7-O-NEOHESPERIDOSIDE=MetaCyc}
+trans-octadec-2-enoyl-[acyl-carrier protein]	null
+Dihydroneopterin phosphate	{META:DIHYDRONEOPTERIN-P=MetaCyc}
+Siroheme	{META:SIROHEME=MetaCyc}
+24-hydroxylignocerate	null
+30-oxo-melissate	null
+Hydrogen sulfide	{META:HS=MetaCyc}
+Oxidized thioredoxin	{cpd11420=ModelSeed}
+Pinocembrin	{META:CPD-6991=MetaCyc}
+1D-myo-Inositol 1,2,3,4,5-pentakisphosphate	null
+Hexanoyl-CoA (n-C6:0CoA)	{cpd03124=ModelSeed, META:HEXANOYL-COA=MetaCyc}
+Deamino-NAD+	{META:DEAMIDO-NAD=MetaCyc}
+D-Glucose 1-phosphate	{META:GLC-1-P=MetaCyc}
+Protein-cysteine	{cpd21352=ModelSeed, META:PROT-CYS=MetaCyc}
+L-Lactaldehyde	{META:LACTALD=MetaCyc}
+D-Glucuronate 1-phosphate	{META:CPD-510=MetaCyc}
+4-Amino-2-methyl-5-phosphomethylpyrimidine	{cpd02775=ModelSeed, META:AMINO-HYDROXYMETHYL-METHYL-PYR-P=MetaCyc}
+FMN	{META:FMN=MetaCyc}
+2-hydroxynaringenin 8-C-glucoside	null
+L-beta-Cyanoalanine	{META:CPD-603=MetaCyc}
+GDP-L-galactose	{META:GDP-L-GALACTOSE=MetaCyc}
+(S)-2-Aceto-2-hydroxybutanoate	{META:2-ACETO-2-HYDROXY-BUTYRATE=MetaCyc}
+7,8-Diaminononanoate	{META:DIAMINONONANOATE=MetaCyc}
+2-hydroxynaringenin 6-C-glucoside	null
+ent-Kaurene	{META:CPD1F-128=MetaCyc}
+4-Amino-5-hydroxymethyl-2-methylpyrimidine	{META:HMP=MetaCyc}
+Stemar-13-enol	null
+S-(2-Methylbutanoyl)-dihydrolipoamide	{META:CPD-941=MetaCyc}
+Glycerol 3-phosphate	{META:GLYCEROL-3P=MetaCyc, cpd00080=ModelSeed}
+3-Oxododecanoyl-[acyl-carrier protein]	null
+4-Coumaryl alcohol	{META:COUMARYL-ALCOHOL=MetaCyc}
+umbelliferone	{META:CPD-8186=MetaCyc}
+L-Ornithine	{META:L-ORNITHINE=MetaCyc}
+D-Glucosamine 6-phosphate	{META:D-GLUCOSAMINE-6-P=MetaCyc}
+Ubiquinol	{META:Ubiquinols=MetaCyc}
+Cholesta-5,7-dien-3beta-ol	{META:CPD-4187=MetaCyc}
+L-Phenylalanyl-tRNA(Phe)	{cpd12335=ModelSeed}
+Succinic semialdehyde	{META:SUCC-S-ALD=MetaCyc}
+8-Amino-7-oxononanoate	{META:8-AMINO-7-OXONONANOATE=MetaCyc}
+ent-sandaracopimaradiene-3alpha-ol	null
+5-Amino-4-oxopentanoate	{META:5-AMINO-LEVULINATE=MetaCyc}
+cis-Zeatin-O-glucoside	{META:CPD-4620=MetaCyc}
+D-Arabinose 5-phosphate	{META:ARABINOSE-5P=MetaCyc}
+oryzalexin C	{META:CPD-16614=MetaCyc}
+oryzalexin D	{META:CPD-16612=MetaCyc}
+oryzalexin A	{META:CPD-7093=MetaCyc}
+Betaine aldehyde hydrate	{META:BETAINE-ALDEHYDE-HYDRATE=MetaCyc}
+oryzalexin B	{META:CPD-16613=MetaCyc}
+all-trans-Octaprenyl diphosphate	{META:OCTAPRENYL-DIPHOSPHATE=MetaCyc}
+tRNA	{cpd11615=ModelSeed}
+oryzalexin E	{META:CPD-16611=MetaCyc}
+Dimethylallyl diphosphate	{META:CPD-4211=MetaCyc}
+oryzalexin F	{META:CPD-16615=MetaCyc}
+24-oxo-lignocerate	null
+GDP-L-gulose	{META:CPD-7078=MetaCyc}
+oryzalexin S	{META:CPD-16616=MetaCyc}
+Oxidized glutathione	{META:OXIDIZED-GLUTATHIONE=MetaCyc}
+UMP	{META:UMP=MetaCyc}
+1,4-beta-D-Xylan	{META:1-4-beta-Xylan=MetaCyc}
+Thiamin (Vitamin B1)	null
+N-Acetyl-D-glucosamine 6-phosphate	{META:N-ACETYL-D-GLUCOSAMINE-6-P=MetaCyc}
+Dihydroneopterin	{META:DIHYDRO-NEO-PTERIN=MetaCyc}
+ent-Kaur-16-en-19-oate	{META:CPD1F-132=MetaCyc}
+Gibberallin A 98	null
+5,10-Methylenetetrahydrofolate	{META:METHYLENE-THF=MetaCyc}
+luteolin 7-O-glucoside	{META:LUTEOLIN-7-O-BETA-D-GLUCOSIDE=MetaCyc}
+Indole	{META:INDOLE=MetaCyc}
+2-Phosphoglycolate	{META:CPD-67=MetaCyc}
+Epiafzelechin	null
+4-Coumaroylshikimate	{META:CPD-412=MetaCyc}
+Propenoyl-CoA	{META:ACRYLYL-COA=MetaCyc}
+dTDP	{META:TDP=MetaCyc}
+3-Dehydro-6-deoxoteasterone	{META:CPD-717=MetaCyc}
+(GlcNAc)2 (Man)2 (PP-Dol)1	null
+indole-3-acetyl-glutamate	null
+N-(5-Phospho-D-ribosyl)anthranilate	{META:N-5-PHOSPHORIBOSYL-ANTHRANILATE=MetaCyc}
+S-(2-Methylpropanoyl)-dihydrolipoamide	{cpd02700=ModelSeed, META:CPD-281=MetaCyc}
+ent-cassa-12,15-diene-2,3alpha-ol-11-keto	null
+4-Methyl-2-oxopentanoate	{META:2K-4CH3-PENTANOATE=MetaCyc}
+(S)-3-Hydroxyisobutyrate	{META:CPD-12175=MetaCyc}
+Ethanolamine	{META:ETHANOL-AMINE=MetaCyc}
+Adenosine	{META:ADENOSINE=MetaCyc}
+2-C-Methyl-D-erythritol 4-phosphate	{META:2-C-METHYL-D-ERYTHRITOL-4-PHOSPHATE=MetaCyc}
+L-Methionyl-tRNA (Met)	{cpd12105=ModelSeed}
+H+	{META:PROTON=MetaCyc}
+(R)-Pantothenate	{META:PANTOTHENATE=MetaCyc}
+Indolepyruvate	{META:INDOLE_PYRUVATE=MetaCyc}
+N-Acetyl-D-mannosamine	{META:N-ACETYL-D-MANNOSAMINE=MetaCyc}
+Chlorophyll b	{META:CHLOROPHYLL-B=MetaCyc}
+3-Dehydroshikimate	{META:3-DEHYDRO-SHIKIMATE=MetaCyc}
+3'-Phosphoadenylyl sulfate	{META:PAPS=MetaCyc}
+4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	{META:44-DIMETHYL-CHOLESTA-814-24-TRIENOL=MetaCyc}
+D-Glutamate	{META:D-GLT=MetaCyc}
+Chlorophyll a	{META:CHLOROPHYLL-A=MetaCyc}
+Malonyl-[acyl-carrier protein]	null
+1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide	null
+ent-Kaur-16-en-19-ol	{META:ENT-KAUR-16-EN-19-OL=MetaCyc}
+3-Oxooctanoyl-[acyl-carrier protein]	null
+Campesterol	{META:CPD-707=MetaCyc}
+(S)-2-Acetolactate	{META:2-ACETO-LACTATE=MetaCyc}
+D-Erythrose 4-phosphate	{META:ERYTHROSE-4P=MetaCyc}
+Nicotinate D-ribonucleotide	{META:NICOTINATE_NUCLEOTIDE=MetaCyc}
+Isopentenyl adenosine	{META:CPD-4207=MetaCyc}
+Monoacylglycerol	{META:Monoacylglycerols=MetaCyc}
+6-Phospho-D-gluconate	{META:CPD-2961=MetaCyc}
+Oxidized ferredoxin	{cpd11621=ModelSeed}
+20-hydroxyarachidate	null
+N-Acetylneuraminate	{META:N-ACETYLNEURAMINATE=MetaCyc}
+L-Phenylalanine	{META:PHE=MetaCyc}
+octadecenoate (n-C18:1)	{META:OLEATE-CPD=MetaCyc}
+dCDP	{META:DCDP=MetaCyc}
+cis-zeatin-7-N-glucoside	{META:CPD-4618=MetaCyc}
+Cellulose	{META:CELLULOSE=MetaCyc}
+Oxaloacetate	{META:OXALACETIC_ACID=MetaCyc}
+cis-Zeatin	{META:CPD-4441=MetaCyc}
+N-Acetyl-D-galactosamine	{META:CPD-3604=MetaCyc}
+Sedoheptulose 1,7-bisphosphate	{META:D-SEDOHEPTULOSE-1-7-P2=MetaCyc}
+2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine	{META:5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE=MetaCyc}
+GDP-D-mannose	{META:GDP-MANNOSE=MetaCyc}
+Indole-3-acetaldehyde oxime	{META:INDOLE-3-ACETALDOXIME=MetaCyc}
+3-oxo-cerotoyl-CoA	{META:CPD-14274=MetaCyc}
+lignocerdioate (n-C24:0)	null
+(GlcN)1 (Ino(acyl)-P)1	null
+3-Dehydrosphinganine	{META:DEHYDROSPHINGANINE=MetaCyc}
+Sphingosine	{META:SPHINGOSINE=MetaCyc}
+trans-zeatin-7-N-glucoside	{META:CPD-4612=MetaCyc}
+Glucosylceramide	{META:Glucosyl-ceramides=MetaCyc, cpd00878=ModelSeed}
+campesteryl ferulate	null
+hexadecanedioate	{META:CPD-10511=MetaCyc}
+trans-zeatin riboside triphosphate	{META:CPD-4202=MetaCyc}
+Cycloartenyl ferulate	null
+Gibberellin A8	{META:CPD-204=MetaCyc}
+Gibberellin A9	{META:CPD1F-134=MetaCyc}
+chorismate	{META:CHORISMATE=MetaCyc}
+Gibberellin A4	{META:CPD1F-137=MetaCyc}
+L-Tyrosyl-tRNA(Tyr)	{cpd12194=ModelSeed}
+UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine	{META:OH-MYRISTOYL=MetaCyc}
+Gibberellin A1	{META:CPD1F-139=MetaCyc}
+Delphinidin 3-O-glucoside	{META:CPD-7117=MetaCyc}
+Isovitexin 2-O-beta-D-glucoside	null
+9beta-Pimara-7,15-diene	{META:CPD-4754=MetaCyc}
+L-Cystathionine	{META:L-CYSTATHIONINE=MetaCyc}
+Nitric oxide	{META:NITRIC-OXIDE=MetaCyc}
+5-Dehydroavenasterol	{META:CPD-4126=MetaCyc}
+9,10-epoxy-18-hydroxystearate	{META:910-EPOXY-18-HYDROXYSTEARATE=MetaCyc}
+S-Adenosyl-L-homocysteine	{META:ADENOSYL-HOMO-CYS=MetaCyc}
+cis-Zeatin riboside monophosphate	{META:CPD-4443=MetaCyc}
+OPC8-trans-2-enoyl-CoA	{META:CPD-11518=MetaCyc}
+Phenylacetaldehyde	{META:PHENYLACETALDEHYDE=MetaCyc}
+L-Aspartyl-tRNA(Asp)	{cpd12226=ModelSeed}
+Dihydroquercetin	{META:CPD-474=MetaCyc}
+Pimelyl-[acyl-carrier protein] methyl ester	null
+Trehalose	{META:TREHALOSE=MetaCyc}
+gamma-L-Glutamyl-L-cysteine	{META:L-GAMMA-GLUTAMYLCYSTEINE=MetaCyc}
+2-Octaprenyl-6-methoxy-1,4-benzoquinol	{META:OCTAPRENYL-METHOXY-BENZOQUINONE=MetaCyc}
+Pinocembrin chalcone	{META:CPD-6993=MetaCyc}
+(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide	{META:CPD-7181=MetaCyc}
+4-Maleylacetoacetate	{META:4-MALEYL-ACETOACETATE=MetaCyc}
+Guanine	{META:GUANINE=MetaCyc}
+Octadecadienoyl-CoA (n-C18:2CoA)	null
+UDP-D-galacturonate	{META:UDP-D-GALACTURONATE=MetaCyc}
+2-hydroxyeriodictyol	{META:CPD-15079=MetaCyc}
+3-Ketopimeloyl-[acp] methyl ester	null
+(22S,24R)-22-Hydroxy-5alpha-ergostan-3-one	{META:CPD-3946=MetaCyc}
+Dehydrodolichol diphosphate	{cpd12788=ModelSeed}
+D-Galactose	{META:D-Galactose=MetaCyc}
+Eriodictyol	{META:CPD-6994=MetaCyc}
+24-Methylenecholesterol	{META:CPD-706=MetaCyc}
+1,3-Diaminopropane	{META:CPD-313=MetaCyc}
+Protoporphyrinogen IX	{META:PROTOPORPHYRINOGEN=MetaCyc}
+But-2-enoyl-[acyl-carrier protein]	null
+(S)-3-Hydroxydodecanoyl-CoA	{META:CPD0-2107=MetaCyc}
+dGMP	{META:DGMP=MetaCyc}
+Xanthosine	{META:XANTHOSINE=MetaCyc}
+(GlcNAc)2 (Man)9 (PP-Dol)1	null
+N-Carbamoyl-L-aspartate	{META:CARBAMYUL-L-ASPARTATE=MetaCyc}
+OPC4-CoA	{META:CPD-11525=MetaCyc}
+4-Fumarylacetoacetate	{META:4-FUMARYL-ACETOACETATE=MetaCyc}
+Manninotriose	{META:CPD-8249=MetaCyc}
+Hydroxypyruvate	{META:OH-PYR=MetaCyc}
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	{META:PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE=MetaCyc}
+L-Arogenate	{META:CPD-659=MetaCyc}
+4-prenylphlorisovalerophenone	{META:CPD-7109=MetaCyc}
+L-2-Aminoadipate 6-semialdehyde	{META:ALLYSINE=MetaCyc}
+cerotate (n-C26:0)	null
+cis-octadec-11-enoyl-[acyl-carrier protein] ((11Z)-n-C18:1)	null
+(R)-5-Diphosphomevalonate	{META:CPD-641=MetaCyc}
+2-Oxoglutarate	{META:2-KETOGLUTARATE=MetaCyc}
+Succinyl-CoA	{META:SUC-COA=MetaCyc}
+acetone	{META:ACETONE=MetaCyc}
+C'-(3-Indolyl)-glycerol 3-phosphate	{cpd29667=ModelSeed}
+trans-Dec-2-enoyl-[acyl-carrier protein]	null
+dADP	{META:DADP=MetaCyc}
+(3R)-3-hydroxy-montanoyl-CoA	null
+alpha-D-Ribose 1-phosphate	{META:RIBOSE-1P=MetaCyc}
+1,3-beta-D-Glucan	{META:1-3-beta-D-Glucans=MetaCyc}
+UTP	{META:UTP=MetaCyc}
+Ubiquinone	{META:UBIQUINONE-2=MetaCyc}
+trans-Octadec-2-enoyl-CoA	{META:CPD-10262=MetaCyc}
+o2[u]	null
+Stachyose	{META:CPD-170=MetaCyc}
+Sakuranetin	{META:CPD-7079=MetaCyc}
+trans-cerot-2-enoyl-CoA	{META:CPD-14283=MetaCyc}
+L-Cysteinyl-tRNA(Cys)	{cpd12255=ModelSeed}
+Phlorisobutyrophenone	{META:CPD-7104=MetaCyc}
+sucrose-6-phosphate	null
+ent-Cassa-12,15-diene	{META:CPD-4751=MetaCyc}
+ent-7alpha-Hydroxykaur-16-en-19-oate	{META:CPD1F-136=MetaCyc}
+2-Coumarate	{META:2-COUMARATE=MetaCyc}
+Squalene	{META:SQUALENE=MetaCyc}
+Chitin	{META:CHITIN=MetaCyc}
+Acetate	{META:ACET=MetaCyc}
+L-Selenomethionine	{META:SELENOMETHIONINE=MetaCyc}
+Cinnamyl alcohol	{META:CINNAMYL-ALC=MetaCyc}
+7-Dehydroavenasterol	{META:CPD-4125=MetaCyc}
+Sodium	{META:NA+=MetaCyc}
+Orientin	{META:CPD-15083=MetaCyc}
+1,4-Dihydroxy-2-naphthoyl-CoA	{META:CPD-9925=MetaCyc}
+Plastocyanin(Cu2+)	{cpd30035=ModelSeed}
+(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	null
+L-Glutamate	{META:GLT=MetaCyc}
+trans-zeatin-O-glucoside	{META:CPD-4614=MetaCyc}
+Cohumulone	{META:CPD-7108=MetaCyc}
+O2	{META:OXYGEN-MOLECULE=MetaCyc}
+Adenosine 5'-phosphosulfate	{META:APS=MetaCyc}
+16-Hydroxypalmitate	{cpd19486=ModelSeed, META:16-HYDROXYPALMITATE=MetaCyc}
+10,16-dihydroxypalmitate	{META:1016-DIHYDROXYPALMITATE=MetaCyc}
+Cyanidin	{META:CPD-591=MetaCyc}
+D-Catechin	{META:CPD-1961=MetaCyc}
+Adenosine 3',5'-bisphosphate	{META:3-5-ADP=MetaCyc}
+Gibberellin A12 aldehyde	{META:CPD1F-138=MetaCyc}
+S-Adenosyl-4-methylthio-2-oxobutanoate	{META:S-ADENOSYL-4-METHYLTHIO-2-OXOBUTANOATE=MetaCyc}
+arachidyl palmitate	{META:CPD-7799=MetaCyc}
+bergaptol	{META:BERGAPTOL=MetaCyc}
+eriodictyol dibenzoylmethane tautomer	{META:CPD-15077=MetaCyc}
+Phosphatidylserine	{META:L-1-PHOSPHATIDYL-SERINE=MetaCyc}
+2-Oxoadipate	{META:2K-ADIPATE=MetaCyc}
+Behenyl alcohol	{META:CPD-7845=MetaCyc}
+Acetoacetate	{META:3-KETOBUTYRATE=MetaCyc}
+D-myo-inositol (3,4,6)-trisphosphate	{META:CPD-6681=MetaCyc}
+behenoyl CoA (n-C22:0CoA)	null
+Glyoxylate	{META:GLYOX=MetaCyc}
+HSO3-	{META:HSO3=MetaCyc}
+2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol	{META:OCTAPRENYL-METHYL-OH-METHOXY-BENZQ=MetaCyc, cpd15360=ModelSeed}
+L-Lactate	{META:L-LACTATE=MetaCyc}
+Dolichyl diphosphate	{META:CPD-224=MetaCyc}
+isopentenyladenine-9-N-glucoside	{META:CPD-4603=MetaCyc}
+3-Sulfino-L-alanine	{META:3-SULFINOALANINE=MetaCyc}
+IscS sulfur acceptor protein	{iscs=BiGGMetabolite}
+Trihexosylceramide	{META:D-GALACTOSYL-14-D-GALACTOSYL-14-D-=MetaCyc}
+4-Aminobutanoate	{META:4-AMINO-BUTYRATE=MetaCyc}
+Octadecanoyl-ACP (n-C18:0ACP)	{cpd15268=ModelSeed}
+Feruloylalkate	null
+cis-hexadec-9-enoyl-[acyl-carrier protein] ((9Z)-n-C16:1)	null
+D-Ribose	{META:CPD-10330=MetaCyc}
+alpha-D-glucose 6 phosphate	{META:ALPHA-GLC-6-P=MetaCyc}
+Dihydrolipoamide	{META:DIHYDROLIPOAMIDE=MetaCyc}
+(S)-Limonene	null
+Sarcosine	{META:SARCOSINE=MetaCyc}
+2,3-Dimethyl-5-phytylquinol	{META:DMPBQ=MetaCyc}
+tRNA(Pro)	{META:PRO-tRNAs=MetaCyc, cpd11920=ModelSeed}
+Zymosterol	{META:ZYMOSTEROL=MetaCyc}
+S-Aminomethyldihydrolipoylprotein	{cpd11830=ModelSeed}
+Magnesium protoporphyrin IX	{META:MG-PROTOPORPHYRIN=MetaCyc}
+22-oxo-behenate	{META:CPD-13098=MetaCyc}
+Octanoyl-CoA (n-C8:0CoA)	{META:CPD-196=MetaCyc}
+UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine	{META:UDP-ACETYL-CARBOXYVINYL-GLUCOSAMINE=MetaCyc}
+OPC6-CoA	{META:CPD-11521=MetaCyc}
+gamma-Tocopherol (Vitamin E)	null
+(2Z,6E)-Farnesol	{META:2-CIS6-TRANS-FARNESOL=MetaCyc}
+jasmonoyl-leucine	null
+Indol-3-ylacetyl-myo-inositol L-arabinoside	{META:INDOL-YLACETYL-MYO-INOSITOL-ARABINOSIDE=MetaCyc}
+trans-Dodec-2-enoyl-CoA	{META:CPD-7222=MetaCyc, cpd02060=ModelSeed}
+L-Threonine	{META:THR=MetaCyc}
+D-Alanyl-D-alanine	{META:D-ALA-D-ALA=MetaCyc}
+Geranylgeranyl diphosphate	{META:GERANYLGERANYL-PP=MetaCyc}
+5,7,22,24(28)-Ergostatetraenol	{META:57222428-ERGOSTATETRAENOL=MetaCyc}
+Agmatine	{META:AGMATHINE=MetaCyc}
+L-Leucine	{META:LEU=MetaCyc}
+Octadecenoyl-CoA (n-C18:1CoA)	{cpd15274=ModelSeed}
+Pyridoxal	{META:PYRIDOXAL=MetaCyc}
+Isoliquiritigenin	{META:CPD-3041=MetaCyc}
+beta-Carotene	{META:CPD1F-129=MetaCyc}
+Ethanol	{META:ETOH=MetaCyc}
+Glycerol	{META:GLYCEROL=MetaCyc}
+N-Acetyl-D-glucosamine	{cpd00122=ModelSeed, META:N-ACETYL-D-GLUCOSAMINE=MetaCyc}
+beta-D-Fructose 6-phosphate	{cpd00072=ModelSeed, META:FRUCTOSE-6P=MetaCyc}
+UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine	{META:UDP-OHMYR-GLUCOSAMINE=MetaCyc}
+Lycopene	{META:CPD1F-114=MetaCyc}
+glutaconyl-CoA	{META:GLUTACONYL-COA=MetaCyc}
+Plastocyanin(Cu+)	{cpd30034=ModelSeed}
+dGTP	{META:DGTP=MetaCyc}
+tRNA(Lys)	{cpd11917=ModelSeed}
+Isoscoparine	{META:ISOSCOPARIN=MetaCyc}
+naringenin dibenzoylmethane tautomer	{META:CPD-12655=MetaCyc}
+5-L-Glutamyl-L-alanine	{cpd15236=ModelSeed}
+Isochorismate	{META:ISOCHORISMATE=MetaCyc}
+dTMP	{META:TMP=MetaCyc}
+Dihydroceramide	{META:CPD3DJ-82=MetaCyc}
+tRNA(Phe)	{META:PHE-tRNAs=MetaCyc, cpd11919=ModelSeed}
+3-oxo-behenoyl-CoA	{META:CPD-10283=MetaCyc}
+Thiamin monophosphate	{META:THIAMINE-P=MetaCyc}
+Sinapoyl aldehyde	{META:SINAPALDEHYDE=MetaCyc}
+3-Oxo-OPC4-CoA	{cpd15054=ModelSeed}
+UDP-D-xylose	{META:UDP-D-XYLOSE=MetaCyc}
+3-Hydroxypimeloyl-[acp] methyl ester	null
+N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide	{META:5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE=MetaCyc}
+L-Prolyl-tRNA(Pro)	{cpd12164=ModelSeed}
+L-Tryptophan	{META:TRP=MetaCyc}
+C25-Allenic-apo-aldehyde	{META:CPD1F-4=MetaCyc}
+octadecanoate (n-C18:0)	{META:STEARIC_ACID=MetaCyc}
+(1R,6R)-2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate	{META:CPD-9923=MetaCyc}
+L-Seryl-tRNA(Ser)	{cpd12132=ModelSeed}
+Canavaninosuccinate	{META:CANAVANINOSUCCINATE=MetaCyc}
+Hexadecenoyl-CoA (n-C16:1CoA)	{cpd15238=ModelSeed}
+gibberellin A29-catabolite	{META:CPD-251=MetaCyc}
+tetradecanoate (n-C14:0)	{META:CPD-7836=MetaCyc, cpd03847=ModelSeed}
+Acetoacetyl-CoA	{META:ACETOACETYL-COA=MetaCyc}
+1-Phosphatidyl-1D-myo-inositol 4-phosphate	{META:CPD-1108=MetaCyc}
+Presqualene diphosphate	{META:CPD-465=MetaCyc}
+alpha-Humulene	{META:CPD-8233=MetaCyc}
+3-Phospho-D-glyceroyl phosphate	{META:DPG=MetaCyc}
+6-Deoxoteasterone	{META:CPD-715=MetaCyc}
+dCMP	{META:DCMP=MetaCyc}
+melissate (n-C30:0)	null
+Cholesterol	{META:CHOLESTEROL=MetaCyc}
+(GlcN)1 (Ino-P)1	null
+(GlcN)1 (Ino(acyl)-P)1 (Man)1 (EtN)1 (P)1	null
+(15Z)-12-Oxophyto-10,15-dienoate	{META:CPD-729=MetaCyc}
+2-Amino-7,8-dihydro-4-hydroxy-6-(diphosphooxymethyl)pteridine	{META:DIHYDROPTERIN-CH2OH-PP=MetaCyc}
+5alpha-cholesta-8,24-dien-3-one	{META:CPD-4581=MetaCyc}
+Pimeloyl-[acyl-carrier protein]	null
+(Glc)2 (GlcNAc)2 (Man)9 (PP-Dol)1	null
+L-Valine	{META:VAL=MetaCyc}
+2-Methylprop-2-enoyl-CoA	{META:METHACRYLYL-COA=MetaCyc}
+Uracil	{META:URACIL=MetaCyc}
+montandioate (n-C28:0)	null
+28-oxo-montanate	null
+2-Dehydropantoate	{META:2-DEHYDROPANTOATE=MetaCyc}
+(2S)-2-Isopropyl-3-oxosuccinate	{META:CPD-7100=MetaCyc}
+Cinnamaldehyde	{META:CINNAMALDEHYDE=MetaCyc}
+6-kestotriose	{META:6-KESTOSE=MetaCyc}
+Tryptamine	{META:TRYPTAMINE=MetaCyc}
+cis-3-hexenal	{META:CIS-3-HEXENAL=MetaCyc}
+meso-2,6-Diaminoheptanedioate	{META:MESO-DIAMINOPIMELATE=MetaCyc}
+demethylsuberosin	{META:CPD-8192=MetaCyc}
+(S)-Squalene-2,3-epoxide	{META:EPOXYSQUALENE=MetaCyc}
+1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one	{META:CPD-85=MetaCyc}
+dihydrozeatin-7-N-glucoside	null
+(GlcNAc)4 (LFuc)1 (Man)3 (Xyl)1 (Asn)1	null
+Sphingosine 1-phosphate	{META:CPD3DJ-11366=MetaCyc}
+Tricin	{META:CPD-12572=MetaCyc, cpd07082=ModelSeed}
+UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine	{META:UDP-OHMYR-ACETYLGLUCOSAMINE=MetaCyc}
+Ferulate	{META:FERULIC-ACID=MetaCyc}
+Dehydroascorbate	{META:L-DEHYDRO-ASCORBATE=MetaCyc}
+4alpha-Methylfecosterol	{META:CPD-4081=MetaCyc}
+Xanthoxin	{META:CPD-7279=MetaCyc}
+6-phospho-D-glucono-1,5-lactone	{META:D-6-P-GLUCONO-DELTA-LACTONE=MetaCyc, cpd00911=ModelSeed}
+3-oxo-melissoyl-CoA	null
+alpha-D-glucose	{META:ALPHA-GLUCOSE=MetaCyc}
+Pantetheine 4'-phosphate	{META:PANTETHEINE-P=MetaCyc}
+Plastoquinone A	{META:PLASTOQUINONE-9=MetaCyc}
+arachidate (n-C20:0)	null
+N,N'-Chitobiosyldiphosphodolichol	{chito2pdol=BiGGMetabolite}
+(R)-2,3-Dihydroxy-3-methylpentanoate	{META:1-KETO-2-METHYLVALERATE=MetaCyc}
+(9Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoate	{META:CPD-728=MetaCyc}
+(GlcNAc)2 (Man)9 (Asn)1	null
+2-Methyl-1-hydroxypropyl-ThPP	{cpd14700=ModelSeed}
+ent-Kaurenal	{META:ENT-KAUR-16-EN-19-AL=MetaCyc}
+alpha-glucan (Amylose)	null
+(R)-S-Lactoylglutathione	{META:S-LACTOYL-GLUTATHIONE=MetaCyc}
+3-Phospho-D-glycerate	{META:G3P=MetaCyc}
+Brassinolide	{META:CPD-697=MetaCyc}
+dihydrozeatin-9-N-glucoside	{META:CPD-4616=MetaCyc}
+2,3-Dihydroxybenzoate	{META:2-3-DIHYDROXYBENZOATE=MetaCyc}
+L-Malate	{META:MAL=MetaCyc}
+Dephospho-CoA	{META:DEPHOSPHO-COA=MetaCyc}
+1-Deoxy-D-xylulose 5-phosphate	{META:DEOXYXYLULOSE-5P=MetaCyc}
+Isopentenyl diphosphate	{META:DELTA3-ISOPENTENYL-PP=MetaCyc}
+3-Hydroxypropanoate	{META:3-HYDROXY-PROPIONATE=MetaCyc}
+dTTP	{META:TTP=MetaCyc}
+Hydrogen peroxide	{META:HYDROGEN-PEROXIDE=MetaCyc}
+5-Hydroxyisourate	{META:5-HYDROXYISOURATE=MetaCyc}
+Hexadecenoate (n-C16:1)	{cpd05274=ModelSeed, META:CPD-9245=MetaCyc}
+dtmp[s]	null
+D-Glucuronate	{META:GLUCURONATE=MetaCyc}
+3-Carboxy-1-hydroxypropyl-ThPP	{cpd03189=ModelSeed}
+Dihydrolipolprotein	{cpd12225=ModelSeed}
+dehydroglycine	{META:CPD-12279=MetaCyc}
+N(omega)-(L-Arginino)succinate	{cpd29673=ModelSeed}
+delta-Carotene	{META:CPD1F-115=MetaCyc}
+Indole-3-acetate	{META:INDOLE_ACETATE_AUXIN=MetaCyc}
+GDP-L-fucose	{META:GUANOSINE_DIPHOSPHATE_FUCOSE=MetaCyc}
+OPC6-trans-2-enoyl-CoA	{META:CPD-11522=MetaCyc}
+N-Acetyl-D-glucosaminyldiphosphodolichol	{META:CPD-190=MetaCyc}
+trans-Oct-2-enoyl-CoA	{META:CPD0-2108=MetaCyc}
+(GlcNAc)1 (Ino-P)1	null
+Phosphatidylethanolamine	{META:L-1-PHOSPHATIDYL-ETHANOLAMINE=MetaCyc}
+Pelargonidin 3-O-glucoside	{META:PELARGONIDIN-3-GLUCOSIDE-CMPD=MetaCyc}
+Ferrocytochrome c	{cpd00110=ModelSeed}
+Pyruvate	{META:PYRUVATE=MetaCyc}
+S-Acetyldihydrolipoamide	{META:S-ACETYLDIHYDROLIPOAMIDE=MetaCyc}
+Acetyl-CoA	{META:ACETYL-COA=MetaCyc}
+N2-Acetyl-L-ornithine	{META:N-ALPHA-ACETYLORNITHINE=MetaCyc}
+(GlcN)1 (Ino(acyl)-P)1 (Man)3 (EtN)2 (P)2 (protein)1	null
+dAMP	{META:DAMP=MetaCyc}
+4-Coumaroyl-CoA	{META:P-COUMAROYL-COA=MetaCyc}
+1,4-Dihydroxy-2-naphthoate	{META:DIHYDROXYNAPHTHOATE=MetaCyc}
+2-Methyl-6-phytylquinol	{META:MPBQ=MetaCyc}
+4-Aminobenzoate	{META:P-AMINO-BENZOATE=MetaCyc}
+Anthranilate	{META:ANTHRANILATE=MetaCyc}
+dTDPglucose	{META:DTDP-D-GLUCOSE=MetaCyc}
+3-Oxooctadecanoyl-[acyl-carrier protein]	null
+5-Hydroxyferulic acid methyl ester	{META:5-HYDROXY-FERULIC-ACID=MetaCyc}
+24-methylenecycloartanyl ferulate	null
+Aminoacetone	{META:AMINO-ACETONE=MetaCyc}
+Uroporphyrin I	{cpd03415=ModelSeed, META:UROPORPHYRIN_I=MetaCyc}
+Ammonium	{cpd00013=ModelSeed, META:AMMONIUM=MetaCyc}
+tRNA(Asn)	{cpd11908=ModelSeed, META:ASN-tRNAs=MetaCyc}
+4-Hydroxyphenylpyruvate	{META:P-HYDROXY-PHENYLPYRUVATE=MetaCyc}
+5-Amino-6-(5'-phosphoribitylamino)uracil	{cpd02720=ModelSeed, META:CPD-1086=MetaCyc}
+5alpha-Cholesta-7,24-dien-3beta-ol	{META:5-ALPHA-CHOLESTA-724-DIEN-3-BETA-OL=MetaCyc}
+trans-Tetradec-2-enoyl-[acyl-carrier protein]	null
+Delphinidin	{META:CPD-7090=MetaCyc}
+Dihydroxyacetone phosphate	{META:DIHYDROXY-ACETONE-PHOSPHATE=MetaCyc}
+Dolichyl beta-D-glucosyl phosphate	{META:CPD-166=MetaCyc}
+2-Methyl-6-solanyl-1,4-benzoquinol	{META:2-METHYL-6-SOLANYL-14-BENZOQUINONE=MetaCyc}
+beta-Aminopropion aldehyde	{META:CPD-6082=MetaCyc, cpd01504=ModelSeed}
+Cycloeucalenol	{META:CYCLOEUCALENOL=MetaCyc}
+(S)-3-Hydroxydecanoyl-CoA	{META:CPD0-2244=MetaCyc}
+Chitobiose	{META:CHITOBIOSE=MetaCyc}
+GDP	{META:GDP=MetaCyc}
+trans-zeatin-9-N-glucoside	{META:CPD-4613=MetaCyc}
+Tetrahydrobiopterin	{META:TETRA-H-BIOPTERIN=MetaCyc}
+trans-Hex-2-enoyl-CoA	{META:CPD0-2121=MetaCyc}
+(2S,3S)-2,3-Dihydroxy-2,3-dihydroxybenzoate	{META:DIHYDRO-DIOH-BENZOATE=MetaCyc}
+cerotoyl-CoA (n-C26:0CoA)	null
+Tyramine	{META:TYRAMINE=MetaCyc}
+(S)-Methylmalonate semialdehyde	{META:CH3-MALONATE-S-ALD=MetaCyc}
+Isoorientin-2-(6-coumaroyl)-O-glucoside	null
+L-Citrulline	{META:L-CITRULLINE=MetaCyc}
+2,3,4,5-Tetrahydrodipicolinate	{META:DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE=MetaCyc}
+N6-Dimethylallyladenine	{META:CPD-4209=MetaCyc}
+Selenocysteine	{META:CPD0-1561=MetaCyc}
+Phlorisovalerophenone	{META:3-METHYL-1-246-TRIHYDROXYPHENYLBUTAN=MetaCyc}
+N1-(5-Phospho-D-ribosyl)glycinamide	{META:5-PHOSPHO-RIBOSYL-GLYCINEAMIDE=MetaCyc}
+Enoylglutaryl-[acp] methyl ester	null
+Crotonoyl-CoA	{META:CROTONYL-COA=MetaCyc}
+Deoxyadenosine	{META:DEOXYADENOSINE=MetaCyc}
+8-Hydroxyabscisate	null
+Iminoaspartate	{META:IMINOASPARTATE=MetaCyc}
+cerotdioate (n-C26:0)	null
+dCTP	{META:DCTP=MetaCyc}
+IscS with bound sulfur	{iscssh=BiGGMetabolite}
+UDP-glucose	{META:CPD-12575=MetaCyc}
+Quercetin	{META:CPD-520=MetaCyc}
+(R)-2,3-Dihydroxy-3-methylbutanoate	{META:CPD-13357=MetaCyc}
+S-Adenosyl-L-methionine	{META:S-ADENOSYLMETHIONINE=MetaCyc}
+5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	{META:PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE=MetaCyc}
+13(1)-Oxo-magnesium-protoporphyrin IX 13-monomethyl ester	{META:131-OXO-MAGNESIUM-PROTOPORPHYRIN-IX-13-M=MetaCyc}
+Ethanolamine phosphate	{META:PHOSPHORYL-ETHANOLAMINE=MetaCyc}
+Linolenoyl-CoA (n-C18:3CoA)	null
+5,6-dihydrouracil	{META:DI-H-URACIL=MetaCyc}
+tRNA(Asp)	{cpd11909=ModelSeed}
+Oxalate	{META:OXALATE=MetaCyc}
+2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridinetriphosphate	null
+1-Aminocyclopropane-1-carboxylate	{META:CPD-68=MetaCyc}
+Butyryl-ACP (n-C4:0ACP)	{cpd11464=ModelSeed}
+(3R)-3-hydroxy-lignoceroyl-CoA	{META:CPD-14277=MetaCyc}
+5-Methyltetrahydropteroyltri-L-glutamate	{META:CPD-1302=MetaCyc}
+Formaldehyde	{META:FORMALDEHYDE=MetaCyc}
+Sitosterol	{META:CPD-4143=MetaCyc}
+montanate (n-C28:0)	null
+Fe3+	{META:FE+3=MetaCyc}
+1D-myo-Inositol 1,4,5-trisphosphate	{META:INOSITOL-1-4-5-TRISPHOSPHATE=MetaCyc}
+5-Formyltetrahydrofolate	{META:5-FORMYL-THF=MetaCyc}
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine	{META:C1=MetaCyc}
+Luteolin	{META:5734-TETRAHYDROXYFLAVONE=MetaCyc}
+oxidized plastoquinone	null
+Guanosine 5'-triphosphate,3'-diphosphate	{META:GDP-TP=MetaCyc}
+4alpha-carboxy-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol	{META:CPD-4577=MetaCyc}
+Selenocystathionine	{cpd03398=ModelSeed, META:CPD-13717=MetaCyc}
+gibberellin A17	{META:CPD1F-86=MetaCyc}
+2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine	{META:DIAMINO-OH-PHOSPHORIBOSYLAMINO-PYR=MetaCyc, cpd00957=ModelSeed}
+(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]	null
+UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate	{META:UDP-AAGM-DIAMINOHEPTANEDIOATE=MetaCyc}
+Afzelechin	{META:CPD-1962=MetaCyc}
+beta-D-Galactosyl-1,4-beta-D-glucosylceramide	{META:Lactosyl-Ceramides=MetaCyc}
+Cholestenol	{META:CPD-8621=MetaCyc}
+Xanthine	{META:XANTHINE=MetaCyc}
+D-Glyceraldehyde	{META:GLYCERALD=MetaCyc}
+Phytoceramide	{cpd08927=ModelSeed}
+2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	{META:3-DEOXY-D-ARABINO-HEPTULOSONATE-7-P=MetaCyc}
+L-Glutamine	{META:GLN=MetaCyc}
+D-Glucosamine	{META:GLUCOSAMINE=MetaCyc}
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	{META:PHOSPHATIDYL-MYO-INOSITOL-45-BISPHOSPHA=MetaCyc}
+Tricetin	{META:CPD-12570=MetaCyc}
+L-Alanyl-tRNA(Ala)	{cpd11770=ModelSeed}
+Choline	{META:CHOLINE=MetaCyc}
+marmesin	{META:CPD-8191=MetaCyc}
+Fe2+	{META:FE+2=MetaCyc}
+24-Methylenelophenol	{META:CPD-4101=MetaCyc}
+1D-myo-Inositol 1,3,4,5,6-pentakisphosphate	{META:CPD-1107=MetaCyc}
+Dolichol phosphate	{META:DOLICHOLP=MetaCyc}
+3-octaprenyl-4-hydroxybenzoate	{META:3-OCTAPRENYL-4-HYDROXYBENZOATE=MetaCyc}
+tRNA(Trp)	{META:TRP-tRNAs=MetaCyc, cpd11923=ModelSeed}
+KDO-lipid IV(A)	{META:KDO-LIPID-IVA=MetaCyc}
+all-trans-Phytoene	{META:PHYTOENE=MetaCyc}
+(GlcN)1 (Ino(acyl)-P)1 (Man)1	null
+Xanthosine 5'-phosphate	{META:XANTHOSINE-5-PHOSPHATE=MetaCyc}
+Acyl-CoA	{META:ACYL-COA=MetaCyc}
+Palmitoyl-ACP (n-C16:0ACP)	{cpd11476=ModelSeed}
+OPC4-trans-2-enoyl-CoA	{META:CPD-11526=MetaCyc}
+1-kestotriose	{META:1-KESTOTRIOSE=MetaCyc}
+N-Acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide	{META:CPD-1100=MetaCyc}
+L-Isoleucine	{META:ILE=MetaCyc}
+5-Phospho-beta-D-ribosylamine	{META:5-P-BETA-D-RIBOSYL-AMINE=MetaCyc}
+13(1)-Hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester	{META:13-HYDROXY-MAGNESIUM-PROTOPORP=MetaCyc}
+tRNA(Ile)	{META:ILE-tRNAs=MetaCyc, cpd11915=ModelSeed}
+ent-Pimara-8(14),15-diene	{META:CPD-7097=MetaCyc}
+Magnesium	{META:MG+2=MetaCyc}
+3-oxo-lignoceroyl-CoA	{META:CPD-14273=MetaCyc}
+Lipoylprotein	{cpd12005=ModelSeed}
+Isoorientin-2-O-glucoside	null
+Choline phosphate	{META:PHOSPHORYL-CHOLINE=MetaCyc}
+Caffeoyl quinate	{META:CAFFEOYLQUINATE=MetaCyc}
+L-Tryptophanyl-tRNA(Trp)	{cpd12336=ModelSeed}
+cis-Zeatin riboside	{META:CPD-4442=MetaCyc}
+3-Hydroxyoctadecanoyl-CoA	{META:CPD-10261=MetaCyc}
+Glutaryl-[acp] methyl ester	null
+IMP	{META:IMP=MetaCyc}
+3-Methyl-1-hydroxybutyl-ThPP	{cpd14698=ModelSeed}
+N6-(1,2-Dicarboxyethyl)-AMP	{META:ADENYLOSUCC=MetaCyc}
+5,7,24(28)-Ergostatrienol	{cpd14515=ModelSeed, META:CPD-700=MetaCyc}
+beta-D-fructose	{META:BETA-D-FRUCTOSE=MetaCyc}
+3-Dehydroteasterone	{META:CPD-718=MetaCyc}
+dATP	{META:DATP=MetaCyc}
+CMP-N-acetylneuraminate	{META:CMP-N-ACETYL-NEURAMINATE=MetaCyc}
+6,7-Dimethyl-8-(1-D-ribityl)lumazine	{cpd02656=ModelSeed, META:DIMETHYL-D-RIBITYL-LUMAZINE=MetaCyc}
+L-Homocysteine	{META:HOMO-CYS=MetaCyc}
+trans-Cinnamate	{META:CPD-674=MetaCyc}
+lignoceryl alcohol	{META:CPD-7874=MetaCyc}
+Delphinidin 3,5,3'-triglucoside	{META:CPD-7966=MetaCyc}
+Protoporphyrin IX	{META:PROTOPORPHYRIN_IX=MetaCyc}
+3-Oxohexanoyl-CoA	{META:K-HEXANOYL-COA=MetaCyc}
+L-Histidyl-tRNA(His)	{cpd12228=ModelSeed}
+CDP-choline	{META:CDP-CHOLINE=MetaCyc}
+Pinobanksin	{META:CPD-6992=MetaCyc}
+D-Lactate	{META:D-LACTATE=MetaCyc}
+1-Phosphatidyl-1D-myo-inositol 3-phosphate	{META:CPD-177=MetaCyc}
+delta-Tocopherol	{META:DELTA-TOCOPHEROL=MetaCyc}
+p-Cresol	{META:CPD-108=MetaCyc}
+Isoscoparin-2-O-(6-coumaroyl)-glucoside	null
+(9S,10E,12Z,15Z)-9-Hydroperoxy-10,12,15-octadecatrienoate	{META:CPD-8678=MetaCyc}
+3-Hydroxyglutaryl-[acp] methyl ester	null
+UDP-N-acetyl-D-mannosamine	{META:UDP-MANNAC=MetaCyc}
+3-Ketoglutaryl-[acp] methyl ester	null
+2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine	{META:AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE=MetaCyc}
+2-Demethylmenaquinone 8	{META:DEMETHYLMENAQUINONE=MetaCyc}
+alpha-Carotene	{META:CPD1F-118=MetaCyc}
+N-Acetyl-L-glutamate	{META:ACETYL-GLU=MetaCyc}
+L-Lysine-tRNA (Lys)	{cpd15249=ModelSeed}
+tRNA(Cys)	{cpd11910=ModelSeed}
+Cinnamoyl-CoA	{META:Cinnamoyl-CoAs=MetaCyc}
+7-Isojasmonoate	null
+3-methyl-4-trans-hydroxy-2-butenal	{META:CPD-4483=MetaCyc}
+Dethiobiotin	{META:DETHIOBIOTIN=MetaCyc}
+(GlcNAc)3 (Man)5 (Asn)1	null
+Sedoheptulose 7-phosphate	{META:D-SEDOHEPTULOSE-7-P=MetaCyc}
+isopentenyladenine-7-N-glucoside	{META:CPD-4602=MetaCyc}
+trans-Hex-2-enoyl-[acyl-carrier protein]	null
+Glycolaldehyde	{META:GLYCOLALDEHYDE=MetaCyc}
+1-Acyl-sn-glycero-3-phosphocholine	{META:2-Lysophosphatidylcholines=MetaCyc}
+Sulfite	{META:H2SO3=MetaCyc}
+Pyridoxal phosphate	{META:PYRIDOXAL_PHOSPHATE=MetaCyc}
+tRNA(Val)	{cpd11924=ModelSeed, META:VAL-tRNAs=MetaCyc}
+Geranyl diphosphate	{META:GERANYL-PP=MetaCyc}
+Formamide	{META:FORMAMIDE=MetaCyc}
+1,1-kestotetraose	{META:NYSTOSE=MetaCyc}
+Indole-3-acetyl-beta-1-D-glucoside	{META:CPD-1102=MetaCyc}
+Mandelonitrile	{META:CPD-12702=MetaCyc}
+Arachic alcohol	{META:CPD-7869=MetaCyc}
+trans-Tetradec-2-enoyl-CoA	{META:CPD-15568=MetaCyc}
+Sinapate	{META:SINAPATE=MetaCyc}
+superoxide	{META:SUPER-OXIDE=MetaCyc}
+Glutaryl-CoA	{META:GLUTARYL-COA=MetaCyc}
+2-Methyl-1-hydroxybutyl-ThPP	{cpd14702=ModelSeed}
+behendioate (n-C22:0)	null
+tRNA(Gln)	{META:GLN-tRNAs=MetaCyc, cpd11911=ModelSeed}
+1-Hydroxy-2-methyl-2-butenyl 4-diphosphate	{META:HYDROXY-METHYL-BUTENYL-DIP=MetaCyc}
+Sucrose 6-phosphate	{cpd01693=ModelSeed, META:SUCROSE-6P=MetaCyc}
+O-Phospho-L-serine	{META:3-P-SERINE=MetaCyc}
+Butanoyl-CoA	{META:BUTYRYL-COA=MetaCyc}
+L-canaline	{META:L-CANALINE=MetaCyc}
+Riboflavin	{META:RIBOFLAVIN=MetaCyc}
+1-Acyl-sn-glycerol 3-phosphate	{META:ACYL-SN-GLYCEROL-3P=MetaCyc}
+L-Asparaginyl-tRNA(Asn)	{cpd12313=ModelSeed}
+CDP	{META:CDP=MetaCyc}
+Hydroxymethylbilane	{META:HYDROXYMETHYLBILANE=MetaCyc}
+cis-aconitate	{META:CIS-ACONITATE=MetaCyc}
+3-Oxododecanoyl-CoA	{META:CPD0-2105=MetaCyc}
+Coniferyl alcohol	{META:CONIFERYL-ALCOHOL=MetaCyc}
+Deoxyinosine	{META:DEOXYINOSINE=MetaCyc}
+alpha,alpha'-Trehalose 6-phosphate	{META:TREHALOSE-6P=MetaCyc}
+4-Guanidinobutanoate	{META:CPD-592=MetaCyc}
+Decanoyl-ACP (n-C10:0ACP)	{cpd11474=ModelSeed}
+UDP-N-acetyl-D-glucosamine	{META:UDP-N-ACETYL-D-GLUCOSAMINE=MetaCyc}
+Carbon monoxide	{META:CARBON-MONOXIDE=MetaCyc}
+Coproporphyrinogen I	{META:COPROPORPHYRINOGEN_I=MetaCyc}
+(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]	null
+O-Succinyl-L-homoserine	{META:O-SUCCINYL-L-HOMOSERINE=MetaCyc}
+(S)-3-Hydroxyoctanoyl-CoA	{cpd03120=ModelSeed}
+Gibberellin A51-catabolite	{META:CPD-498=MetaCyc}
+O-Acetyl-L-serine	{META:ACETYLSERINE=MetaCyc}
+UDP-D-glucuronate	{META:UDP-GLUCURONATE=MetaCyc}
+4alpha-Methylzymosterol	{META:4-METHYL-824-CHOLESTADIENOL=MetaCyc}
+Biotin	{META:BIOTIN=MetaCyc}
+Tropinone	{META:TROPINONE=MetaCyc}
+GMP	{META:GMP=MetaCyc}
+L-Seryl-tRNA(Sec)	{cpd15565=ModelSeed}
+Uroporphyrin III	{META:UROPORPHYRIN_III=MetaCyc}
+Phytyl diphosphate	{META:PHYTYL-PYROPHOSPHATE=MetaCyc}
+L-Proline	{META:PRO=MetaCyc}
+Urea	{META:UREA=MetaCyc}
+Flavin adenine dinucleotide oxidized	{cpd00015=ModelSeed, META:FAD=MetaCyc}
+Tetrahydropteroyl-tri-L-glutamate	null
+Thiocyanate	{META:HSCN=MetaCyc}
+alpha-Tocopherol (Vitamin E)	null
+1D-myo-Inositol 1,2,3,4,6-pentakisphosphate	null
+Phenylethyl alcohol	{META:CPD-7035=MetaCyc}
+p-Coumaroyl quinate	null
+9-oxo-nonanoate	{META:CPD-8686=MetaCyc}
+16-oxo-palmitate	{META:CPD-10512=MetaCyc}
+tRNA(Gly)	{META:GLY-tRNAs=MetaCyc, cpd11913=ModelSeed}
+1-Phosphatidyl-D-myo-inositol	{META:L-1-phosphatidyl-inositols=MetaCyc}
+(R)-3-Hydroxydecanoyl-[acyl-carrier protein]	null
+dihydrosirohydrochlorin	{META:DIHYDROSIROHYDROCHLORIN=MetaCyc}
+Glycine	{META:GLY=MetaCyc}
+L-Asparagine	{META:ASN=MetaCyc}
+Monodehydroascorbate	{META:CPD-318=MetaCyc}
+OPC6-3-hydroxyacyl-CoA	{META:CPD-11523=MetaCyc}
+UDP-4-keto-rhamnose	{cpd17473=ModelSeed, META:CPD-11540=MetaCyc}
+N-Acetyl-L-glutamate 5-semialdehyde	{META:CPD-469=MetaCyc}
+Reduced glutathione	{META:GLUTATHIONE=MetaCyc}
+Isobutyryl-CoA	{META:ISOBUTYRYL-COA=MetaCyc}
+Teasterone	{META:CPD-716=MetaCyc}
+4-Coumarate	{META:COUMARATE=MetaCyc}
+CMP-3-deoxy-D-manno-octulosonate	{META:CMP-KDO=MetaCyc}
+OPC4-3-hydroxyacyl-CoA	{META:CPD-11527=MetaCyc}
+(GlcNAc)3 (Man)3 (Asn)1	null
+tRNA(SeCys)	{cpd15573=ModelSeed}
+jasmonoyl-CoA	{META:CPD-11529=MetaCyc}
+(S)-3-Hydroxybutanoyl-CoA	{META:S-3-HYDROXYBUTANOYL-COA=MetaCyc}
+alpha-D-Galactose 1-phosphate	{META:GALACTOSE-1P=MetaCyc}
+L-Arginyl-tRNA(Arg)	{cpd12036=ModelSeed}
+Phosphatidylcholine	{META:PHOSPHATIDYLCHOLINE=MetaCyc}
+Cardiolipin	{META:CARDIOLIPIN=MetaCyc}
+ADPglucose	{META:ADP-D-GLUCOSE=MetaCyc}
+1D-myo-Inositol 3,4-bisphosphate	{META:D-MYO-INOSITOL-34-BISPHOSPHATE=MetaCyc}
+Nicotinamide adenine dinucleotide phosphate - reduced	{cpd00005=ModelSeed, META:NADPH=MetaCyc}
+6-Deoxotyphasterol	{META:CPD-720=MetaCyc}
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate	{META:UDP-AA-GLUTAMATE=MetaCyc}
+5-Hydroxyconiferaldehyde	{META:5-HYDROXY-CONIFERALDEHYDE=MetaCyc}
+3-Methyl-2-oxobutanoate	{META:2-KETO-ISOVALERATE=MetaCyc}
+Guanosine	{META:GUANOSINE=MetaCyc}
+(GlcNAc)4 (Man)3 (Asn)1	null
+(3R)-3-hydroxy-arachidoyl-CoA	{META:CPD-14275=MetaCyc}
+Citrate	{META:CIT=MetaCyc}
+L-Glutaminyl-tRNA(Gln)	{cpd12060=ModelSeed}
+22-hydroxybehenate	{META:CPD-7838=MetaCyc}
+Diphosphate	{META:PPI=MetaCyc}
+ADP	{META:ADP=MetaCyc}
+Dihydropteroate	{META:7-8-DIHYDROPTEROATE=MetaCyc}
+L-Histidinal	{META:HISTIDINAL=MetaCyc}
+N,N-dimethylglycine	{META:DIMETHYL-GLYCINE=MetaCyc}
+dUDP	{META:DUDP=MetaCyc}
+ent-2alpha-Hydroxyisokaurene	{META:CPD-13920=MetaCyc, cpd21379=ModelSeed}
+all-trans-zeta-Carotene	{META:CPD1F-98=MetaCyc}
+2-(alpha-Hydroxyethyl)thiamine diphosphate	{cpd03049=ModelSeed, META:2-ALPHA-HYDROXYETHYL-THPP=MetaCyc}
+Butin	{META:CPD-19294=MetaCyc}
+5-Amino-6-(5'-phosphoribosylamino)uracil	{META:CPD-602=MetaCyc}
+Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala	{META:C6=MetaCyc, cpd03495=ModelSeed}
+H2O	{META:WATER=MetaCyc}
+Coproporphyrin I	{META:COPROPORPHYRIN_I=MetaCyc}
+Biliverdin	{META:BILIVERDINE=MetaCyc}
+trans,trans-Farnesyl diphosphate	{META:FARNESYL-PP=MetaCyc}
+L-Aspartate 4-semialdehyde	{META:L-ASPARTATE-SEMIALDEHYDE=MetaCyc}
+L-Fucose	{META:L-Fucopyranoses=MetaCyc}
+trans-Zeatin	{META:CPD-4210=MetaCyc}
+Tricin-O-glucoside	null
+R-3-hydroxypalmitoyl-[acyl-carrier protein]	null
+GDP-4-dehydro-6-deoxy-D-mannose	{META:GDP-4-DEHYDRO-6-DEOXY-D-MANNOSE=MetaCyc}
+3-Phosphohydroxypyruvate	{META:3-P-HYDROXYPYRUVATE=MetaCyc}
+tRNA(Met)	{META:Elongation-tRNAMet=MetaCyc, cpd11918=ModelSeed}
+5-O-(Indol-3-ylacetyl-myo-inositol) D-galactoside	{META:5-O-INDOL-3-YLACETYL-MYO-ETCETERA=MetaCyc}
+CDP-diacylglycerol	{META:CDPDIACYLGLYCEROL=MetaCyc}
+N-Acetyl-L-glutamyl 5-phosphate	{META:N-ACETYL-GLUTAMYL-P=MetaCyc}
+Uridine	{META:URIDINE=MetaCyc}
+(S)-Ureidoglycine	{META:CPD0-2298=MetaCyc, cpd01419=ModelSeed}
+ent-cassa-12,15-diene-3alpha-al	null
+O-Phospho-L-homoserine	{META:O-PHOSPHO-L-HOMOSERINE=MetaCyc}
+9beta-Pimara-7,15-dien-19-oate	{META:CPD-13923=MetaCyc, cpd21382=ModelSeed}
+2-Deoxy-D-ribose 5-phosphate	{META:DEOXY-RIBOSE-5P=MetaCyc}
+prenyl-tRNA	null
+Stigmasterol	{META:CPD-4162=MetaCyc}
+Dolichyl phosphate D-mannose	{META:CPD-171=MetaCyc}
+4-Phospho-L-aspartate	{META:L-BETA-ASPARTYL-P=MetaCyc}
+Enoylpimeloyl-[acp] methyl ester	null
+3-Indoleacetonitrile	{META:INDOLEYL-CPD=MetaCyc}
+Dodecanoyl-CoA (n-C12:0CoA)	{cpd01260=ModelSeed, META:LAUROYLCOA-CPD=MetaCyc}
+tRNA(Glu)	{META:GLT-tRNAs=MetaCyc, cpd11912=ModelSeed}
+Montanyl alcohol	{META:CPD-7872=MetaCyc}
+Malonyl-CoA	{META:MALONYL-COA=MetaCyc}
+indole-3-acetyl-aspartate	null
+L-Fuculose 1-phosphate	{META:FUCULOSE-1P=MetaCyc}
+UDP-D-galacto-1,4-furanose	{META:UDP-D-GALACTO-14-FURANOSE=MetaCyc}
+26-oxo-cerotate	null
+Deoxycohumulone	{META:CPD-7107=MetaCyc}
+Linolenate (n-C18:3)	null
+9(S)-hydroperoxy-10(E),12(Z)-octadecadienoic acid	{META:CPD-8677=MetaCyc}
+Gibberellin A15 open lactone	{META:CPD1F-97=MetaCyc}
+L-Tyrosine	{META:TYR=MetaCyc}
+Starch (n=4, 4 glucose units)	null
+Globoside	{META:N-ACETYL-D-GALACTOSAMINYL-13-D-GALACT=MetaCyc}
+Deoxyhumulone	{META:CPD-7105=MetaCyc}
+Naringenin-chalcone	null
+N-Acetyl-D-glucosamine 1-phosphate	{META:N-ACETYL-D-GLUCOSAMINE-1-P=MetaCyc}
+(S)-2-Methylbutanoyl-CoA	{META:2-METHYL-BUTYRYL-COA=MetaCyc, cpd00760=ModelSeed}
+Isopentenyl-AMP	{META:CPD-4205=MetaCyc}
+GTP	{META:GTP=MetaCyc}
+Sucrose	{META:SUCROSE=MetaCyc}
+(GlcNAc)2 (Man)8 (PP-Dol)1	null
+D-Ribulose 5-phosphate	{META:RIBULOSE-5P=MetaCyc}
+3,4-Dihydroxy-L-phenylalanine	{META:L-DIHYDROXY-PHENYLALANINE=MetaCyc}
+18-Hydroxyoleate	{META:18-HYDROXYOLEATE=MetaCyc}
+D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	{META:D-ERYTHRO-IMIDAZOLE-GLYCEROL-P=MetaCyc}
+Hexadecanal	{META:PALMITALDEHYDE=MetaCyc}
+Strictosidine	{META:STRICTOSIDINE=MetaCyc}
+Magnesium protoporphyrin IX monomethyl ester	{cpd30403=ModelSeed}
+9-cis-Neoxanthin	null
+3-Oxooctanoyl-CoA	{META:CPD0-2106=MetaCyc}
+Spermidine	{META:SPERMIDINE=MetaCyc}
+Delphinidin 3,5-diglucoside	{META:CPD-7139=MetaCyc}
+indole-3-acetyl-leucine	null
+(GlcNAc)5 (Man)3 (Asn)1	null
+(R)-Pantoate	{META:L-PANTOATE=MetaCyc}
+tRNA(Tyr)	{cpd11751=ModelSeed, META:TYR-tRNAs=MetaCyc}
+Sulfoquinovosyldiacylglycerol	{META:SULFOQUINOVOSYLDIACYLGLYCEROL=MetaCyc}
+3-Sulfinopyruvate	{META:3-SULFINYL-PYRUVATE=MetaCyc}
+L-Isoleucyl-tRNA(Ile)	{cpd12256=ModelSeed}
+CMP	{META:CMP=MetaCyc}
+Reduced thioredoxin	{cpd11421=ModelSeed}
+(R)-Mevalonate	{META:MEVALONATE=MetaCyc}
+UDP-N-acetylmuramate	{META:UDP-N-ACETYLMURAMATE=MetaCyc}
+(Glc)3 (GlcNAc)2 (Man)9 (PP-Dol)1	null
+4-(1-D-Ribitylamino)-5-aminouracil	{cpd29668=ModelSeed}
+Obtusifoliol	{META:OBTUSIFOLIOL=MetaCyc}
+jasmonoyl-valine	null
+5-O-Caffeoylshikimate	null
+(GlcNAc)4 (Man)3 (Xyl)1 (Asn)1	null
+Delphinidin 3,3'-diglucoside 5-(6-caffeoyl)glucoside	{cpd15070=ModelSeed}
+L-Valyl-tRNA(Val)	{cpd12133=ModelSeed}
+CO2	{META:CARBON-DIOXIDE=MetaCyc}
+2-Oxobutanoate	{META:2-OXOBUTANOATE=MetaCyc}
+trans-2-Methylbut-2-enoyl-CoA	{META:CPD-1083=MetaCyc}
+bis(5'-guanosyl) tetraphosphate	{ECOLI:CPD-609=MetaCyc}
+tRNA(Thr)	{cpd11922=ModelSeed, META:THR-tRNAs=MetaCyc}
+maltotriose	{META:MALTOTRIOSE=MetaCyc}
+trans-Dodec-2-enoyl-[acyl-carrier protein]	null
+3-Hydroxypropionyl-CoA	{META:3-HYDROXY-PROPIONYL-COA=MetaCyc}
+UDPglucose	{META:CPD-12575=MetaCyc}
+Isovitexin-2-O-(6-feruloyl)-glucoside	null
+D-Xylulose	{META:D-XYLULOSE=MetaCyc}
+montanoyl-CoA (n-C28:0CoA)	null
+D-Fructose 1-phosphate	{META:FRU1P=MetaCyc, cpd00802=ModelSeed}
+1D-myo-Inositol 1,4-bisphosphate	{META:INOSITOL-1-4-BISPHOSPHATE=MetaCyc}
+(-)-Ureidoglycolate	{META:CPD-1091=MetaCyc}
+4,4-dimethyl-5alpha-cholesta-8,24-dien-3beta-ol	{META:44-DIMETHYL-824-CHOLESTADIENOL=MetaCyc}
+(R)-5-Phosphomevalonate	{META:CPD-499=MetaCyc}
+Shikimate 5-phosphate	{META:SHIKIMATE-5P=MetaCyc}
+3,4-dihydroxy-2-butanone 4-phosphate	{cpd11225=ModelSeed, META:DIHYDROXY-BUTANONE-P=MetaCyc}
+Farnesyl phosphate	{META:CPD-12587=MetaCyc, cpd21354=ModelSeed}
+Pyridoxine	{META:PYRIDOXINE=MetaCyc}
+indole-3-acetyl-glutamine	null
+4alpha-carboxy-5alpha-cholesta-8,24-dien-3beta-ol	{META:CPD-4702=MetaCyc}
+(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	{cpd21488=ModelSeed, META:CPD-14443=MetaCyc}
+Apocytochrome c	{cpd12052=ModelSeed}
+a non-lipoylated protein-lipoyl domain	null
+5-Methylthio-D-ribose	{META:CPD-560=MetaCyc}
+3-Oxo-OPC6-CoA	{cpd15050=ModelSeed}
+Thiosulfate	{META:S2O3=MetaCyc}
+Nicotinamide adenine dinucleotide phosphate	{META:NADP=MetaCyc}
+4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol	{META:4-CYTIDINE-5-DIPHOSPHO-2-C=MetaCyc}
+Uroporphyrinogen III	{META:UROPORPHYRINOGEN-III=MetaCyc}
+1-(5-Phosphoribosyl)-AMP	{META:PHOSPHORIBOSYL-AMP=MetaCyc}
+(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate	null
+Dihydrobiopterin	{META:CPD-15159=MetaCyc}
+Luteolin 7-O-neohesperidoside	{META:LUTEOLIN-7-O-NEOHESPERIDOSIDE=MetaCyc}
+5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide	null
+Allantoate	{META:ALLANTOATE=MetaCyc}
+OPC8-3-hydroxyacyl-CoA	{META:CPD-11519=MetaCyc}
+(3Z,6Z)-nonadienal	{META:CPD-8685=MetaCyc}
+Phosphatidylglycerophosphate	{cpd11454=ModelSeed}
+Glycyl-tRNA(Gly)	{cpd12100=ModelSeed}
+UDP-N-acetyl-D-galactosamine	{META:UDP-N-ACETYL-GALACTOSAMINE=MetaCyc}
+Methanethiol	{META:CPD-7671=MetaCyc}
+Cycloartenol	{META:CYCLOARTENOL=MetaCyc}
+5-Methyltetrahydrofolate	{META:5-METHYL-THF=MetaCyc}
+Orotate	{META:OROTATE=MetaCyc}
+24-Methylenecycloartanol	{META:CPD-696=MetaCyc}
+Dolichol	{META:DOLICHOL=MetaCyc}
+(R)-3-Hydroxybutanoyl-[acyl-carrier protein]	null
+Zeinoxanthin	{META:CPD-5661=MetaCyc}
+acyl carrier protein	{META:ACP=MetaCyc, cpd11493=ModelSeed}
+cgly[c]	null
+dTDP-4-dehydro-6-deoxy-D-glucose	{META:DTDP-DEOH-DEOXY-GLUCOSE=MetaCyc}
+L-Glutamate 1-semialdehyde	{META:GLUTAMATE-1-SEMIALDEHYDE=MetaCyc}
+3-Oxo-OPC8-CoA	{cpd15046=ModelSeed}
+L-Alanine	{META:L-ALPHA-ALANINE=MetaCyc}
+Episterol	{META:EPISTEROL=MetaCyc}
+behenate (n-C22:0)	null
+S-Succinyldihydrolipoamide	{META:CPD0-341=MetaCyc}
+CDP-ethanolamine	{META:CDP-ETHANOLAMINE=MetaCyc}
+L-Ascorbate	{META:ASCORBATE=MetaCyc}
+KDO(2)-lipid IV(A)	{META:KDO2-LIPID-IVA=MetaCyc, cpd03586=ModelSeed}
+2-Deoxy-D-ribose 1-phosphate	{cpd00509=ModelSeed, META:DEOXY-D-RIBOSE-1-PHOSPHATE=MetaCyc}
+AMP	{META:AMP=MetaCyc}
+Farnesal	{cpd16289=ModelSeed}
+Thiamine diphosphate	{META:THIAMINE-PYROPHOSPHATE=MetaCyc}
+Pelargonidin	{META:PELARGONIDIN-CMPD=MetaCyc}
+tRNA(His)	{META:HIS-tRNAs=MetaCyc, cpd11914=ModelSeed}
+2,4-dihydroxycinnamoyl-CoA	{META:CPD-14010=MetaCyc}
+Divinyl chlorophyllide a	{META:DIVINYLCHLOROPHYLLIDE-A=MetaCyc}
+Cytidine	{META:CYTIDINE=MetaCyc}
+Linolenoyl-[acyl-carrier protein] (n-C18:3ACP)	null
+beta-Cryptoxanthin	{META:CPD-7409=MetaCyc}
+Campest-4-en-3-one	{META:CPD-698=MetaCyc}
+Selenite	{META:SELENITE=MetaCyc}
+Nitrate	{META:NITRATE=MetaCyc}
+trans-Hexadec-2-enoyl-CoA	{META:CPD0-2117=MetaCyc}
+all-trans-Neurosporene	{META:NEUROSPORENE=MetaCyc}
+2-Keto-4-methylthiobutyric acid	{META:CPD-479=MetaCyc}
+6-Deoxocathasterone	{META:CPD-712=MetaCyc}
+L-Lysine	{META:LYS=MetaCyc}
+5-amino-1-(5-phospho-D-ribosyl)imidazole	{META:5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE=MetaCyc}
+Isopentenyl-ATP	{META:CPD-4201=MetaCyc}
+Cys-Gly	{META:CYS-GLY=MetaCyc}
+2-hydroxyeriodictyol 6-C-glucoside	null
+cis-Prenyl-tRNA	{META:Cis-Prenyl-tRNAs=MetaCyc}
+3-oxo-arachidoyl-CoA	{META:CPD-14271=MetaCyc}
+Isoscoparin-2-O-glucoside	null
+Caffeate	{META:CPD-676=MetaCyc}
+Se-Methylselenomethionine	{cpd03391=ModelSeed, META:CPD-12025=MetaCyc}
+(S)-3-Hydroxyhexanoyl-CoA	{META:OH-HEXANOYL-COA=MetaCyc}
+Pyridoxine phosphate	{META:PYRIDOXINE-5P=MetaCyc}
+Delphinidin 3-glucoside 5-caffoyl-glucoside	{META:CPD-7960=MetaCyc}
+Sphinganine	{META:DIHYDRO-SPHINGOSINE=MetaCyc}
+Undecaprenyl phosphate	{META:CPD-9646=MetaCyc}
+Phosphatidylglycerol	{META:L-1-PHOSPHATIDYL-GLYCEROL=MetaCyc}
+Cadaverine	{META:CADAVERINE=MetaCyc}
+4-Amino-4-deoxychorismate	{META:4-AMINO-4-DEOXYCHORISMATE=MetaCyc}
+Guanosine 3',5'-bis(diphosphate)	{META:GUANOSINE-5DP-3DP=MetaCyc}
+Propanoyl-CoA	{META:PROPIONYL-COA=MetaCyc}
+2,3,2'3'-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate	{META:LIPID-IV-A=MetaCyc}
+(9Z,11E)-(13S)-13-hydroperoxyoctadeca-9,11-dienoate	{META:13-HYDROPEROXYOCTADECA-911-DIENOATE=MetaCyc}
+D-Ribulose 1,5-bisphosphate	{META:D-RIBULOSE-15-P2=MetaCyc}
+Methylglyoxal	{META:METHYL-GLYOXAL=MetaCyc}
+Quinate	{META:QUINATE=MetaCyc}
+N-Carbamoylputrescine	{META:CPD-597=MetaCyc}
+Formate	{META:FORMATE=MetaCyc}
+dUMP	{META:DUMP=MetaCyc}
+Sulfate	{META:SULFATE=MetaCyc}
+2,3-diketo-5-methylthio-1-phosphopentane	{META:CPD-8999=MetaCyc, cpd11295=ModelSeed}
+L-2-Aminoadipate	{META:CPD-468=MetaCyc}
+L-Aspartate	{META:L-ASPARTATE=MetaCyc}
+CTP	{META:CTP=MetaCyc}
+Neoxanthin	{META:CPD1F-135=MetaCyc}
+Gibberellin A44 open lactone	{META:CPD-10332=MetaCyc}
+4alpha-methyl-5alpha-cholesta-8,24-dien-3-one	null
+fatty acid, lumped	null
+Naringenin	{META:NARINGENIN-CMPD=MetaCyc}
+Phosphatidate	{META:L-PHOSPHATIDATE=MetaCyc}
+Allantoin	{META:ALLANTOIN=MetaCyc}
+epsilon-Carotene	{META:CPD-7414=MetaCyc}
+ent-cassa-12,15-diene-3alpha-ol	null
+(R)-3-Hydroxydodecanoyl-[acyl-carrier protein]	null
+melissdioate (n-C30:0)	null
+2-C-Methyl-D-erythritol 2,4-cyclodiphosphate	{META:2C-METH-D-ERYTHRITOL-CYCLODIPHOSPHATE=MetaCyc}
+3-(Imidazol-4-yl)-2-oxopropyl phosphate	{META:IMIDAZOLE-ACETOL-P=MetaCyc}
+LL-2,6-Diaminoheptanedioate	{META:LL-DIAMINOPIMELATE=MetaCyc}
+L-Homoserine	{META:HOMO-SER=MetaCyc}
+D-Xylose	{META:D-Xylose=MetaCyc}
+(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]	null
+Decanoyl-CoA (n-C10:0CoA)	{cpd03128=ModelSeed, META:CPD-10267=MetaCyc}
+L-Saccharopine	{META:SACCHAROPINE=MetaCyc}
+Ceramide	{META:Ceramides=MetaCyc}
+Phosphoenolpyruvate	{META:PHOSPHO-ENOL-PYRUVATE=MetaCyc}
+hexanal	{META:HEXANAL=MetaCyc}
+beta-Alanine	{META:B-ALANINE=MetaCyc}
+Isofucosterol	{META:CPD-4127=MetaCyc}
+(22S,24R)-22-Hydroxy-ergost-4 en-3-one	{META:CPD-3945=MetaCyc}
+jasmonoyl-isoleucine	null
+Succinate	{META:SUC=MetaCyc}
+Phytol	{META:PHYTOL=MetaCyc}
+4-Aminobutanal	{META:4-AMINO-BUTYRALDEHYDE=MetaCyc}
+1D-myo-Inositol 1,3,4,6-tetrakisphosphate	{META:CPD-505=MetaCyc}
+2-Octaprenyl-6-methoxyphenol	{META:2-OCTAPRENYL-6-METHOXYPHENOL=MetaCyc}
+Gibberellin A12	{META:CPD1F-95=MetaCyc}
+Gibberellin A14	{META:CPD-6228=MetaCyc}
+Gibberellin A13	null
+Porphobilinogen	{META:PORPHOBILINOGEN=MetaCyc}
+(3Z)-nonenal	{META:CPD-8684=MetaCyc}
+L-fuculose	{META:L-FUCULOSE=MetaCyc}
+1D-myo-Inositol 1,3,4,5-tetrakisphosphate	{META:CPD-506=MetaCyc}
+Dodecanoyl-ACP (n-C12:0ACP)	{cpd11468=ModelSeed}
+trans-Oct-2-enoyl-[acyl-carrier protein]	null
+(GlcNAc)2 (Man)1 (PP-Dol)1	null
+L-Histidinol	{META:HISTIDINOL=MetaCyc}
+(S)-3-Hydroxy-2-methylbutyryl-CoA	{META:2-METHYL-3-HYDROXY-BUTYRYL-COA=MetaCyc}
+Coproporphyrinogen III	{META:COPROPORPHYRINOGEN_III=MetaCyc}
+L-Galactose	{META:CPD-13428=MetaCyc}
+5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide	{cpd02851=ModelSeed, META:AICAR=MetaCyc}
+protein-linked asparagine residue (N-glycosylation site)	null
+D-Mannose	{META:MANNOSE=MetaCyc}
+L-Fucose 1-phosphate	{META:CPD-488=MetaCyc}
+dTDP-4-dehydro-6-deoxy-L-mannose	{cpd00522=ModelSeed, META:DTDP-DEOH-DEOXY-MANNOSE=MetaCyc}
+2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate	{cpd29679=ModelSeed}
+3-Isopropylmalate	{META:2-D-THREO-HYDROXY-3-CARBOXY-ISOCAPROATE=MetaCyc}
+Divinylprotochlorophyllide a	{META:DIVINYL-PROTOCHLOROPHYLLIDE-A=MetaCyc}
+Leucodelphinidin	{META:CPD-7088=MetaCyc}
+Phosphate	{META:Pi=MetaCyc}
+Urate	{META:URATE=MetaCyc}
+melissoyl-CoA (n-C30:0CoA)	null
+4-Hydroxybenzoate	{META:4-hydroxybenzoate=MetaCyc}
+Palmitoyl-CoA (n-C16:0CoA)	{META:PALMITYL-COA=MetaCyc}
+1-Pyrroline-5-carboxylate	{META:L-DELTA1-PYRROLINE_5-CARBOXYLATE=MetaCyc}
+S-Formylglutathione	{META:CPD-548=MetaCyc}
+Shikimate	{META:SHIKIMATE=MetaCyc}
+18-oxo-oleate	{META:18-OXOOLEATE=MetaCyc}
+D-glyceraldehyde 3-phosphate	{META:GAP=MetaCyc}
+D-Xylulose 5-phosphate	{META:XYLULOSE-5-PHOSPHATE=MetaCyc}
+3-methoxy-4-hydroxy-5-all-trans-octaprenylbenzoate	{META:CPD-9899=MetaCyc}
+Serotonin	{META:SEROTONIN=MetaCyc}
+3-Methylglutaconyl-CoA	{META:TRANS-3-METHYL-GLUTACONYL-COA=MetaCyc}
+p-Coumaraldehyde	{META:COUMARALDEHYDE=MetaCyc}
+trans-lignocer-2-enoyl-CoA	{META:CPD-14282=MetaCyc}
+Deoxyuridine	{META:DEOXYURIDINE=MetaCyc}
+Kaempferol	{META:CPD1F-90=MetaCyc}
+Dihydrozeatin	{META:CPD-332=MetaCyc}
+UDP-galactose	{META:CPD-14553=MetaCyc}
+Momilactone A	{META:CPD-7092=MetaCyc}
+Phaseic acid	{META:CPD-7725=MetaCyc}
+tRNA(Arg)	{cpd11907=ModelSeed}
+NMN	{META:NICOTINAMIDE_NUCLEOTIDE=MetaCyc}
+L-Arabinose	{cpd00224=ModelSeed, META:L-ARABINOSE=MetaCyc}
+5-Dehydroepisterol	{META:CPD-700=MetaCyc}
+Se-Adenosylselenohomocysteine	{cpd03393=ModelSeed}
+10-Formyltetrahydrofolate	{META:10-FORMYL-THF=MetaCyc}
+coumarinate glucoside	{META:CPD-7417=MetaCyc}
+(GlcNAc)2 (Man)3 (PP-Dol)1	null
+Fumarate	{META:FUM=MetaCyc}
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	{META:CPD-9924=MetaCyc}
+(GlcN)1 (Ino(acyl)-P)1 (Man)2 (EtN)1 (P)1	null
+Isoorientin	{META:ISOORIENTIN=MetaCyc}
+(9Z,11E,15Z)-(13S)-Hydroperoxyoctadeca-9,11,15-trienoate	{META:CPD-725=MetaCyc}
+Pectate	{cpd11686=ModelSeed, META:PECTATE=MetaCyc}
+2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol	{META:OCTAPRENYL-METHYL-METHOXY-BENZQ=MetaCyc, cpd15361=ModelSeed}
+Stearoyl-CoA (n-C18:0CoA)	{META:STEAROYL-COA=MetaCyc}
+trans-montan-2-enoyl-CoA	null
+ATP	{META:ATP=MetaCyc}
+cis-3,4-Leucopelargonidin	{META:LEUCOPELARGONIDIN-CMPD=MetaCyc}
+(GlcN)1 (Ino(acyl)-P)1 (Man)3 (EtN)1 (P)1	null
+Farnesylcysteine	{cpd20939=ModelSeed, META:CPD-12581=MetaCyc}
+Hexanoyl-ACP (n-C6:0ACP)	{cpd11472=ModelSeed}
+D-4'-Phosphopantothenate	{META:4-P-PANTOTHENATE=MetaCyc}
+dUTP	{META:DUTP=MetaCyc}
+1-(5-Phosphoribosyl)-ATP	{META:PHOSPHORIBOSYL-ATP=MetaCyc}
+(S)-3-Hydroxyisobutyryl-CoA	{META:CPD-12173=MetaCyc}
+Menaquinone 8 (Vitamin K2)	null
+Isovitexin	{META:ISOVITEXIN=MetaCyc}
+trans-arachido-2-enoyl-CoA	{META:CPD-14280=MetaCyc}
+3-Deoxy-D-manno-2-octulosonate	{META:KDO=MetaCyc}
+UDP-4-dehydro-6-deoxy-D-glucose	{META:CPD-663=MetaCyc}
+5-Methylthio-5-deoxy-D-ribose 1-phosphate	{cpd29669=ModelSeed}
+(3R)-3-hydroxy-behenoyl-CoA	{META:CPD-14276=MetaCyc}
+beta-L-Arabinose 1-phosphate	{META:CPD-1825=MetaCyc}
+Guanosine 3'-diphosphate 5'-triphosphate	{META:GDP-TP=MetaCyc}
+Isoscoparin-2-O-(6-feruloyl)-glucoside	null
+Bicarbonate	{META:HCO3=MetaCyc}
+Phytosphingosine	{META:PHYTOSPINGOSINE=MetaCyc}
+N-methyl-beta-alanine	{META:CPD-6141=MetaCyc}
+indole-3-acetyl-alanine	null
+Triacylglycerol	{META:Triacylglycerols=MetaCyc}
+trans-Zeatin riboside	{META:CPD-4208=MetaCyc}
+Monogalactosyl-diacylglycerol	{META:D-Galactosyl-12-diacyl-glycerols=MetaCyc}
+melissyl alcohol	{META:CPD-7877=MetaCyc}
+sitosteryl ferulate	null
+Abscisate	{META:CPD-693=MetaCyc}
+2-Succinylbenzoate	{META:O-SUCCINYLBENZOATE=MetaCyc}
+trans-Dec-2-enoyl-CoA	{META:T2-DECENOYL-COA=MetaCyc}
+Sirohydrochlorin	{META:SIROHYDROCHLORIN=MetaCyc}
+9,10,18-trihydroxystearate	{META:91018-TRIHYDROXYSTEARATE=MetaCyc}
+coumarin	{META:Coumarins=MetaCyc}
+Protoheme	{META:Heme-b=MetaCyc}
+Chlorophyllide b	{META:CPD-7014=MetaCyc}
+3-Methylbut-2-enoyl-CoA	{META:3-METHYL-CROTONYL-COA=MetaCyc}
+5-Methylthio-5-deoxy-D-ribulose 1-phosphate	{META:CPD-1063=MetaCyc, cpd02791=ModelSeed}
+5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate	{META:CPD-5821=MetaCyc}
+Dihydrozeatin-O-glucoside	{META:CPD-4617=MetaCyc}
+3-Oxohexadecanoyl-[acyl-carrier protein]	null
+trans-beta-D-Glucosyl-2-hydroxycinnamate	{META:CPD-459=MetaCyc}
+Stemar-13-ene	{META:CPD-4752=MetaCyc}
+Gibberellin A51	{META:CPD-482=MetaCyc}
+tRNA(Ser)	{cpd11921=ModelSeed}
+Gibberellin A53	{META:CPD-695=MetaCyc}
+3-Oxohexanoyl-[acyl-carrier protein]	null
+Spermine	{META:SPERMINE=MetaCyc}
+Hypoxanthine	{META:HYPOXANTHINE=MetaCyc}
+Chlorophyllide a	{META:CHLOROPHYLLIDE-A=MetaCyc}
+Caffeoyl-CoA	{META:CAFFEOYL-COA=MetaCyc}
+all-trans-Nonaprenyl diphosphate	{META:SOLANESYL-PYROPHOSPHATE=MetaCyc}
+Apigenin 7-O-beta-D-glucoside	{META:APIGENIN-7-O-BETA-D-GLUCOSIDE=MetaCyc}
+3-Oxotetradecanoyl-CoA	{META:CPD-10284=MetaCyc}
+Humulone	{META:CPD-7106=MetaCyc}
+L-Arginine	{META:ARG=MetaCyc}
+Protochlorophyllide a	{META:MONO-VINYL-PROTOCHLOROPHYLLIDE-A=MetaCyc}
+L-Glutamate 5-phosphate	{META:L-GLUTAMATE-5-P=MetaCyc}
+Heme A	{META:HEME_A=MetaCyc}
+Gibberellin A25	null
+Putrescine	{META:PUTRESCINE=MetaCyc}
+Gibberellin A24	{META:CPD1F-120=MetaCyc}
+Gibberellin A8-catabolite	{META:CPD-229=MetaCyc}
+Acetaldehyde	{META:ACETALD=MetaCyc}
+Gibberellin A20	{META:CPD1F-140=MetaCyc}
+gamma-Carotene	{META:CPD1F-126=MetaCyc}
+ent-Sandaracopimara-8(14),15-diene	{META:CPD-4753=MetaCyc}
+Gibberellin A19	{META:CPD1F-96=MetaCyc}
+Jasmonate	{META:CPD-734=MetaCyc}
+Liquiritigenin	{META:CPD-3061=MetaCyc}
+L-Cysteine	{META:CYS=MetaCyc}
+7,8-Dihydrofolate	{META:DIHYDROFOLATE=MetaCyc}
+octadecenedioate	{META:OCTADEC-9-ENE-118-DIOIC-ACID=MetaCyc}
+beta-Zeacarotene	{META:CPD-7419=MetaCyc}
+8-[(1R,2R)-3-Oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate	null
+Gentiodelphin	{META:CPD-7965=MetaCyc}
+S-(Hydroxymethyl)glutathione	{META:S-HYDROXYMETHYLGLUTATHIONE=MetaCyc}
+trans-Zeatin riboside monophosphate	{META:CPD-4206=MetaCyc}
+(Glc)1 (GlcNAc)2 (Man)9 (Asn)1	null
+Hexadecanoate (n-C16:0)	{cpd00214=ModelSeed, META:PALMITATE=MetaCyc}
+3-Deoxy-D-manno-octulosonate 8-phosphate	{META:KDO-8P=MetaCyc}
+Adenine	{META:ADENINE=MetaCyc}
+Gibberellin A34	{META:CPD-6224=MetaCyc}
+(S)-3-Methyl-2-oxopentanoate	{META:2-KETO-3-METHYL-VALERATE=MetaCyc}
+Gibberellin A36	{META:CPD-6201=MetaCyc}
+beta-D-Fructose 1,6-bisphosphate	{META:FRUCTOSE-16-DIPHOSPHATE=MetaCyc, cpd00290=ModelSeed}
+Flavin adenine dinucleotide reduced	{cpd00982=ModelSeed, META:FADH2=MetaCyc}
+Ferricytochrome c	{cpd00109=ModelSeed}
+phosphatidylethanolamine	{META:L-1-PHOSPHATIDYL-ETHANOLAMINE=MetaCyc}
+(R)-Prunasin	{META:CPD-553=MetaCyc}
+Gibberellin A29	{META:CPD-236=MetaCyc}
+L-Serine	{META:SER=MetaCyc}
+alpha-D-Ribose 5-phosphate	{cpd00101=ModelSeed, META:RIBOSE-5P=MetaCyc}
+Inosine	{META:INOSINE=MetaCyc}
+beta-elemene	{META:CPD-8232=MetaCyc}
+S-Methyl-L-methionine	{META:CPD-397=MetaCyc}
+Heme O	{META:HEME_O=MetaCyc}
+reduced plastoquinone	null
+Cerotyl alcohol	null
+Dihydroxyacetone	{META:DIHYDROXYACETONE=MetaCyc}
+Lipid A Disaccharide	{META:BISOHMYR-GLC=MetaCyc, cpd03002=ModelSeed}
+coumarinate	{META:CPD-7418=MetaCyc}
+bergapten	{META:5-METHOXYFURANOCOUMARIN=MetaCyc}
+Phylloquinone (Vitamin K1)	null
+Orotidine 5'-phosphate	{META:OROTIDINE-5-PHOSPHATE=MetaCyc}
+1D-myo-Inositol 3-phosphate	{META:1-L-MYO-INOSITOL-1-P=MetaCyc}
+cis-zeatin-9-N-glucoside	{META:CPD-4619=MetaCyc}
+Phytofluene	{META:CPD-7408=MetaCyc}
+enterobactin	{META:ENTEROBACTIN=MetaCyc}
+28-hydroxymontanate	null
+Melibiose	{META:MELIBIOSE=MetaCyc}
+Cellobiose	{META:CPD-15975=MetaCyc}
+Uroporphyrinogen I	{META:CPD-11444=MetaCyc}
+Violaxanthin	{META:CPD1F-133=MetaCyc}
+Pseudotropine	{META:PSEUDOTROPINE=MetaCyc}
+UDP-L-arabinose	{META:UDP-L-ARABINOSE=MetaCyc}
+1-Phosphatidyl-1D-myo-inositol 3,5-bisphosphate	{META:1-PHOSPHATIDYL-1D-MYO-INOSITOL-35-BISPH=MetaCyc}
+Isovaleryl-CoA	{META:ISOVALERYL-COA=MetaCyc}
+Coniferyl aldehyde	{META:CONIFERYL-ALDEHYDE=MetaCyc}
+Glycine betaine	{META:BETAINE=MetaCyc}
+Abscisic aldehyde	{META:CPD-692=MetaCyc}
+(GlcNAc)2 (Man)7 (PP-Dol)1	null
+indole-3-acetyl-myo-inositol	{META:CPD-165=MetaCyc}
+(R)-Glycerate	{META:GLYCERATE=MetaCyc}
+(3R)-3-hydroxy-cerotoyl-CoA	{META:CPD-14278=MetaCyc}
+D-Mannose 6-phosphate	{META:MANNOSE-6P=MetaCyc}
+1D-myo-Inositol 4-phosphate	{META:D-MYO-INOSITOL-4-PHOSPHATE=MetaCyc}
+Gibberellin A37 open lactone	{META:CPD-6202=MetaCyc}
+Acetoacetyl-ACP	{META:Acetoacetyl-ACPs=MetaCyc}
+Tetradecanoyl-CoA (n-C14:0CoA)	{META:TETRADECANOYL-COA=MetaCyc}
+(GlcN)1 (Ino(acyl)-P)1 (Man)3 (EtN)2 (P)2	null
+L-Glutamyl-tRNA(Glu)	{cpd12227=ModelSeed}
+tRNA(Ala)	{META:ALA-tRNAs=MetaCyc, cpd11906=ModelSeed}
+beta-D-glucose 6-phosphate	{META:GLC-6-P=MetaCyc, C01172=LigandCompound}
+lignoceroyl-CoA (n-C24:0CoA)	null
+2-Methyl-3-acetoacetyl-CoA	{META:2-METHYL-ACETO-ACETYL-COA=MetaCyc}
+L-Methionine	{META:MET=MetaCyc}
+1-alpha-D-Galactosyl-myo-inositol	{META:CPD-458=MetaCyc}
+Hydroxymethylglutaryl-CoA	{META:3-HYDROXY-3-METHYL-GLUTARYL-COA=MetaCyc}
+(Glc)2 (GlcNAc)2 (Man)9 (Asn)1	null
+3,3-Dimethyl-acrylaldehyde	{META:PRENAL=MetaCyc}
+Nicotinamide adenine dinucleotide	{META:NAD=MetaCyc}
+Nicotinamide	{META:NIACINAMIDE=MetaCyc}
+3-Dehydroquinate	{META:DEHYDROQUINATE=MetaCyc}
+Sphinganine 1-phosphate	{META:CPD-649=MetaCyc}
+(S)-Dihydroorotate	{META:DI-H-OROTATE=MetaCyc}
+beta-D-glucose	{META:GLC=MetaCyc}
+3-O-Methyltricetin	null
+UDP-N-acetylmuramoyl-L-alanine	{META:CPD0-1456=MetaCyc}
+S-ribosyl-L-homocysteine	{META:CPD-564=MetaCyc}
+5-Methylthioadenosine	{META:5-METHYLTHIOADENOSINE=MetaCyc}
+alpha-Cryptoxanthin	{cpd05497=ModelSeed, META:CPD-5661=MetaCyc}
+Ethylene	{META:ETHYLENE-CMPD=MetaCyc}
+UDP-L-rhamnose	{META:UDP-L-RHAMNOSE=MetaCyc}
+L-Threonyl-tRNA(Thr)	{cpd12229=ModelSeed}
+beta-Tocopherol	{META:BETA-TOCOPHEROL=MetaCyc}
+Hydrogen cyanide	{META:HCN=MetaCyc}
+Zeaxanthin	{META:CPD1F-130=MetaCyc}
+trans-meliss-2-enoyl-CoA	null
+oxopentenyl-cyclopentane-octanoyl-CoA	{META:CPD-11517=MetaCyc}
+Antheraxanthin	{META:CPD1F-131=MetaCyc}
+myo-Inositol	{META:MYO-INOSITOL=MetaCyc}
+Apigenin	{META:CPD-431=MetaCyc}
+Prephenate	{META:PREPHENATE=MetaCyc}
+5,6,7,8-Tetrahydrofolate	{META:THF=MetaCyc}
+sn-Glycero-3-phosphocholine	{META:L-1-GLYCERO-PHOSPHORYLCHOLINE=MetaCyc, cpd00507=ModelSeed}
+Coenzyme A	{META:CO-A=MetaCyc}
+1,6-kestotetraose	{META:BIFURCOSE=MetaCyc}
+Betaine aldehyde	{META:BETAINE_ALDEHYDE=MetaCyc}
+ent-cassa-12,15-diene-3alpha-ol-11-keto	null
+Pyridoxamine	{META:PYRIDOXAMINE=MetaCyc}
+2-Phytyl-1,4-naphthoquinone	{META:CPD-6947=MetaCyc}
+ent-Copalyl diphosphate	{META:ENT-COPALYL-DIPHOSPHATE=MetaCyc}
+Ergosterol	{META:ERGOSTEROL=MetaCyc}
+Digalactosyl-diacylglycerol	{META:Galactosyl-galactosyl-diacyl-glycerols=MetaCyc}
+cyanidin-3,5-diglucoside	{META:CPD-7138=MetaCyc}
+Sinapoyl alcohol	{META:SINAPYL-ALCOHOL=MetaCyc}
+1D-myo-Inositol 1,3,4-trisphosphate	{META:INOSITOL-1-3-4-TRIPHOSPHATE=MetaCyc}
+4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol	{META:ALPHA-METHYL-5-ALPHA-ERGOSTA=MetaCyc}
+tRNA(Leu)	{META:LEU-tRNAs=MetaCyc, cpd11916=ModelSeed}
+Deoxyguanosine	{META:DEOXYGUANOSINE=MetaCyc}
+Pyridoxamine phosphate	{META:PYRIDOXAMINE-5P=MetaCyc}
+malonyl-ACP methyl ester	null
+Campest-4-en-3beta-ol	{META:CPD-708=MetaCyc}
+Campestanol	{META:CPD-710=MetaCyc}
+Lipoamide	{META:LIPOAMIDE=MetaCyc}
+Kaempferol 3-O-glucoside	{META:CPD1F-453=MetaCyc}
+Prephytoene diphosphate	{META:CPD-464=MetaCyc}
+3-Octaaprenyl-4,5-dihydroxybenzoate	null
+(GlcNAc)2 (Man)6 (PP-Dol)1	null
+N-Carbamoyl-beta-alanine	{META:3-UREIDO-PROPIONATE=MetaCyc}
+S-glutaryldihydrolipoyllysine	null
+Myristoyl-ACP (n-C14:0ACP)	{cpd27551=ModelSeed}
+1D-myo-Inositol 3,4,5,6-tetrakisphosphate	{META:CPD-178=MetaCyc}
+S-(3-Methylbutanoyl)-dihydrolipoamide	{cpd03046=ModelSeed}
+Selenide	{META:CPD-678=MetaCyc}
+L-Glutamate 5-semialdehyde	{META:L-GLUTAMATE_GAMMA-SEMIALDEHYDE=MetaCyc}
+Thymidine	{META:THYMIDINE=MetaCyc}
+Nitrite	{META:NITRITE=MetaCyc}
+L-Leucyl-tRNA(Leu)	{cpd12003=ModelSeed}
+D-Gluconate	{META:GLUCONATE=MetaCyc}
+L-Histidinol phosphate	{META:L-HISTIDINOL-P=MetaCyc}
+trans-zeatin riboside diphosphate	{META:CPD-4204=MetaCyc}
+lignocerate (n-C24:0)	null
+Hexadecenal	{META:CPD-292=MetaCyc}
+(GlcNAc)2 (Man)4 (PP-Dol)1	null
+Vitexin	{META:VITEXIN=MetaCyc}
+phytocassane A	{META:CPD-7094=MetaCyc}
+D-Glycerate 2-phosphate	{META:2-PG=MetaCyc}
+epsilon-carotene-3-diol	null
+Indole-3-acetamide	{META:CPD-237=MetaCyc}
+D-Alanine	{META:D-ALANINE=MetaCyc}
+cyanidin-3-O-glucoside	null
+ent-Isokaurene	{META:CPD-11534=MetaCyc}
+Methanol	{META:METOH=MetaCyc}
+UDP	{META:UDP=MetaCyc}
+(R)-Amygdalin	{META:CPD-1125=MetaCyc}
+Acetyl-ACP	{META:ACETYL-ACP=MetaCyc}
+Protein N6-(octanoyl)lysine	{META:Protein-6-N-octanoyl-lysine=MetaCyc}
+Secologanin	{META:SECOLOGANIN-CPD=MetaCyc}
+Indole-3-acetaldehyde	{META:INDOLE_ACETALDEHYDE=MetaCyc}
+Benzaldehyde	{META:BENZALDEHYDE=MetaCyc}
+(GlcNAc)2 (Man)5 (PP-Dol)1	null
+4-Methyl-5-(2-phosphoethyl)-thiazole	{cpd02654=ModelSeed, META:THZ-P=MetaCyc}
+5-oxo-L-proline	{META:5-OXOPROLINE=MetaCyc}
+Lathosterol	{META:CPD-4186=MetaCyc}
+Maltose	{cpd00179=ModelSeed, META:ALPHA-MALTOSE=MetaCyc}
+Malonate semialdehyde	{META:MALONATE-S-ALD=MetaCyc}
+Hexadecenoate (16:1(9Z))	null
+Methyl jasmonate	{META:CPD1F-2=MetaCyc}
+3-Oxohexadecanoyl-CoA	{META:3-OXOPALMITOYL-COA=MetaCyc}
+Histamine	{META:HISTAMINE=MetaCyc}
+2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate	{cpd02894=ModelSeed, META:AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP=MetaCyc}
+arachidoyl-CoA (n-C20:0CoA)	null
+Isocitrate	{META:Isocitrate=MetaCyc}
+1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	{META:CARBOXYPHENYLAMINO-DEOXYRIBULOSE-P=MetaCyc}
+Fecosterol	{META:FECOSTEROL=MetaCyc}
+beta-Caryophyllene	{META:CPD-8230=MetaCyc}
+3-Phosphate-shikimate	null
+5'-Deoxyadenosine	{META:CH33ADO=MetaCyc}
+4-prenylphlorisobutyrophenone	{META:4-PRENYLPHLORISOBUTYROPHENONE=MetaCyc}
+Octanoyl-ACP (n-C8:0ACP)	{cpd11470=ModelSeed}
+L-2-Amino-3-oxobutanoic acid	{META:AMINO-OXOBUT=MetaCyc}
+UDP-6-sulfoquinovose	{META:UDP-SULFOQUINOVOSE=MetaCyc}
+Leucocyanidin	{META:CPD-590=MetaCyc}
+Octadecadienoyl-[acyl-carrier protein] (n-C18:2ACP)	null
+Homogentisate	{META:HOMOGENTISATE=MetaCyc}
+(GlcNAc)2 (Man)5 (Asn)1	null
+maltotetraose	{META:MALTOTETRAOSE=MetaCyc}
+Raffinose	{META:CPD-1099=MetaCyc}
+Epicatechin	{META:CPD-7630=MetaCyc}
+Isopentenyl-ADP	{META:CPD-4203=MetaCyc}
+O-Acetyl-L-homoserine	{META:CPD-667=MetaCyc}
+2-Succinylbenzoyl-CoA	{META:CPD-6972=MetaCyc}
+syn-Copalyl diphosphate	{META:CPD-8719=MetaCyc}
+S-Farnesyl protein	{cpd21353=ModelSeed}
+Lipoyl-[acyl carrier protein]	null
+2-hydroxyeriodictyol 8-C-glucoside	null
+dTDP-L-rhamnose	{META:DTDP-RHAMNOSE=MetaCyc}
+1D-myo-Inositol 1,2,3,5,6-pentakisphosphate	{META:MI-PENTAKISPHOSPHATE=MetaCyc}
+Behenyl palmitate	null
+Quinolinate	{META:QUINOLINATE=MetaCyc}
+Lanosterol	{META:LANOSTEROL=MetaCyc}
+5,10-Methenyltetrahydrofolate	{META:5-10-METHENYL-THF=MetaCyc}
+trans-docos-2-enoyl-CoA	{META:CPD-14281=MetaCyc}
+L-canavanine	{META:CANAVANINE=MetaCyc}
+Nicotinate	{META:NIACINE=MetaCyc}
+D-mannose 1-phosphate	{META:MANNOSE-1P=MetaCyc}
+12-oxo-c-9-dodecenoate	{META:12-OXO-CIS-9-DODECENOATE=MetaCyc}
+3-oxo-montanoyl-CoA	null
+4a-Hydroxytetrahydrobiopterin	{META:CPD-5881=MetaCyc}
+3-Oxodecanoyl-[acyl-carrier protein]	null
+phytocassane B	{META:CPD-16671=MetaCyc}
+Lactucaxanthin	{META:CPD-7416=MetaCyc}
+2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	{META:2-PHOSPHO-4-CYTIDINE-5-DIPHOSPHO-2-C-MET=MetaCyc}
+phytocassane C	{META:CPD-16672=MetaCyc}
+Cyanidin 5-O-glucoside	{META:CPD-7386=MetaCyc}
+phytocassane D	{META:CPD-16673=MetaCyc}
+phytocassane E	{META:CPD-16674=MetaCyc}
+Nicotinamide adenine dinucleotide - reduced	{cpd00004=ModelSeed, META:NADH=MetaCyc}
+Deoxycytidine	{META:DEOXYCYTIDINE=MetaCyc}
+5-Phospho-alpha-D-ribose 1-diphosphate	{META:PRPP=MetaCyc}
+psoralen	{META:PHYTOALEXIN-CMPD=MetaCyc}
+Carbamoyl phosphate	{META:CARBAMOYL-P=MetaCyc}
+Selenomethionyl-tRNA(Met)	{cpd12704=ModelSeed}
+O-ureidohomoserine	{META:O-UREIDOHOMOSERINE=MetaCyc}
+L-Galactono-1,4-lactone	{META:CPD-330=MetaCyc}
+Typhasterol	{META:CPD-719=MetaCyc}

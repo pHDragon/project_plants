@@ -1,0 +1,30 @@
+C00687_c	
+C05935_c	
+C05461_c	
+C05888_c	
+C05889_c	
+C05890_c	
+C05899_c	
+hvi_c	hv_input
+hvo_c	hv_output
+hv_e	hv
+hv_c	hv
+hvo_e	hv_output
+Glyceroltripalmitate_c	Glyceroltripalmitate
+Glyceroltristearate_c	Glyceroltristearate
+Glyceroltrioleate_c	Glyceroltrioleate
+Glyceroltrilinolate_c	Glyceroltrilinolate
+Glyceroltrilinoleate_c	Glyceroltrilinoleate
+Glyceroltripalmitoleate_c	Glyceroltripalmitoleate
+Protein_c	Protein
+Hemicellulose_c	Hemicellulose
+Carbohydrates_c	Carbohydrates
+Lignin_c	Lignin
+Lipids_c	Lipids
+Materials_c	Materials
+Amino_acids_c	Amino_acids
+Proteins_c	Proteins
+Nucleic_acids_c	Nucleic_acids
+Nitrogenous_compounds_c	Nitrogenousompounds
+Organic_acids_c	Organic_acids
+Biomass_e	Biomass

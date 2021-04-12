@@ -1,0 +1,2476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level2/version3" level="2" version="3">
+  <model>
+    <listOfCompartments>
+      <compartment id="DefaultCompartment" name="DefaultCompartment" size="1"/>
+    </listOfCompartments>
+    <listOfSpecies>
+      <species id="met_0" name="1-4-alpha-D-Glucan" compartment="DefaultCompartment"/>
+      <species id="met_1" name="1-4-beta-D-Glucan" compartment="DefaultCompartment"/>
+      <species id="met_2" name="1-KETO-2-METHYLVALERATE" compartment="DefaultCompartment"/>
+      <species id="met_3" name="10-FORMYL-THF" compartment="DefaultCompartment"/>
+      <species id="met_4" name="2-ACETO-2-HYDROXY-BUTYRATE" compartment="DefaultCompartment"/>
+      <species id="met_5" name="2-ACETO-LACTATE" compartment="DefaultCompartment"/>
+      <species id="met_6" name="2-D-THREO-HYDROXY-3-CARBOXY-ISOCAPROATE" compartment="DefaultCompartment"/>
+      <species id="met_7" name="2-KETO-3-METHYL-VALERATE" compartment="DefaultCompartment"/>
+      <species id="met_8" name="2-KETO-ISOVALERATE" compartment="DefaultCompartment"/>
+      <species id="met_9" name="2-KETOGLUTARATE" compartment="DefaultCompartment"/>
+      <species id="met_10" name="2-OXOBUTANOATE" compartment="DefaultCompartment"/>
+      <species id="met_11" name="2-PG" compartment="DefaultCompartment"/>
+      <species id="met_12" name="2K-4CH3-PENTANOATE" compartment="DefaultCompartment"/>
+      <species id="met_13" name="2K-ADIPATE" compartment="DefaultCompartment"/>
+      <species id="met_14" name="3-CARBOXY-3-HYDROXY-ISOCAPROATE" compartment="DefaultCompartment"/>
+      <species id="met_15" name="3-DEHYDRO-SHIKIMATE" compartment="DefaultCompartment"/>
+      <species id="met_16" name="3-DEOXY-D-ARABINO-HEPTULOSONATE-7-P" compartment="DefaultCompartment"/>
+      <species id="met_17" name="3-ENOLPYRUVYL-SHIKIMATE-5P" compartment="DefaultCompartment"/>
+      <species id="met_18" name="3-P-HYDROXYPYRUVATE" compartment="DefaultCompartment"/>
+      <species id="met_19" name="3-P-SERINE" compartment="DefaultCompartment"/>
+      <species id="met_20" name="5,10-methenyl-thf" compartment="DefaultCompartment"/>
+      <species id="met_21" name="5-METHYL-THF" compartment="DefaultCompartment"/>
+      <species id="met_22" name="5-P-BETA-D-RIBOSYL-AMINE" compartment="DefaultCompartment"/>
+      <species id="met_23" name="5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE" compartment="DefaultCompartment"/>
+      <species id="met_24" name="5-PHOSPHO-RIBOSYL-GLYCINEAMIDE" compartment="DefaultCompartment"/>
+      <species id="met_25" name="5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE" compartment="DefaultCompartment"/>
+      <species id="met_26" name="5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE" compartment="DefaultCompartment"/>
+      <species id="ACET" name="ACET" compartment="DefaultCompartment"/>
+      <species id="ACETALD" name="ACETALD" compartment="DefaultCompartment"/>
+      <species id="met_29" name="ACETOACETYL-COA" compartment="DefaultCompartment"/>
+      <species id="met_30" name="ACETYL-COA" compartment="DefaultCompartment"/>
+      <species id="ADENYLOSUCC" name="ADENYLOSUCC" compartment="DefaultCompartment"/>
+      <species id="ADP" name="ADP" compartment="DefaultCompartment"/>
+      <species id="AICAR" name="AICAR" compartment="DefaultCompartment"/>
+      <species id="ALLYSINE" name="ALLYSINE" compartment="DefaultCompartment"/>
+      <species id="met_35" name="ALPHA-GLC-6-P" compartment="DefaultCompartment"/>
+      <species id="met_36" name="ALPHA-GLUCOSE" compartment="DefaultCompartment"/>
+      <species id="met_37" name="ALPHA-MALTOSE" compartment="DefaultCompartment"/>
+      <species id="AMMONIA" name="AMMONIA" compartment="DefaultCompartment"/>
+      <species id="AMP" name="AMP" compartment="DefaultCompartment"/>
+      <species id="ANTHRANILATE" name="ANTHRANILATE" compartment="DefaultCompartment"/>
+      <species id="APS" name="APS" compartment="DefaultCompartment"/>
+      <species id="ARG" name="ARG" compartment="DefaultCompartment"/>
+      <species id="ASN" name="ASN" compartment="DefaultCompartment"/>
+      <species id="ATP" name="ATP" compartment="DefaultCompartment"/>
+      <species id="AcCoA" name="AcCoA" compartment="DefaultCompartment"/>
+      <species id="AlphaKG" name="AlphaKG" compartment="DefaultCompartment"/>
+      <species id="met_47" name="CARBAMOYL-P" compartment="DefaultCompartment"/>
+      <species id="met_48" name="CARBAMYUL-L-ASPARTATE" compartment="DefaultCompartment"/>
+      <species id="met_49" name="CARBON-DIOXIDE" compartment="DefaultCompartment"/>
+      <species id="met_50" name="CARBOXYPHENYLAMINO-DEOXYRIBULOSE-P" compartment="DefaultCompartment"/>
+      <species id="CDP" name="CDP" compartment="DefaultCompartment"/>
+      <species id="CHORISMATE" name="CHORISMATE" compartment="DefaultCompartment"/>
+      <species id="CMP" name="CMP" compartment="DefaultCompartment"/>
+      <species id="met_54" name="CO-A" compartment="DefaultCompartment"/>
+      <species id="met_55" name="CPD-2961" compartment="DefaultCompartment"/>
+      <species id="met_56" name="CPD-468" compartment="DefaultCompartment"/>
+      <species id="met_57" name="CPD-6366" compartment="DefaultCompartment"/>
+      <species id="met_58" name="CPD-650" compartment="DefaultCompartment"/>
+      <species id="met_59" name="CPD-6562" compartment="DefaultCompartment"/>
+      <species id="met_60" name="CPD-659" compartment="DefaultCompartment"/>
+      <species id="met_61" name="CPD-67" compartment="DefaultCompartment"/>
+      <species id="met_62" name="CPD-7100" compartment="DefaultCompartment"/>
+      <species id="met_63" name="CROTONYL-COA" compartment="DefaultCompartment"/>
+      <species id="CTP" name="CTP" compartment="DefaultCompartment"/>
+      <species id="CYS" name="CYS" compartment="DefaultCompartment"/>
+      <species id="CisAconitate" name="CisAconitate" compartment="DefaultCompartment"/>
+      <species id="Citrate" name="Citrate" compartment="DefaultCompartment"/>
+      <species id="CoA" name="CoA" compartment="DefaultCompartment"/>
+      <species id="Cyt_ox" name="Cyt_ox" compartment="DefaultCompartment"/>
+      <species id="Cyt_red" name="Cyt_red" compartment="DefaultCompartment"/>
+      <species id="met_71" name="Cytochromes-C" compartment="DefaultCompartment"/>
+      <species id="met_72" name="Cytochromes-C-Reduced" compartment="DefaultCompartment"/>
+      <species id="met_73" name="D-6-P-GLUCONO-DELTA-LACTONE" compartment="DefaultCompartment"/>
+      <species id="met_74" name="D-ERYTHRO-IMIDAZOLE-GLYCEROL-P" compartment="DefaultCompartment"/>
+      <species id="met_75" name="D-LACTATE" compartment="DefaultCompartment"/>
+      <species id="met_76" name="D-SEDOHEPTULOSE-7-P" compartment="DefaultCompartment"/>
+      <species id="DAMP" name="DAMP" compartment="DefaultCompartment"/>
+      <species id="DATP" name="DATP" compartment="DefaultCompartment"/>
+      <species id="DCDP" name="DCDP" compartment="DefaultCompartment"/>
+      <species id="DCMP" name="DCMP" compartment="DefaultCompartment"/>
+      <species id="DCTP" name="DCTP" compartment="DefaultCompartment"/>
+      <species id="DEHYDROQUINATE" name="DEHYDROQUINATE" compartment="DefaultCompartment"/>
+      <species id="DGDP" name="DGDP" compartment="DefaultCompartment"/>
+      <species id="DGMP" name="DGMP" compartment="DefaultCompartment"/>
+      <species id="DGTP" name="DGTP" compartment="DefaultCompartment"/>
+      <species id="met_86" name="DI-H-OROTATE" compartment="DefaultCompartment"/>
+      <species id="DIHYDROFOLATE" name="DIHYDROFOLATE" compartment="DefaultCompartment"/>
+      <species id="met_88" name="DIHYDROXY-ACETONE-PHOSPHATE" compartment="DefaultCompartment"/>
+      <species id="met_89" name="DIOH-ISOVALERATE" compartment="DefaultCompartment"/>
+      <species id="DPG" name="DPG" compartment="DefaultCompartment"/>
+      <species id="DUMP" name="DUMP" compartment="DefaultCompartment"/>
+      <species id="DUTP" name="DUTP" compartment="DefaultCompartment"/>
+      <species id="met_93" name="ERYTHROSE-4P" compartment="DefaultCompartment"/>
+      <species id="ETOH" name="ETOH" compartment="DefaultCompartment"/>
+      <species id="FAD" name="FAD" compartment="DefaultCompartment"/>
+      <species id="FADH2" name="FADH2" compartment="DefaultCompartment"/>
+      <species id="FRU" name="FRU" compartment="DefaultCompartment"/>
+      <species id="met_98" name="FRUCTOSE-16-DIPHOSPHATE" compartment="DefaultCompartment"/>
+      <species id="met_99" name="FRUCTOSE-6P" compartment="DefaultCompartment"/>
+      <species id="FUM" name="FUM" compartment="DefaultCompartment"/>
+      <species id="Fum" name="Fum" compartment="DefaultCompartment"/>
+      <species id="G3P" name="G3P" compartment="DefaultCompartment"/>
+      <species id="GAP" name="GAP" compartment="DefaultCompartment"/>
+      <species id="GDP" name="GDP" compartment="DefaultCompartment"/>
+      <species id="met_105" name="GDP-MANNOSE" compartment="DefaultCompartment"/>
+      <species id="GLC" name="GLC" compartment="DefaultCompartment"/>
+      <species id="met_107" name="GLC-1-P" compartment="DefaultCompartment"/>
+      <species id="met_108" name="GLC-6-P" compartment="DefaultCompartment"/>
+      <species id="GLN" name="GLN" compartment="DefaultCompartment"/>
+      <species id="GLT" name="GLT" compartment="DefaultCompartment"/>
+      <species id="met_111" name="GLUTACONYL-COA" compartment="DefaultCompartment"/>
+      <species id="met_112" name="GLUTARYL-COA" compartment="DefaultCompartment"/>
+      <species id="GLUTATHIONE" name="GLUTATHIONE" compartment="DefaultCompartment"/>
+      <species id="GLY" name="GLY" compartment="DefaultCompartment"/>
+      <species id="GLYCOLLATE" name="GLYCOLLATE" compartment="DefaultCompartment"/>
+      <species id="GLYOX" name="GLYOX" compartment="DefaultCompartment"/>
+      <species id="GMP" name="GMP" compartment="DefaultCompartment"/>
+      <species id="GTP" name="GTP" compartment="DefaultCompartment"/>
+      <species id="HIS" name="HIS" compartment="DefaultCompartment"/>
+      <species id="HISTIDINAL" name="HISTIDINAL" compartment="DefaultCompartment"/>
+      <species id="HISTIDINOL" name="HISTIDINOL" compartment="DefaultCompartment"/>
+      <species id="met_122" name="HOMO-CYS" compartment="DefaultCompartment"/>
+      <species id="met_123" name="HOMO-SER" compartment="DefaultCompartment"/>
+      <species id="HS" name="HS" compartment="DefaultCompartment"/>
+      <species id="met_125" name="HYDROGEN-PEROXIDE" compartment="DefaultCompartment"/>
+      <species id="met_126" name="ICOSANOYL-COA" compartment="DefaultCompartment"/>
+      <species id="ILE" name="ILE" compartment="DefaultCompartment"/>
+      <species id="met_128" name="IMIDAZOLE-ACETOL-P" compartment="DefaultCompartment"/>
+      <species id="IMP" name="IMP" compartment="DefaultCompartment"/>
+      <species id="met_130" name="INDOLE-3-GLYCEROL-P" compartment="DefaultCompartment"/>
+      <species id="IsoCitrate" name="IsoCitrate" compartment="DefaultCompartment"/>
+      <species id="met_132" name="L-ALPHA-ALANINE" compartment="DefaultCompartment"/>
+      <species id="met_133" name="L-ARGININO-SUCCINATE" compartment="DefaultCompartment"/>
+      <species id="met_134" name="L-ASPARTATE" compartment="DefaultCompartment"/>
+      <species id="met_135" name="L-ASPARTATE-SEMIALDEHYDE" compartment="DefaultCompartment"/>
+      <species id="met_136" name="L-BETA-ASPARTYL-P" compartment="DefaultCompartment"/>
+      <species id="met_137" name="L-CITRULLINE" compartment="DefaultCompartment"/>
+      <species id="met_138" name="L-CYSTATHIONINE" compartment="DefaultCompartment"/>
+      <species id="met_139" name="L-GLUTAMATE_GAMMA-SEMIALDEHYDE" compartment="DefaultCompartment"/>
+      <species id="met_140" name="L-HISTIDINOL-P" compartment="DefaultCompartment"/>
+      <species id="met_141" name="L-ORNITHINE" compartment="DefaultCompartment"/>
+      <species id="LEU" name="LEU" compartment="DefaultCompartment"/>
+      <species id="LINOLEIC_ACID" name="LINOLEIC_ACID" compartment="DefaultCompartment"/>
+      <species id="LYS" name="LYS" compartment="DefaultCompartment"/>
+      <species id="MAL" name="MAL" compartment="DefaultCompartment"/>
+      <species id="met_146" name="MALONYL-COA" compartment="DefaultCompartment"/>
+      <species id="met_147" name="MANNOSE-1P" compartment="DefaultCompartment"/>
+      <species id="MET" name="MET" compartment="DefaultCompartment"/>
+      <species id="met_149" name="METHYLENE-THF" compartment="DefaultCompartment"/>
+      <species id="Mal" name="Mal" compartment="DefaultCompartment"/>
+      <species id="met_151" name="N-(5-PHOSPHORIBOSYL)-ANTHRANILATE" compartment="DefaultCompartment"/>
+      <species id="NAD" name="NAD" compartment="DefaultCompartment"/>
+      <species id="NADH" name="NADH" compartment="DefaultCompartment"/>
+      <species id="NADH_mit" name="NADH_mit" compartment="DefaultCompartment"/>
+      <species id="NADP" name="NADP" compartment="DefaultCompartment"/>
+      <species id="NADPH" name="NADPH" compartment="DefaultCompartment"/>
+      <species id="NAD_mit" name="NAD_mit" compartment="DefaultCompartment"/>
+      <species id="NITRATE" name="NITRATE" compartment="DefaultCompartment"/>
+      <species id="NITRITE" name="NITRITE" compartment="DefaultCompartment"/>
+      <species id="met_160" name="O-PHOSPHO-L-HOMOSERINE" compartment="DefaultCompartment"/>
+      <species id="OROTATE" name="OROTATE" compartment="DefaultCompartment"/>
+      <species id="met_162" name="OROTIDINE-5-PHOSPHATE" compartment="DefaultCompartment"/>
+      <species id="OXALACETIC_ACID" name="OXALACETIC_ACID" compartment="DefaultCompartment"/>
+      <species id="met_164" name="OXIDIZED-GLUTATHIONE" compartment="DefaultCompartment"/>
+      <species id="met_165" name="OXYGEN-MOLECULE" compartment="DefaultCompartment"/>
+      <species id="OxalAc" name="OxalAc" compartment="DefaultCompartment"/>
+      <species id="met_167" name="Oxidized-ferredoxins" compartment="DefaultCompartment"/>
+      <species id="met_168" name="P-HYDROXY-PHENYLPYRUVATE" compartment="DefaultCompartment"/>
+      <species id="met_169" name="P-RIBOSYL-4-SUCCCARB-AMINOIMIDAZOLE" compartment="DefaultCompartment"/>
+      <species id="PHE" name="PHE" compartment="DefaultCompartment"/>
+      <species id="met_171" name="PHOSPHO-ENOL-PYRUVATE" compartment="DefaultCompartment"/>
+      <species id="met_172" name="PHOSPHORIBOSYL-AMP" compartment="DefaultCompartment"/>
+      <species id="met_173" name="PHOSPHORIBOSYL-ATP" compartment="DefaultCompartment"/>
+      <species id="met_174" name="PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE" compartment="DefaultCompartment"/>
+      <species id="met_175" name="PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE" compartment="DefaultCompartment"/>
+      <species id="met_176" name="PHOSPHORIBOSYL-FORMIMINO-AICAR-P" compartment="DefaultCompartment"/>
+      <species id="met_177" name="PHOSPHORIBULOSYL-FORMIMINO-AICAR-P" compartment="DefaultCompartment"/>
+      <species id="PPI" name="PPI" compartment="DefaultCompartment"/>
+      <species id="PREPHENATE" name="PREPHENATE" compartment="DefaultCompartment"/>
+      <species id="PRO" name="PRO" compartment="DefaultCompartment"/>
+      <species id="PROTON" name="PROTON" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="PRPP" name="PRPP" compartment="DefaultCompartment"/>
+      <species id="PYRUVATE" name="PYRUVATE" compartment="DefaultCompartment"/>
+      <species id="Pi" name="Pi" compartment="DefaultCompartment"/>
+      <species id="Proton_mit" name="Proton_mit" compartment="DefaultCompartment"/>
+      <species id="Q" name="Q" compartment="DefaultCompartment"/>
+      <species id="QH2" name="QH2" compartment="DefaultCompartment"/>
+      <species id="met_188" name="RIBOSE-5P" compartment="DefaultCompartment"/>
+      <species id="met_189" name="RIBULOSE-5P" compartment="DefaultCompartment"/>
+      <species id="met_190" name="Reduced-ferredoxins" compartment="DefaultCompartment"/>
+      <species id="SACCHAROPINE" name="SACCHAROPINE" compartment="DefaultCompartment"/>
+      <species id="SER" name="SER" compartment="DefaultCompartment"/>
+      <species id="SHIKIMATE" name="SHIKIMATE" compartment="DefaultCompartment"/>
+      <species id="met_194" name="SHIKIMATE-5P" compartment="DefaultCompartment"/>
+      <species id="SO3" name="SO3" compartment="DefaultCompartment"/>
+      <species id="met_196" name="STEAROYL-COA" compartment="DefaultCompartment"/>
+      <species id="SUCROSE" name="SUCROSE" compartment="DefaultCompartment"/>
+      <species id="SULFATE" name="SULFATE" compartment="DefaultCompartment"/>
+      <species id="Suc" name="Suc" compartment="DefaultCompartment"/>
+      <species id="SucCoA" name="SucCoA" compartment="DefaultCompartment"/>
+      <species id="THF" name="THF" compartment="DefaultCompartment"/>
+      <species id="THR" name="THR" compartment="DefaultCompartment"/>
+      <species id="TMP" name="TMP" compartment="DefaultCompartment"/>
+      <species id="TRP" name="TRP" compartment="DefaultCompartment"/>
+      <species id="TYR" name="TYR" compartment="DefaultCompartment"/>
+      <species id="UDP" name="UDP" compartment="DefaultCompartment"/>
+      <species id="met_207" name="UDP-GLUCOSE" compartment="DefaultCompartment"/>
+      <species id="UMP" name="UMP" compartment="DefaultCompartment"/>
+      <species id="UTP" name="UTP" compartment="DefaultCompartment"/>
+      <species id="VAL" name="VAL" compartment="DefaultCompartment"/>
+      <species id="WATER" name="WATER" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="met_212" name="XANTHOSINE-5-PHOSPHATE" compartment="DefaultCompartment"/>
+      <species id="met_213" name="XYLULOSE-5-PHOSPHATE" compartment="DefaultCompartment"/>
+      <species id="met_214" name="d-ribulose-1,5-p_{2}" compartment="DefaultCompartment"/>
+      <species id="met_215" name="l-delta(1)-pyrroline_5-carboxylate" compartment="DefaultCompartment"/>
+      <species id="x_ALA" name="x_ALA" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_AMP" name="x_AMP" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_ARG" name="x_ARG" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_ASN" name="x_ASN" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_ASP" name="x_ASP" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_CMP" name="x_CMP" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_CO2" name="x_CO2" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_CYS" name="x_CYS" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_Cellulose" name="x_Cellulose" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_DAMP" name="x_DAMP" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_DCMP" name="x_DCMP" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_DGMP" name="x_DGMP" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_GLC" name="x_GLC" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_GLN" name="x_GLN" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_GLT" name="x_GLT" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_GLY" name="x_GLY" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_GMP" name="x_GMP" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_HIS" name="x_HIS" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_ILE" name="x_ILE" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_LEU" name="x_LEU" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_LYS" name="x_LYS" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_Lin" name="x_Lin" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_MET" name="x_MET" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_NH3" name="x_NH3" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_NO3" name="x_NO3" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_O2" name="x_O2" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_ORN" name="x_ORN" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_PHE" name="x_PHE" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_PRO" name="x_PRO" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_Pi" name="x_Pi" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_SER" name="x_SER" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_SO4" name="x_SO4" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_Starch" name="x_Starch" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_THR" name="x_THR" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_TMP" name="x_TMP" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_TRP" name="x_TRP" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_TYR" name="x_TYR" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_UMP" name="x_UMP" compartment="DefaultCompartment" boundaryCondition="true"/>
+      <species id="x_VAL" name="x_VAL" compartment="DefaultCompartment" boundaryCondition="true"/>
+    </listOfSpecies>
+    <listOfReactions>
+      <reaction id="reac_0" name="1.5.1.20-RXN-(NADP)" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADPH"/>
+          <speciesReference species="met_149"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADP"/>
+          <speciesReference species="met_21"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_1" name="1.5.1.7-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="SACCHAROPINE"/>
+          <speciesReference species="NAD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADH"/>
+          <speciesReference species="met_9"/>
+          <speciesReference species="LYS"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_2" name="1.5.1.9-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="ALLYSINE"/>
+          <speciesReference species="NADH"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="SACCHAROPINE"/>
+          <speciesReference species="NAD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_3" name="1.8.4.9-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="AMP"/>
+          <speciesReference species="SO3"/>
+          <speciesReference species="met_164"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GLUTATHIONE" stoichiometry="2"/>
+          <speciesReference species="APS"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_4" name="1TRANSKETO-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_76"/>
+          <speciesReference species="GAP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_213"/>
+          <speciesReference species="met_188"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_5" name="2-AMINOADIPATE-AMINOTRANSFERASE-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_13"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_56"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_6" name="2-ISOPROPYLMALATESYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_8"/>
+          <speciesReference species="met_30"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_54"/>
+          <speciesReference species="met_14"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_7" name="2-KETO-ADIPATE-DEHYDROG-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADH"/>
+          <speciesReference species="met_49"/>
+          <speciesReference species="met_112"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NAD"/>
+          <speciesReference species="met_13"/>
+          <speciesReference species="met_54"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_8" name="2.5.1.19-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_171"/>
+          <speciesReference species="met_194"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_17"/>
+          <speciesReference species="Pi"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_9" name="2.7.7.13-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_105"/>
+          <speciesReference species="PPI"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GTP"/>
+          <speciesReference species="met_147"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_10" name="2PGADEHYDRAT-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_11"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_171"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_11" name="2TRANSKETO-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_99"/>
+          <speciesReference species="GAP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_213"/>
+          <speciesReference species="met_93"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_12" name="3-DEHYDROQUINATE-DEHYDRATASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="DEHYDROQUINATE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_15"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_13" name="3-DEHYDROQUINATE-SYNTHASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_16"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DEHYDROQUINATE"/>
+          <speciesReference species="Pi"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_14" name="3-ISOPROPYLMALDEHYDROG-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_6"/>
+          <speciesReference species="NAD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADH"/>
+          <speciesReference species="met_62"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_15" name="3-ISOPROPYLMALISOM-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_14"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_6"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_16" name="3PGAREARR-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="G3P"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_11"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_17" name="6PFRUCTPHOS-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_99"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_98"/>
+          <speciesReference species="ADP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_18" name="6PGLUCONDEHYDROG-RXN-(NAD)" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_55"/>
+          <speciesReference species="NAD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_189"/>
+          <speciesReference species="NADH"/>
+          <speciesReference species="met_49"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_19" name="6PGLUCONOLACT-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_73"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_55"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_20" name="ACETALD-DEHYDROG-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_54"/>
+          <speciesReference species="NAD"/>
+          <speciesReference species="ACETALD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADH"/>
+          <speciesReference species="met_30"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_21" name="ACETATE--COA-LIGASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="ATP"/>
+          <speciesReference species="met_54"/>
+          <speciesReference species="ACET"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PPI"/>
+          <speciesReference species="met_30"/>
+          <speciesReference species="AMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_22" name="ACETOLACTREDUCTOISOM-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADPH"/>
+          <speciesReference species="met_5"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_89"/>
+          <speciesReference species="NADP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_23" name="ACETOLACTSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="PYRUVATE" stoichiometry="2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_49"/>
+          <speciesReference species="met_5"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_24" name="ACETOOHBUTREDUCTOISOM-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADPH"/>
+          <speciesReference species="met_4"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADP"/>
+          <speciesReference species="met_2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_25" name="ACETOOHBUTSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_10"/>
+          <speciesReference species="PYRUVATE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_4"/>
+          <speciesReference species="met_49"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_26" name="ACETYL-COA-ACETYLTRANSFER-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_30" stoichiometry="2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_54"/>
+          <speciesReference species="met_29"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_27" name="ADENYL-KIN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="AMP"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ADP" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_28" name="ADENYLOSUCCINATE-SYNTHASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_134"/>
+          <speciesReference species="GTP"/>
+          <speciesReference species="IMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GDP"/>
+          <speciesReference species="Pi"/>
+          <speciesReference species="ADENYLOSUCC"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_29" name="AICARSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_169"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="FUM"/>
+          <speciesReference species="AICAR"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_30" name="AICARTRANSFORM-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_3"/>
+          <speciesReference species="AICAR"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_175"/>
+          <speciesReference species="THF"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_31" name="AIRCARBOXY-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_25"/>
+          <speciesReference species="met_49"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_174"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_32" name="AIRS-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="ATP"/>
+          <speciesReference species="met_26"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_25"/>
+          <speciesReference species="Pi"/>
+          <speciesReference species="ADP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="AKGEquiv" name="AKGEquiv" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="AlphaKG"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_34" name="ALANINE-AMINOTRANSFERASE-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="GLT"/>
+          <speciesReference species="PYRUVATE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_132"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_35" name="ALCOHOL-DEHYDROG-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADH"/>
+          <speciesReference species="ACETALD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ETOH"/>
+          <speciesReference species="NAD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_36" name="ALLYSINE-DEHYDROG-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_56"/>
+          <speciesReference species="NADH"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NAD"/>
+          <speciesReference species="ALLYSINE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_37" name="AMPSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="ADENYLOSUCC"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="AMP"/>
+          <speciesReference species="FUM"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="AMP_tx" name="AMP_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_AMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="AMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_39" name="ANTHRANSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="CHORISMATE"/>
+          <speciesReference species="GLN"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GLT"/>
+          <speciesReference species="PYRUVATE"/>
+          <speciesReference species="ANTHRANILATE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_40" name="ARGSUCCINLYA-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_133"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="FUM"/>
+          <speciesReference species="ARG"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_41" name="ARGSUCCINSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_134"/>
+          <speciesReference species="met_137"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PPI"/>
+          <speciesReference species="met_133"/>
+          <speciesReference species="AMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="ARG_tx" name="ARG_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_ARG"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ARG"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_43" name="ASNSYNA-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_134"/>
+          <speciesReference species="ATP"/>
+          <speciesReference species="AMMONIA"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PPI"/>
+          <speciesReference species="ASN"/>
+          <speciesReference species="AMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="ASN_tx" name="ASN_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_ASN"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ASN"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_45" name="ASPAMINOTRANS-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="OXALACETIC_ACID"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_134"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_46" name="ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADPH"/>
+          <speciesReference species="met_136"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADP"/>
+          <speciesReference species="Pi"/>
+          <speciesReference species="met_135"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_47" name="ASPARTATEKIN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_134"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_136"/>
+          <speciesReference species="ADP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_48" name="ASPCARBTRANS-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_134"/>
+          <speciesReference species="met_47"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_48"/>
+          <speciesReference species="Pi"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_49" name="ATPPHOSPHORIBOSYLTRANS-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="PRPP"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_173"/>
+          <speciesReference species="PPI"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="ATPase" name="ATPase" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Pi"/>
+          <speciesReference species="ADP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="AconDHatase" name="AconDHatase" fast="false">
+        <listOfReactants>
+          <speciesReference species="Citrate"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="CisAconitate"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="AconHydr" name="AconHydr" fast="false">
+        <listOfReactants>
+          <speciesReference species="CisAconitate"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="IsoCitrate"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="AlphaKGDH" name="AlphaKGDH" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NAD_mit"/>
+          <speciesReference species="AlphaKG"/>
+          <speciesReference species="CoA"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="SucCoA"/>
+          <speciesReference species="NADH_mit"/>
+          <speciesReference species="met_49"/>
+          <speciesReference species="Proton_mit"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_54" name="BHBDCLOS-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_29"/>
+          <speciesReference species="NADH"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_58"/>
+          <speciesReference species="NAD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_55" name="BRANCHED-CHAINAMINOTRANSFERILEU-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="GLT"/>
+          <speciesReference species="met_7"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ILE"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_56" name="BRANCHED-CHAINAMINOTRANSFERLEU-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_12"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="LEU"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_57" name="BRANCHED-CHAINAMINOTRANSFERVAL-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_8"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="VAL"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_58" name="CARBAMATE-KINASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_49"/>
+          <speciesReference species="ATP"/>
+          <speciesReference species="AMMONIA"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_47"/>
+          <speciesReference species="ADP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_59" name="CARBOXYCYCLOHEXADIENYL-DEHYDRATASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_60"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PHE"/>
+          <speciesReference species="met_49"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_60" name="CDPKIN-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="CTP"/>
+          <speciesReference species="ADP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="CDP"/>
+          <speciesReference species="ATP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_61" name="CELLULOSE-SYNTHASE-(UDP-FORMING)-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_207"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="UDP"/>
+          <speciesReference species="met_1"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_62" name="CHORISMATE-SYNTHASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_17"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Pi"/>
+          <speciesReference species="CHORISMATE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_63" name="CHORISMATEMUT-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="CHORISMATE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PREPHENATE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_64" name="CMPKI-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="CDP"/>
+          <speciesReference species="ADP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ATP"/>
+          <speciesReference species="CMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="CMP_tx" name="CMP_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_CMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="CMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="CO2_tx" name="CO2_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_CO2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_49"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_67" name="CTPSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="UTP"/>
+          <speciesReference species="ATP"/>
+          <speciesReference species="AMMONIA"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="CTP"/>
+          <speciesReference species="ADP"/>
+          <speciesReference species="Pi"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_68" name="CYSPH-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="CYS"/>
+          <speciesReference species="met_160"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Pi"/>
+          <speciesReference species="met_138"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_69" name="CYSSYNMULTI-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="SER"/>
+          <speciesReference species="HS"/>
+          <speciesReference species="met_30"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="CYS"/>
+          <speciesReference species="met_54"/>
+          <speciesReference species="ACET"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_70" name="CYSTATHIONINE-BETA-LYASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_138"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_122"/>
+          <speciesReference species="PYRUVATE"/>
+          <speciesReference species="AMMONIA"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="CYS_tx" name="CYS_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_CYS"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="CYS"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="Cell_tx" name="Cell_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_Cellulose"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_1"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="CitSynth" name="CitSynth" fast="false">
+        <listOfReactants>
+          <speciesReference species="WATER"/>
+          <speciesReference species="OxalAc"/>
+          <speciesReference species="AcCoA"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="CoA"/>
+          <speciesReference species="Citrate"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="Complex_I" name="Complex_I" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADH_mit"/>
+          <speciesReference species="Q"/>
+          <speciesReference species="Proton_mit" stoichiometry="5"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="QH2"/>
+          <speciesReference species="NAD_mit"/>
+          <speciesReference species="PROTON" stoichiometry="4"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="Complex_II" name="Complex_II" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="Q"/>
+          <speciesReference species="Suc"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="QH2"/>
+          <speciesReference species="Fum"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="Complex_III" name="Complex_III" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="QH2"/>
+          <speciesReference species="Cyt_ox" stoichiometry="2"/>
+          <speciesReference species="Proton_mit" stoichiometry="2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PROTON" stoichiometry="4"/>
+          <speciesReference species="Cyt_red" stoichiometry="2"/>
+          <speciesReference species="Q"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="Complex_IV" name="Complex_IV" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="Cyt_red" stoichiometry="4"/>
+          <speciesReference species="met_165"/>
+          <speciesReference species="Proton_mit" stoichiometry="8"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PROTON" stoichiometry="4"/>
+          <speciesReference species="WATER" stoichiometry="2"/>
+          <speciesReference species="Cyt_ox" stoichiometry="4"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="Complex_V" name="Complex_V" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="PROTON" stoichiometry="4"/>
+          <speciesReference species="Pi"/>
+          <speciesReference species="ADP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ATP"/>
+          <speciesReference species="Proton_mit" stoichiometry="4"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_79" name="D-LACTATE-DEHYDROGENASE-(CYTOCHROME)-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_75"/>
+          <speciesReference species="met_71" stoichiometry="2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_72" stoichiometry="2"/>
+          <speciesReference species="PYRUVATE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_80" name="DAHPSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_171"/>
+          <speciesReference species="met_93"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Pi"/>
+          <speciesReference species="met_16"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_81" name="DCDPKIN-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="ADP"/>
+          <speciesReference species="DCTP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DCDP"/>
+          <speciesReference species="ATP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_82" name="DGDPKIN-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="DGTP"/>
+          <speciesReference species="ADP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DGDP"/>
+          <speciesReference species="ATP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_83" name="DIHYDROFOLATEREDUCT-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADPH"/>
+          <speciesReference species="DIHYDROFOLATE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADP"/>
+          <speciesReference species="THF"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_84" name="DIHYDROOROT-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_48"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_86"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_85" name="DIHYDROOROTOX-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_165"/>
+          <speciesReference species="met_86"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="OROTATE"/>
+          <speciesReference species="met_125"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_86" name="DIHYDROXYISOVALDEHYDRAT-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_89"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_8"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_87" name="DIHYDROXYMETVALDEHYDRAT-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_7"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_88" name="DLACTDEHYDROGNAD-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADH"/>
+          <speciesReference species="PYRUVATE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_75"/>
+          <speciesReference species="NAD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_89" name="DUTP-PYROP-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="DUTP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PPI"/>
+          <speciesReference species="DUMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_90" name="F16ALDOLASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_98"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_88"/>
+          <speciesReference species="GAP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="FA_Synth" name="FA_Synth" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_30" stoichiometry="9"/>
+          <speciesReference species="NADPH" stoichiometry="16"/>
+          <speciesReference species="ATP" stoichiometry="8"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Pi" stoichiometry="8"/>
+          <speciesReference species="ADP" stoichiometry="8"/>
+          <speciesReference species="met_54" stoichiometry="9"/>
+          <speciesReference species="NADP" stoichiometry="16"/>
+          <speciesReference species="LINOLEIC_ACID"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_92" name="FGAMSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="GLN"/>
+          <speciesReference species="met_23"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ADP"/>
+          <speciesReference species="met_26"/>
+          <speciesReference species="Pi"/>
+          <speciesReference species="GLT"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="FumEquiv" name="FumEquiv" fast="false">
+        <listOfReactants>
+          <speciesReference species="FUM"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Fum"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="Fumarase" name="Fumarase" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="WATER"/>
+          <speciesReference species="Fum"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Mal"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_95" name="GAPOXNPHOSPHN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="Pi"/>
+          <speciesReference species="NAD"/>
+          <speciesReference species="GAP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADH"/>
+          <speciesReference species="DPG"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_96" name="GART-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_3"/>
+          <speciesReference species="met_24"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="THF"/>
+          <speciesReference species="met_23"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_97" name="GCVMULTI-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NAD"/>
+          <speciesReference species="GLY"/>
+          <speciesReference species="THF"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_149"/>
+          <speciesReference species="NADH"/>
+          <speciesReference species="met_49"/>
+          <speciesReference species="AMMONIA"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="GLC_tx" name="GLC_tx" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_GLC"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GLC"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="GLN_tx" name="GLN_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_GLN"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GLN"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="GLT_tx" name="GLT_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GLT"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_101" name="GLU6PDEHYDROG-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADP"/>
+          <speciesReference species="met_108"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADPH"/>
+          <speciesReference species="met_73"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_102" name="GLUC1PURIDYLTRANS-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_207"/>
+          <speciesReference species="PPI"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="UTP"/>
+          <speciesReference species="met_107"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_103" name="GLUCOKIN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="GLC"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ADP"/>
+          <speciesReference species="met_108"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_104" name="GLUTACONYL-COA-DECARBOXYLASE-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_63"/>
+          <speciesReference species="met_49"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_111"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_105" name="GLUTAMATE-DEHYDROGENASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADH"/>
+          <speciesReference species="met_9"/>
+          <speciesReference species="AMMONIA"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GLT"/>
+          <speciesReference species="NAD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_106" name="GLUTAMATE-SYNTHASE-(FERREDOXIN)-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_167" stoichiometry="2"/>
+          <speciesReference species="GLT" stoichiometry="2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GLN"/>
+          <speciesReference species="met_9"/>
+          <speciesReference species="met_190" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_107" name="GLUTAMIDOTRANS-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="GLN"/>
+          <speciesReference species="met_177"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_74"/>
+          <speciesReference species="GLT"/>
+          <speciesReference species="AICAR"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_108" name="GLUTARYL-COA-DEHYDROG-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_111"/>
+          <speciesReference species="FADH2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_112"/>
+          <speciesReference species="FAD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_109" name="GLUTATHIONE-PEROXIDASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="GLUTATHIONE" stoichiometry="2"/>
+          <speciesReference species="met_125"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_164"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_110" name="GLYCINE-AMINOTRANSFERASE-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="GLT"/>
+          <speciesReference species="GLYOX"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GLY"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_111" name="GLYRIBONUCSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_22"/>
+          <speciesReference species="GLY"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ADP"/>
+          <speciesReference species="Pi"/>
+          <speciesReference species="met_24"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="GLY_tx" name="GLY_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_GLY"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GLY"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_113" name="GMKALT-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="DGDP"/>
+          <speciesReference species="ADP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DGMP"/>
+          <speciesReference species="ATP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_114" name="GMP-SYN-NH3-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="AMMONIA"/>
+          <speciesReference species="ATP"/>
+          <speciesReference species="met_212"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PPI"/>
+          <speciesReference species="AMP"/>
+          <speciesReference species="GMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="GMP_tx" name="GMP_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_GMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_116" name="GPH-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_61"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GLYCOLLATE"/>
+          <speciesReference species="Pi"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_117" name="GUANYL-KIN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="GMP"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GDP"/>
+          <speciesReference species="ADP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_118" name="HISTALDEHYD-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NAD"/>
+          <speciesReference species="HISTIDINAL"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADH"/>
+          <speciesReference species="HIS"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_119" name="HISTAMINOTRANS-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_128"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_9"/>
+          <speciesReference species="met_140"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_120" name="HISTCYCLOHYD-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_172"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_176"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_121" name="HISTIDPHOS-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_140"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="HISTIDINOL"/>
+          <speciesReference species="Pi"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_122" name="HISTOLDEHYD-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="HISTIDINOL"/>
+          <speciesReference species="NAD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADH"/>
+          <speciesReference species="HISTIDINAL"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_123" name="HISTPRATPHYD-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_173"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PPI"/>
+          <speciesReference species="met_172"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="HIS_tx" name="HIS_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_HIS"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="HIS"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_125" name="HOMOCYSMETB12-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_122"/>
+          <speciesReference species="met_21"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="MET"/>
+          <speciesReference species="THF"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_126" name="HOMOSERDEHYDROG-RXN-(NAD)" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADH"/>
+          <speciesReference species="met_135"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NAD"/>
+          <speciesReference species="met_123"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_127" name="HOMOSERKIN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_123"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_160"/>
+          <speciesReference species="ADP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_128" name="ICOSANOYL-COA-SYNTHASE-RXN-(NAD)" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_146"/>
+          <speciesReference species="NADH" stoichiometry="2"/>
+          <speciesReference species="met_196"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NAD" stoichiometry="2"/>
+          <speciesReference species="met_49"/>
+          <speciesReference species="met_126"/>
+          <speciesReference species="met_54"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_129" name="ICOSANOYL-COA-SYNTHASE-RXN-(NADP)" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_49"/>
+          <speciesReference species="met_126"/>
+          <speciesReference species="met_54"/>
+          <speciesReference species="NADP" stoichiometry="2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_146"/>
+          <speciesReference species="met_196"/>
+          <speciesReference species="NADPH" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_130" name="IGPSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_50"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_130"/>
+          <speciesReference species="met_49"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="ILE_tx" name="ILE_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_ILE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ILE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_132" name="IMIDPHOSDEHYD-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_74"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_128"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_133" name="IMP-DEHYDROG-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="IMP"/>
+          <speciesReference species="NAD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_212"/>
+          <speciesReference species="NADH"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_134" name="IMPCYCLOHYDROLASE-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_175"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="IMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="IsoCitDH" name="IsoCitDH" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NAD_mit"/>
+          <speciesReference species="IsoCitrate"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADH_mit"/>
+          <speciesReference species="met_49"/>
+          <speciesReference species="AlphaKG"/>
+          <speciesReference species="Proton_mit" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_136" name="L-ALPHA-ALANINE_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_ALA"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_132"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_137" name="L-ASPARTATE_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_ASP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_134"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_138" name="L-ORNITHINE_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_ORN"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_141"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="LEU_tx" name="LEU_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_LEU"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="LEU"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="LYS_tx" name="LYS_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_LYS"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="LYS"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="Lin_tx" name="Lin_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_Lin"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="LINOLEIC_ACID"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_142" name="MALSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="GLYOX"/>
+          <speciesReference species="met_30"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_54"/>
+          <speciesReference species="MAL"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_143" name="MANNPGUANYLTRANGDP-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="GDP"/>
+          <speciesReference species="met_147"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_105"/>
+          <speciesReference species="Pi"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_144" name="METHENYLTHFCYCLOHYDRO-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_20"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_3"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_145" name="METHYLENETHFDEHYDROG-NADP-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_149"/>
+          <speciesReference species="NADP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADPH"/>
+          <speciesReference species="met_20"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="MET_tx" name="MET_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_MET"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="MET"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="MalDH" name="MalDH" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NAD_mit"/>
+          <speciesReference species="Mal"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="OxalAc"/>
+          <speciesReference species="Proton_mit"/>
+          <speciesReference species="NADH_mit"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="MalEquiv" name="MalEquiv" fast="false">
+        <listOfReactants>
+          <speciesReference species="MAL"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Mal"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="NADOxid" name="NADOxid" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADH"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NAD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="NH3_tx" name="NH3_tx" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_NH3"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="AMMONIA"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_151" name="NITRATE-REDUCTASE-(NADH)-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NITRATE"/>
+          <speciesReference species="NADH"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NITRITE"/>
+          <speciesReference species="NAD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="NO3_tx" name="NO3_tx" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_NO3"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NITRATE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="O2_tx" name="O2_tx" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_O2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_165"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="OAAEquiv" name="OAAEquiv" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="OxalAc"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="OXALACETIC_ACID"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_155" name="ORNCARBAMTRANSFER-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_47"/>
+          <speciesReference species="met_141"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Pi"/>
+          <speciesReference species="met_137"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_156" name="ORNITHINE-GLU-AMINOTRANSFORASE-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_139"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_141"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_157" name="OROPRIBTRANS-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="OROTATE"/>
+          <speciesReference species="PRPP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PPI"/>
+          <speciesReference species="met_162"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_158" name="OROTPDECARB-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_162"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="UMP"/>
+          <speciesReference species="met_49"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_159" name="PEPDEPHOS-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_171"/>
+          <speciesReference species="ADP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PYRUVATE"/>
+          <speciesReference species="ATP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_160" name="PGLUCISOM-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_108"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_99"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_161" name="PGLYCDEHYDROG-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="G3P"/>
+          <speciesReference species="NAD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_18"/>
+          <speciesReference species="NADH"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="PHE_tx" name="PHE_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_PHE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PHE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_163" name="PHOSGLYPHOS-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="DPG"/>
+          <speciesReference species="ADP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="G3P"/>
+          <speciesReference species="ATP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_164" name="PHOSPHOGLUCMUT-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_107"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_35"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_165" name="PHOSPHORIBULOKINASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_189"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ADP"/>
+          <speciesReference species="met_214"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_166" name="PRAISOM-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_151"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_50"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_167" name="PREPHENATE-TRANSAMINE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="PREPHENATE"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_60"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_168" name="PREPHENATEDEHYDROG-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="PREPHENATE"/>
+          <speciesReference species="NAD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADH"/>
+          <speciesReference species="met_49"/>
+          <speciesReference species="met_168"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_169" name="PRIBFAICARPISOM-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_176"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_177"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="PRO_tx" name="PRO_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_PRO"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PRO"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_171" name="PRPPAMIDOTRANS-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="GLN"/>
+          <speciesReference species="PRPP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_22"/>
+          <speciesReference species="PPI"/>
+          <speciesReference species="GLT"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_172" name="PRPPSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="ATP"/>
+          <speciesReference species="met_188"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="AMP"/>
+          <speciesReference species="PRPP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_173" name="PRTRANS-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="ANTHRANILATE"/>
+          <speciesReference species="PRPP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PPI"/>
+          <speciesReference species="met_151"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_174" name="PSERTRANSAM-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_18"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_19"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_175" name="PYRROLINECARBREDUCT-RXN-(NAD)" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADH"/>
+          <speciesReference species="met_215"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PRO"/>
+          <speciesReference species="NAD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="Pi_tx" name="Pi_tx" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_Pi"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Pi"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="PyrDH" name="PyrDH" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NAD_mit"/>
+          <speciesReference species="PYRUVATE"/>
+          <speciesReference species="CoA"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADH_mit"/>
+          <speciesReference species="met_49"/>
+          <speciesReference species="AcCoA"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_178" name="R9-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_58"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_63"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_179" name="RIB5PISOM-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_188"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_189"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_180" name="RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_49"/>
+          <speciesReference species="met_214"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="G3P" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_181" name="RIBULP3EPIM-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_213"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_189"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_182" name="RXN-1161" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="NITRITE"/>
+          <speciesReference species="met_190" stoichiometry="6"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_167" stoichiometry="6"/>
+          <speciesReference species="AMMONIA"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_183" name="RXN-1461" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="SUCROSE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="FRU"/>
+          <speciesReference species="met_36"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_184" name="RXN-1827" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_37"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="WATER"/>
+          <speciesReference species="met_0" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_185" name="RXN-2141" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_36" stoichiometry="2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_37"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_186" name="RXN-6161" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="PYRUVATE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_49"/>
+          <speciesReference species="ACETALD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_187" name="RXN-6182" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_35"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_99"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_188" name="RXN-7022" fast="false">
+        <listOfReactants>
+          <speciesReference species="UDP"/>
+          <speciesReference species="met_59"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_207"/>
+          <speciesReference species="met_57"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_189" name="RXN-7082" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_57"/>
+          <speciesReference species="GLC"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_59"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_190" name="RXN-7800" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_62"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_12"/>
+          <speciesReference species="met_49"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_191" name="RXN-7913" fast="false">
+        <listOfReactants>
+          <speciesReference species="ADP"/>
+          <speciesReference species="DCDP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DCMP"/>
+          <speciesReference species="ATP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_192" name="RXN-821" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="PRO"/>
+          <speciesReference species="FAD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_215"/>
+          <speciesReference species="FADH2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_193" name="RXN-961" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_165"/>
+          <speciesReference species="met_214"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="G3P"/>
+          <speciesReference species="met_61"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_194" name="RXN-969" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_165"/>
+          <speciesReference species="GLYCOLLATE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_125"/>
+          <speciesReference species="GLYOX"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_195" name="RXN0-384" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="WATER"/>
+          <speciesReference species="DATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="PPI"/>
+          <speciesReference species="DAMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_196" name="RXN0-5114" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_19"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Pi"/>
+          <speciesReference species="SER"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_197" name="RXN0-723" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="CTP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DCTP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_198" name="RXN0-724" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="UTP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DUTP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_199" name="RXN0-745" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DATP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_200" name="RXN0-746" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="GTP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DGTP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_201" name="RXN66-1" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_125"/>
+          <speciesReference species="ETOH"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ACETALD"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_202" name="RXNQT-4140-(NADP)" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADPH"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="NADP"/>
+          <speciesReference species="met_215"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_203" name="SAICARSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_134"/>
+          <speciesReference species="met_174"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ADP"/>
+          <speciesReference species="met_169"/>
+          <speciesReference species="Pi"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="SER_tx" name="SER_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_SER"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="SER"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_205" name="SHIKIMATE-5-DEHYDROGENASE-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="NADPH"/>
+          <speciesReference species="met_15"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="SHIKIMATE"/>
+          <speciesReference species="NADP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_206" name="SHIKIMATE-KINASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="SHIKIMATE"/>
+          <speciesReference species="ATP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="ADP"/>
+          <speciesReference species="met_194"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_207" name="SO3OXTFER-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_72" stoichiometry="2"/>
+          <speciesReference species="SULFATE"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="SO3"/>
+          <speciesReference species="met_71" stoichiometry="2"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="SO4_tx" name="SO4_tx" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_SO4"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="SULFATE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_209" name="SPONTPRO-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_215"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_139"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_210" name="SUCROSE-SYNTHASE-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_207"/>
+          <speciesReference species="FRU"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="UDP"/>
+          <speciesReference species="SUCROSE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_211" name="SULFATE-ADENYLYLTRANS-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="APS"/>
+          <speciesReference species="PPI"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="SULFATE"/>
+          <speciesReference species="ATP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_212" name="SULFITE-REDUCTASE-(FERREDOXIN)-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="SO3"/>
+          <speciesReference species="met_190" stoichiometry="6"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_167" stoichiometry="6"/>
+          <speciesReference species="HS"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="Star_tx" name="Star_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_Starch"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_0"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="SucThioK" name="SucThioK" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="SucCoA"/>
+          <speciesReference species="ADP"/>
+          <speciesReference species="Pi"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="Suc"/>
+          <speciesReference species="CoA"/>
+          <speciesReference species="ATP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_215" name="THREDEHYD-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="THR"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_10"/>
+          <speciesReference species="AMMONIA"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_216" name="THREONINE-ALDOLASE-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="GLY"/>
+          <speciesReference species="ACETALD"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="THR"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="THR_tx" name="THR_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_THR"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="THR"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_218" name="THYMIDYLATESYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_149"/>
+          <speciesReference species="DUMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="TMP"/>
+          <speciesReference species="DIHYDROFOLATE"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="TMP_tx" name="TMP_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_TMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="TMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_220" name="TRANSALDOL-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_99"/>
+          <speciesReference species="met_93"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="met_76"/>
+          <speciesReference species="GAP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_221" name="TRIOSEPISOMERIZATION-RXN" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_88"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="GAP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="TRP_tx" name="TRP_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_TRP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="TRP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_223" name="TRYPSYN-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_130"/>
+          <speciesReference species="SER"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="TRP"/>
+          <speciesReference species="GAP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_224" name="TYRAMINOTRANS-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="met_168"/>
+          <speciesReference species="GLT"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="TYR"/>
+          <speciesReference species="met_9"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="TYR_tx" name="TYR_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_TYR"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="TYR"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="reac_226" name="UMPKI-RXN" reversible="false" fast="false">
+        <listOfReactants>
+          <speciesReference species="ATP"/>
+          <speciesReference species="UMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="UDP"/>
+          <speciesReference species="ADP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="UMP_tx" name="UMP_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_UMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="UMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="VAL_tx" name="VAL_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_VAL"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="VAL"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="dAMP_tx" name="dAMP_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_DAMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DAMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="dCMP_tx" name="dCMP_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_DCMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DCMP"/>
+        </listOfProducts>
+      </reaction>
+      <reaction id="dGMP_tx" name="dGMP_tx" fast="false">
+        <listOfReactants>
+          <speciesReference species="x_DGMP"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="DGMP"/>
+        </listOfProducts>
+      </reaction>
+    </listOfReactions>
+  </model>
+</sbml>

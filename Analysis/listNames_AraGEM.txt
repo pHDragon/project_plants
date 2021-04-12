@@ -1,0 +1,1499 @@
+(+)-(3S,4R)-cis-3,4-Dihydroxy-3,4-dihydrofluorene
+(+)-7-Isojasmonic acid CoA
+(-)-Epiafzelechin
+(-)-Epicatechin
+(-)-Epigallocatechin
+(-)-Ureidoglycolate
+alpha-Pinene
+(-)-beta-Pinene
+(11Z,14Z)-Icosadienoyl-CoA
+(11Z,14Z,17Z)-Icosatrienoyl-CoA
+(13Z)-Docosenoic acid
+(13Z,16Z)-Docosadi-13,16-enoyl-CoA
+(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate
+(15Z)-Tetracosenoic acid
+(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene
+(1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene
+(1R,2S)-Naphthalene 1,2-oxide
+(1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene
+(1S,2R)-Naphthalene 1,2-oxide
+(2'S)-Deoxymyxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)
+(2'S)-Deoxymyxol 2'-alpha-L-fucoside
+(2-Aminoethyl)phosphonate
+(2-Naphthyl)methanol
+(2E)-5-Methylhexa-2,4-dienoyl-CoA
+(2E)-Octadecenoyl-CoA
+(2E)-Octadecenoyl-[acp]
+(2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexa-2,6,9,12,15,18-enoyl-CoA
+(2E,6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahepta-2,6,9,12,15,18,21-enoyl-CoA
+(2R)-2-Hydroxy-3-(phosphonooxy)-propanal
+(2R,3S)-3-Isopropylmalate
+(2S)-2-Isopropyl-3-oxosuccinate
+(2S)-2-Isopropylmalate
+(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA
+(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]
+(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]
+(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]
+(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]
+(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]
+(3R,2'S)-Myxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)
+(3R,2'S)-Myxol 2'-alpha-L-fucoside
+(3S)-3-Hydroxyadipyl-CoA
+(3Z)-Phytochromobilin
+(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate
+(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid
+(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoyl-CoA
+(5-L-Glutamyl)-L-amino acid
+(5-L-Glutamyl)-peptide
+(5Z,8Z,11Z,14Z)-Icosatetraenoic acid
+(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid
+(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoyl-CoA
+(6Z,9Z,12Z)-Octadecatrienoic acid
+(6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA
+(6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahexaenoyl-CoA
+(7Z,10Z,13Z,16Z)-Docosatetraenoyl-CoA
+(7Z,10Z,13Z,16Z,19Z)-Docosa-7,10,13,16,19-pentaenoic acid
+(7Z,10Z,13Z,16Z,19Z)-Docosapentaenoyl-CoA
+(8Z,11Z,14Z)-Icosatrienoic acid
+(9Z)-Hexadecenoic acid
+(9Z)-Octadecenoic acid
+(9Z,12Z,15Z)-Octadecatrienoic acid
+(9Z,12Z,15Z)-Octadecatrienoyl-CoA
+(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid
+(R)(-)-Allantoin
+2,3-Dihydroxy-3-methylbutanoate
+(R)-2,3-Dihydroxy-3-methylpentanoate
+(R)-3-Hydroxy-3-methyl-2-oxopentanoate
+(R)-3-Hydroxybutanoyl-CoA
+(R)-3-Hydroxydodecanoyl-[acp]
+(R)-3-Hydroxyhexanoyl-[acp]
+(R)-4'-Phosphopantothenoyl-L-cysteine
+(R)-5-Diphosphomevalonate
+(R)-5-Phosphomevalonate
+(R)-Acetoin
+(R)-Lactate
+(R)-Mevalonate
+(R)-Pantoate
+(R)-S-Lactoylglutathione
+(R,R)-Butane-2,3-diol
+(S)(+)-Allantoin
+(S)-1-Pyrroline-5-carboxylate
+(S)-2,3-Epoxysqualene
+(S)-2-Aceto-2-hydroxybutanoate
+2-Acetolactate
+(S)-3-Hydroxy-3-methylglutaryl-CoA
+(S)-3-Hydroxybutanoyl-CoA
+(S)-3-Hydroxydodecanoyl-CoA
+(S)-3-Hydroxyhexadecanoyl-CoA
+(S)-3-Hydroxyisobutyrate
+(S)-3-Hydroxyisobutyryl-CoA
+(S)-3-Hydroxytetradecanoyl-CoA
+3-Methyl-2-oxopentanoate
+(S)-4-Amino-5-oxopentanoate
+(S)-Dihydroorotate
+(S)-Hydroxydecanoyl-CoA
+(S)-Hydroxyhexanoyl-CoA
+(S)-Hydroxyoctanoyl-CoA
+(S)-Lactate
+(S)-Malate
+(S)-Methylmalonate semialdehyde
+(Z)-5-Oxohex-2-enedioate
+1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane
+1,1-Dichloroethylene epoxide
+1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol
+1,2-Diacyl-sn-glycerol
+1,2-Dibromoethane
+1,2-Dihydroxy-8-carboxynaphthalene
+1,3,7-Trimethyluric acid
+1,3-Diaminopropane
+1,3-beta-D-Glucan
+1,4-Dihydroxy-2-naphthoate
+1,4-Dihydroxy-2-naphthoyl-CoA
+1,4-beta-D-Mannan
+1,4-beta-D-Xylan
+1,7-Dimethyluric acid
+1,7-Dimethylxanthine
+1-(2-Carboxyphenylamino)-1'-deoxy-D-ribulose 5'-phosphate
+1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole
+1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide
+1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide
+1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate
+1-Acyl-sn-glycerol 3-phosphate
+1-Alkenyl-2-acylglycerol
+1-Alkyl-2-acylglycerol
+1-Alkyl-2-acylglycerophosphoethanolamine
+1-Alkyl-sn-glycero-3-phosphate
+1-Aminocyclopropane-1-carboxylate
+1-Deoxy-D-xylulose 5-phosphate
+1-Hydroxy-2-methyl-2-butenyl 4-diphosphate
+1-Hydroxy-2-naphthaldehyde
+1-Hydroxymethylnaphthalene
+1-Methoxyphenanthrene
+1-Methylpyrrolinium
+1-Methyluric acid
+1-Methylxanthine
+1-Naphthaldehyde
+1-Nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene
+1-Nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene
+1-Nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene
+1-Nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene
+1-Nitronaphthalene-5,6-oxide
+1-Nitronaphthalene-7,8-oxide
+1-O-Sinapoyl-beta-D-glucose
+1-Phenanthrol
+1-Phenylethanol
+1-Phosphatidyl-1D-myo-inositol 3-phosphate
+1-Phosphatidyl-1D-myo-inositol 4-phosphate
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+1-Phosphatidyl-D-myo-inositol
+1-alpha-D-Galactosyl-myo-inositol
+10-Formyltetrahydrofolate
+11-Dehydrocorticosterone
+11beta-Hydroxyandrost-4-ene-3,17-dione
+12-Oxo-9(Z)-dodecenoic acid
+13(1)-Hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester
+13(1)-Oxo-magnesium-protoporphyrin IX 13-monomethyl ester
+13(S)-HPOT
+13,16-Docosadienoic acid
+14-Demethyllanosterol
+15(S)-HPETE
+16-Epivellosimine
+16alpha-Hydroxydehydroepiandrosterone
+19-Oxoandrost-4-ene-3,17-dione
+19-Oxotestosterone
+1D-myo-Inositol 1,3,4,5,6-pentakisphosphate
+1D-myo-Inositol 1,3,4-trisphosphate
+1D-myo-Inositol 1,4-bisphosphate
+1D-myo-Inositol 3-phosphate
+1H-Imidazole-4-ethanamine
+2'-Deoxyinosine 5'-phosphate
+2'-Deoxyribonucleoside diphosphate
+2,2-Dichloroacetaldehyde
+2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate
+2,3,4,5-Tetrahydrodipicolinate
+2,3-Dihydro-2-S-glutathionyl-3-hydroxy bromobenzene
+2,3-Dihydroxy 1,1,1-Trichloro-2,2-bis(4'-chlorophenyl)ethane
+2,3-Dimethyl-5-phytylquinol
+2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine
+2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)pyrimidine
+2,5-Diaminopyrimidine nucleoside triphosphate
+2,5-Dihydroxypyridine
+2,6-Dibromohydroquinone
+2,6-Dihydroxycyclohexane-1-carboxyl-CoA
+2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA
+2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine
+2-(S-Glutathionyl)acetyl chloride
+2-(S-Glutathionyl)acetyl glutathione
+2-(alpha-Hydroxyethyl)thiamine diphosphate
+2-Acyl-1-(1-alkenyl)-sn-glycero-3-phosphate
+2-Acyl-1-alkyl-sn-glycero-3-phosphate
+2-Acyl-sn-glycerol 3-phosphate
+2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine
+2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate
+2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine
+2-Amino-7,8-dihydro-4-hydroxy-6-(diphosphooxymethyl)pteridine
+2-Aminoacrylate
+2-Bromoacetaldehyde
+2-C-Methyl-D-erythritol 2,4-cyclodiphosphate
+2-C-Methyl-D-erythritol 4-phosphate
+2-Carboxy-2,3-dihydro-5,6-dihydroxyindole
+2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate
+2-Dehydropantoate
+2-Demethylmenaquinone
+2-Deoxy-D-ribose 1-phosphate
+2-Deoxy-D-ribose 5-phosphate
+2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone
+2-Hexaprenyl-3-methyl-6-methoxy-1,4-benzoquinone
+2-Hexaprenyl-6-methoxy-1,4-benzoquinone
+2-Hexaprenyl-6-methoxyphenol
+2-Hydroxy-1,4-benzoquinone
+2-Hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA
+2-Hydroxybutanoic acid
+2-Hydroxyestradiol-17beta
+2-Hydroxyethylenedicarboxylate
+2-Hydroxyhepta-2,4-dienedioate
+2-Hydroxyisophthalic acid
+2-Hydroxymuconate
+2-Hydroxyphenylacetate
+2-Hydroxypropylphosphonate
+2-Isopropylmaleate
+2-Maleylacetate
+2-Methoxyestradiol-17beta
+2-Methyl-1-hydroxybutyl-ThPP
+2-Methyl-1-hydroxypropyl-ThPP
+2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate
+2-Methyl-6-phytylquinol
+2-Methylacetoacetyl-CoA
+2-Methylbut-2-enoyl-CoA
+2-Methylbutanoyl-CoA
+2-Methylprop-2-enoyl-CoA
+2-Methylpropanoyl-CoA
+2-Naphthaldehyde
+2-Naphthoyl-CoA
+2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone
+2-Octaprenyl-6-methoxy-1,4-benzoquinone
+2-Oxo-3-hydroxy-4-phosphobutanoate
+2-Oxoadipate
+2-Oxoarginine
+2-Oxobutanoate
+2-Oxoglutarate
+2-Oxohept-3-enedioate
+2-Phenyl-1,3-propanediol monocarbamate
+2-Phenylacetamide
+2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+2-Phospho-D-glycerate
+2-Phosphoglycolate
+2-Phytyl-1,4-naphthoquinone
+2-Propyn-1-al
+2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate
+2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate
+2-Succinylbenzoyl-CoA
+2-trans-Dodecenoyl-CoA
+22alpha-Hydroxy-5alpha-campestan-3-one
+22alpha-Hydroxy-campest-4-en-3-one
+22alpha-Hydroxy-campesterol
+24-Methylene lophenol
+24-Methylenecholesterol
+24-Methylenecycloartanol
+2beta-Hydroxygibberellin 1
+3',4',5,7-Tetrahydroxy-3-methoxyflavone
+3',5'-Cyclic AMP
+3',5'-Cyclic GMP
+3'-Hydroxyechinenone
+3'-Phosphoadenylyl sulfate
+3'-Phosphoadenylylselenate
+3,3',4'5-Tetrahydroxystilbene
+3,4',5-Trihydroxystilbene
+3,4-Dihydro-3-hydroxy-4-S-glutathionyl bromobenzene
+3,4-Dihydroxy-2-butanone 4-phosphate
+3,4-Dihydroxy-L-phenylalanine
+3,4-Dihydroxy-trans-cinnamate
+3,4-Dihydroxyfluorene
+3,4-Dihydroxymandelaldehyde
+3,4-Dihydroxyphenylacetaldehyde
+3,4-Dihydroxyphenylethyleneglycol
+3,4-Dihydroxystyrene
+3,5-Dibromo-4-hydroxybenzonitrile
+3,6,8-Trimethylallantoin
+3,6-Nonadienal
+3,7-Dimethyluric acid
+3-(2-Aminoethyl)-1H-indol-5-ol
+3-(4-Hydroxyphenyl)pyruvate
+3-(Imidazol-4-yl)-2-oxopropyl phosphate
+3-Aminoisobutanoate
+3-Butyn-1-al
+3-Butynoate
+3-Carbamoyl-2-phenylpropionaldehyde
+3-Carboxy-1-hydroxypropyl-ThPP
+3-Cyano-L-alanine
+3-D-Glucosyl-1,2-diacylglycerol
+3-Dehydro-6-deoxoteasterone
+3-Dehydroquinate
+3-Dehydroshikimate
+3-Dehydrosphinganine
+3-Dehydroteasterone
+3-Deoxy-D-manno-octulosonate 8-phosphate
+3-Deoxy-D-manno-octulosonate
+3-Deoxy-D-manno-octulosonyl-lipid IV(A)
+3-Hexaprenyl-4,5-dihydroxybenzoate
+3-Hexaprenyl-4-hydroxy-5-methoxybenzoate
+3-Hexaprenyl-4-hydroxybenzoate
+3-Hexenal
+3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA
+3-Hydroxy-3-methyl-2-oxobutanoic acid
+3-Hydroxy-5-methylhex-4-enoyl-CoA
+3-Hydroxy-L-kynurenine
+3-Hydroxy-N6,N6,N6-trimethyl-L-lysine
+3-Hydroxy-OPC4-CoA
+3-Hydroxy-OPC6-CoA
+3-Hydroxy-OPC8-CoA
+3-Hydroxyanthranilate
+3-Hydroxybutanoyl-CoA
+3-Hydroxyechinenone
+3-Hydroxyisovaleryl-CoA
+3-Hydroxykynurenamine
+3-Hydroxyoctadecanoyl-CoA
+3-Hydroxyoctadecanoyl-[acp]
+3-Hydroxypimeloyl-CoA
+3-Hydroxypropionyl-CoA
+3-Indoleacetonitrile
+3-Isopropylbut-3-enoic acid
+3-Isopropylbut-3-enoyl-CoA
+3-Keto-beta-D-galactose
+3-Ketolactose
+3-Mercaptolactate
+3-Methoxyanthranilate
+3-Methoxyapigenin
+3-Methyl-1-hydroxybutyl-ThPP
+3-Methyl-2-oxobutanoic acid
+3-Methylbutanoyl-CoA
+3-Methylcrotonyl-CoA
+3-Methylglutaconyl-CoA
+3-Oxo-OPC4-CoA
+3-Oxo-OPC6-CoA
+3-Oxo-OPC8-CoA
+3-Oxoadipyl-CoA
+3-Oxodecanoyl-CoA
+3-Oxodecanoyl-[acp]
+3-Oxododecanoyl-CoA
+3-Oxododecanoyl-[acp]
+3-Oxohexadecanoyl-[acp]
+3-Oxohexanoyl-CoA
+3-Oxohexanoyl-[acp]
+3-Oxooctanoyl-CoA
+3-Oxooctanoyl-[acp]
+3-Oxopalmitoyl-CoA
+3-Oxopimeloyl-CoA
+3-Oxopropanoate
+3-Oxostearoyl-CoA
+3-Oxostearoyl-[acp]
+3-Oxotetradecanoyl-CoA
+3-Oxotetradecanoyl-[acp]
+3-Phospho-D-glycerate
+3-Phospho-D-glyceroyl phosphate
+3-Phosphonooxypyruvate
+3-Phosphonopyruvate
+3-Sulfino-L-alanine
+3-Sulfinylpyruvate
+3-Sulfopyruvate
+3-Ureidoisobutyrate
+3-Ureidopropionate
+3-alpha(S)-Strictosidine
+3-beta-D-Galactosyl-sn-glycerol
+3alpha,21-Dihydroxy-5beta-pregnane-11,20-dione
+3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA
+3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA
+3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoyl-CoA
+3alpha,7alpha,26-Trihydroxy-5beta-cholestane
+3alpha,7alpha-Dihydroxy-5beta-24-oxocholestanoyl-CoA
+3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA
+3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al
+3alpha,7alpha-Dihydroxy-5beta-cholestanate
+3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA
+3beta-Hydroxyandrost-5-en-17-one
+4,4-Dimethyl-5alpha-cholesta-8-en-3beta-ol
+4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene
+dTDP-4-dehydro-6-deoxy-alpha-D-glucose
+4-(2-Aminoethyl)-1,2-benzenediol
+4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate
+4-(4-Deoxy-beta-D-gluc-4-enuronosyl)-D-galacturonate
+4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+4-Acetamidobutanoate
+4-Amino-2-methyl-5-phosphomethylpyrimidine
+4-Amino-4-deoxychorismate
+4-Amino-5-hydroxymethyl-2-methylpyrimidine
+4-Aminobenzoate
+4-Aminobutanal
+4-Aminobutanoate
+4-Coumarate
+4-Coumaryl alcohol
+4-Fluorocatechol
+4-Fluorocyclohexadiene-cis,cis-1,2-diol
+4-Fluoromuconolactone
+4-Fumarylacetoacetate
+4-Glutathionyl cyclophosphamide
+4-Guanidinobutanal
+4-Hydroxy-2-oxo-heptanedioate
+4-Hydroxy-2-oxopentanoate
+4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one
+4-Hydroxy-L-threonine
+4-Hydroxybenzaldehyde
+4-Hydroxybenzoate
+4-Hydroxycinnamyl aldehyde
+4-Hydroxyphenylacetaldehyde
+4-Hydroxyphenylacetyl-CoA
+4-Hydroxyphenylacetylglycine
+4-Hydroxystyrene
+4-Isopropenyl-2-oxy-cyclohexanecarboxyl-CoA
+4-Maleylacetoacetate
+4-Methyl-2-oxopentanoate
+4-Methyl-5-(2-phosphoethyl)-thiazole
+4-Methylthio-2-oxobutanoic acid
+4-Nitrocatechol
+4-Nitrophenol
+4-Nitrophenyl phosphate
+4-Phospho-L-aspartate
+4-Trimethylammoniobutanal
+4-Trimethylammoniobutanoate
+4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol
+4alpha-Methylcholesta-8-en-3beta-ol
+4alpha-Methylfecosterol
+4alpha-Methylzymosterol-4-carboxylate
+5'-Deoxy-5-fluorocytidine
+5'-Deoxy-5-fluorouridine
+5'-Deoxyadenosine
+5'-Methylthioadenosine
+5'-Phosphoribosyl-N-formylglycinamide
+5'-Phosphoribosylglycinamide
+5(S)-HETE
+5(S)-HPETE
+5,10-Methenyltetrahydrofolate
+5,10-Methylenetetrahydrofolate
+5,6-Dihydro-5-fluorouracil
+5,6-Dihydrothymine
+5,6-Dihydrouracil
+5,6-Dihydroxyindole
+5-(2-Hydroxyethyl)-4-methylthiazole
+5-(3'-Carboxy-3'-oxopropenyl)-4,6-dihydroxypicolinate
+5-(3'-Carboxy-3'-oxopropyl)-4,6-dihydroxypicolinate
+5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide
+5-Amino-4-imidazole carboxylate
+5-Amino-4-imidazolecarboxyamide
+5-Amino-6-(1-D-ribitylamino)uracil
+5-Amino-6-(5'-phosphoribitylamino)uracil
+5-Amino-6-(5'-phosphoribosylamino)uracil
+5-Aminoimidazole
+5-Aminolevulinate
+5-Aminopentanal
+5-Carboxy-2-pentenoyl-CoA
+5-Dehydroavenasterol
+5-Dehydroepisterol
+5-Deoxyleucopelargonidin
+5-FU
+5-Fluorodeoxyuridine monophosphate
+5-Fluorodeoxyuridine
+5-Fluoromuconolactone
+5-Fluorouridine monophosphate
+5-Formyltetrahydrofolate
+5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate
+5-Hydroxy-guaiacyl lignin
+5-Hydroxyconiferyl alcohol
+5-Hydroxyferulate
+5-Hydroxyindoleacetaldehyde
+5-Hydroxyindoleacetate
+5-Hydroxyindoleacetylglycine
+5-Hydroxyisourate
+5-L-Glutamyl-taurine
+5-Methoxytryptamine
+5-Methyl-3-oxo-4-hexenoyl-CoA
+5-Methylhex-4-enoyl-CoA
+5-Methyltetrahydrofolate
+5-Methyltetrahydropteroyltri-L-glutamate
+5-O-(1-Carboxyvinyl)-3-phosphoshikimate
+5-Oxoproline
+5-Phenyl-1,3-oxazinane-2,4-dione
+5-Phospho-alpha-D-ribose 1-diphosphate
+5-Phosphoribosylamine
+5alpha-Campestan-3-one
+5alpha-Cholest-8-en-3beta-ol
+5alpha-Cholesta-7,24-dien-3beta-ol
+6,7-Dimethyl-8-(1-D-ribityl)lumazine
+6-Carboxyhexanoate
+6-Carboxyhexanoyl-CoA
+6-Deoxocastasterone
+6-Deoxocathasterone
+6-Deoxoteasterone
+6-Deoxotyphasterol
+6-Hydroxynicotinate
+6-Mercaptopurin
+6-Mercaptopurine ribonucleoside triphosphate
+6-Methylmercaptopurine
+6-Methylthiopurine 5'-monophosphate ribonucleotide
+6-Oxo-2-hydroxycyclohexane-1-carboxyl-CoA
+6-Oxocampestanol
+6-Phospho-D-gluconate
+6-Thioguanosine monophosphate
+6-Thioinosine 5'-monophosphate
+6-Thiourate
+6-Thioxanthine 5'-monophosphate
+6alpha-Hydroxy-castasterone
+6beta,7beta-Dihydroxykaurenoic acid
+7,10,13,16-Docosatetraenoic acid
+7,8-Diaminononanoate
+7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene
+7,8-Dihydro-beta-carotene
+7-Dehydrodesmosterol
+7-Methyl-3-oxo-6-octenoyl-CoA
+7-Methyluric acid
+7-Methylxanthine
+8,11,14-Eicosatrienoyl-CoA
+8-Amino-7-oxononanoate
+8-Methoxykynurenate
+8-[(1R,2R)-3-Oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate
+9(S)-HPOT
+9,10-Dihydroxyanthracene
+9,10-EOT
+9-Oxononanoic acid
+9-cis-Retinal
+9-cis-Retinol
+ADP-glucose
+ADP-ribose
+ADP
+AMP
+ATP
+Acceptor
+Acetaldehyde
+Acetate
+Acetoacetate
+Acetoacetyl-CoA
+Acetoacetyl-[acp]
+Acetophenone
+Acetyl adenylate
+Acetyl-CoA
+Acetyl-[acyl-carrier protein]
+Acetylpseudotropine
+Acetyltropine
+Activated methyl group
+Acyl-CoA
+Acyl-carrier protein
+Acylglycerone phosphate
+Adenine
+Adenosine 3',5'-bisphosphate
+Adenosine
+Adenylyl sulfate
+Adenylylselenate
+Adonixanthin
+Adrenosterone
+Agmatine
+L-Alanine
+Alcophosphamide
+Aldehyde
+Aldophosphamide
+Alkane
+Alkylphosphonate
+Allantoate
+Aminoacetone
+Aminoimidazole ribotide
+Aminopropylcadaverine
+Amylose
+Aniline
+Anthracene-9,10-dihydrodiol
+Anthracene
+Anthranilate
+Apiforol
+Apigenin
+Apoprotein
+Arachidonyl-CoA
+Ascorbate
+Astaxanthin
+Benzene-1,2,4-triol
+Benzo[a]pyrene-4,5-oxide
+Benzo[a]pyrene-7,8-diol
+Benzoate
+Benzonitrile
+Benzoyl acetyl-CoA
+Betaine aldehyde
+Betaine
+Biliverdin
+Biomass
+Biotin
+Bis(4'-chlorophenyl)acetate
+Bis(4'-chlorophenyl)methane
+Bromobenzene-2,3-oxide
+Bromobenzene-3,4-oxide
+But-2-enoyl-[acyl-carrier protein]
+Butanoyl-CoA
+Butein
+Butin
+Butyryl-[acp]
+C15811
+C15812
+CDP-choline
+CDP-diacylglycerol
+CDP-ethanolamine
+CDP
+CH3-R
+CMP-2-aminoethylphosphonate
+CMP-3-deoxy-D-manno-octulosonate
+CMP
+CO2
+CTP
+Cadaverine
+Caffeic aldehyde
+Caffeoyl-CoA
+Campest-4-en-3-one
+Campestanol
+Campesterol
+Canthaxanthin
+Carbamate
+Carbamoyl phosphate
+Carboxylate
+Castasterone
+Catechol
+Cathasterone
+Cellobiose
+Cellulose
+Ceramide 1-phosphate
+Chenodeoxycholoyl-CoA
+Chenodeoxyglycocholoyl-CoA
+Chitin
+Chitobiose
+Chloral hydrate
+Chloroacetyl chloride
+Chlorophyll a
+Chlorophyllide
+Cholesta-5,7-dien-3beta-ol
+Cholesterol
+Choline phosphate
+Choline
+Choloyl-CoA
+Chorismate
+Cinnamoyl-CoA
+Cinnavalininate
+Citrate
+CoA
+Coniferyl alcohol
+Coniferyl aldehyde
+Coproporphyrinogen III
+Coproporphyrinogen I
+Corticosterone
+Cortisol
+Cortisone
+Crotonoyl-CoA
+Cyanate
+Cyanide
+Cyanidin 3-O-glucoside
+Cyanidin
+Cyanoglycoside
+Cyanohydrin
+Cycloartenol
+Cyclohexylamine
+Cys-Gly
+Cytidine
+Cytosine
+D-4-Hydroxy-2-oxoglutarate
+D-Arabinose 5-phosphate
+D-Erythrose 4-phosphate
+beta-D-Fructose 1,6-bisphosphate
+D-Fructose 1-phosphate
+beta-D-Fructose 6-phosphate
+beta-D-Fructose
+D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose
+D-Galactose
+D-Galacturonate
+D-Glucarate
+D-Gluconic acid
+D-Glucono-1,5-lactone 6-phosphate
+D-Glucosamine 6-phosphate
+D-Glucosamine
+D-Glucosaminide
+D-Glucose 1-phosphate
+D-Glucose 6-phosphate
+D-Glucose
+D-Glucoside
+D-Glucuronate
+D-Glucuronolactone
+D-Glyceraldehyde
+D-Glycerate
+D-Mannose 1-phosphate
+D-Mannose 6-phosphate
+D-Mannose
+D-Ribose 5-phosphate
+D-Ribose
+D-Ribulose 1,5-bisphosphate
+D-Ribulose 5-phosphate
+Sedoheptulose 7-phosphate
+D-Sorbitol
+D-Xylose
+D-Xylulose 5-phosphate
+D-Xylulose
+D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate
+D-erythro-3-Methylmalate
+D-myo-Inositol 3,4-bisphosphate
+DNA 5-methylcytosine
+DNA cytosine
+DNA
+Deamino-NAD+
+Decanoic acid
+Decanoyl-CoA
+Decanoyl-[acp]
+Dehydrodolichol diphosphate
+Delphin
+Delphinidin 3-O-glucoside
+Delphinidin
+Deoxyadenosine
+Deoxycytidine
+Deoxyguanosine
+Deoxyinosine
+Deoxyribose
+Deoxyuridine
+Dephospho-CoA
+Desmosterol
+Dethiobiotin
+Dextrin
+Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A)
+Diacylglycerol
+Diacylglyceryl-2-aminoethylphosphonate
+Digalactosyl-diacylglycerol
+Digalactosylceramide
+Digalacturonate
+Diglucosyl-diacylglycerol
+Dihydroceramide
+Dihydrofolate
+Dihydrokaempferol
+Dihydrolipoamide
+Dihydrolipoylprotein
+Dihydromyricetin
+Dihydroneopterin phosphate
+Dihydropteroate
+Dihydrozeatin-O-glucoside
+Dihydrozeatin
+Dimethylallyl diphosphate
+Divinyl chlorophyllide a
+Divinylprotochlorophyllide
+Docosanoic acid
+Docosanoyl-CoA
+Docosenoyl-CoA
+Dodecanoyl-[acyl-carrier protein]
+Dolichyl D-glucosyl phosphate
+Dolichyl beta-D-glucosyl phosphate
+Dolichyl diphosphate
+Dolichyl phosphate D-mannose
+Dolichyl phosphate
+Echinenone
+Eicosanoyl-CoA
+Electron-transferring flavoprotein
+Enzyme N6-(dihydrolipoyl)lysine
+Enzyme N6-(lipoyl)lysine
+Epimelibiose
+Episterol
+Eriodictyol chalcone
+Eriodictyol
+Estradiol-17beta
+Estrone
+Ethanol
+Ethanolamine phosphate
+Ethanolamine
+FADH2
+FAD
+FMN
+Fatty acid
+Fe2+
+Ferricytochrome b5
+Ferricytochrome c
+Ferrocytochrome b5
+Ferrocytochrome c
+Ferulate
+Feruloyl-CoA
+Fisetinidol-4beta-ol
+Fluoren-9-ol
+Fluorene
+Folate
+Formaldehyde
+Formamidopyrimidine nucleoside triphosphate
+Formate
+Fumarate
+Fustin
+G00003
+G00004
+G00006
+G00007
+G00008
+G00009
+G00011
+G00012
+G00013
+G00014
+G00038
+G00057
+G00073
+G00074
+G00079
+G00143
+G00145
+G00146
+G00148
+G00149
+G00171
+G06780
+G08421
+G10526
+G10595
+G10596
+G10597
+G10598
+G10599
+G13032
+G13033
+G13038
+G13039
+GDP-4-dehydro-6-deoxy-D-mannose
+GDP-mannose
+GDP-L-fucose
+GDP-L-galactose
+GDP-L-gulose
+GDP
+GM1
+GM2
+GM3
+GMP
+GTP
+Galactan
+Galactose
+Galactosylceramide
+Galactosylgloboside
+Galangin
+Garbanzol
+Gentisate aldehyde
+Geranyl diphosphate
+Geranylgeranyl diphosphate
+Gibberellin A12 aldehyde
+Gibberellin A12
+Gibberellin A15 open lactone
+Gibberellin A19
+Gibberellin A1
+Gibberellin A20
+Gibberellin A24
+Gibberellin A29
+Gibberellin A34
+Gibberellin A44 diacid
+Gibberellin A4
+Gibberellin A51
+Gibberellin A53
+Gibberellin A9
+Globo-H
+Globoside
+Globotriaosylceramide
+Glucobrassicin
+Glucose
+Glucosylceramide
+Glutaconyl-1-CoA
+Glutamate
+Glutaminyl-tRNA(Gln)
+Glutaryl-CoA
+Glutathione episulfonium ion
+Glutathione
+Glycerol
+Glycerone phosphate
+Glycine
+Glycolaldehyde
+Glycolate
+Glycyl-tRNA(Gly)
+Glyoxylate
+Guanine
+Guanosine 3'-diphosphate 5'-triphosphate
+Guanosine
+H+
+H2O2
+H2O
+HCO3-
+HCl
+HSO3-
+HX
+Heme A
+Heme O
+Heme
+Hexadecanal
+Hexadecanoic acid
+Hexadecanoyl-[acp]
+Hexadecenoyl-[acyl-carrier protein]
+Hexanoyl-CoA
+Hexanoyl-[acp]
+Holo-[carboxylase]
+Homoeriodictyol chalcone
+Homogentisate
+Hordenine
+Hydrobromic acid
+Hydrofluoric acid
+Hydrogen cyanide
+Sulfide
+Hydrogen sulfide
+Hydrogen
+Hydroxymethylbilane
+Hydroxypyruvate
+Hypotaurine
+Hypoxanthine
+IDP
+IMP
+ITP
+IV2Fuc-Lc4Cer
+IV2Fuc-nLc4Cer
+Icosadienoic acid
+Icosanoic acid
+Icosatrienoic acid
+Icosenoic acid
+Icosenoyl-CoA
+Imidazole-4-acetaldehyde
+Imidazole-4-acetate
+Iminoaspartate
+Indole-3-acetaldehyde
+Indole-3-acetate
+Indole
+Indoleglycerol phosphate
+Inosine
+Inositol 1-phosphate
+Isochorismate
+Isocitrate
+Isofucosterol
+Isoliquiritigenin
+Isomaltose
+Isopentenyl diphosphate
+Isopentenyladenosine-5'-triphosphate
+Isopnetenyladenosine-5'-diphosphate
+Isosalipurpol
+Kaempferol 3-O-glucoside
+Kaempferol
+Kaur-16-en-18-al
+Kaur-16-en-18-oic acid
+Kaur-16-en-18-ol
+Ketone
+L-1-Pyrroline-3-hydroxy-5-carboxylate
+L-2,3-Dihydrodipicolinate
+L-2-Aminoadipate 6-semialdehyde
+L-Alanyl-tRNA
+L-Amino acid
+L-Arabinose
+L-Arginine
+L-Arginyl-tRNA(Arg)
+L-Arogenate
+L-Asparagine
+L-Asparaginyl-tRNA(Asn)
+L-Aspartate 4-semialdehyde
+L-Aspartate
+L-Aspartyl-tRNA(Asn)
+L-Aspartyl-tRNA(Asp)
+L-Citrulline
+L-Cystathionine
+L-Cysteate
+L-Cysteine
+L-Cysteinyl-tRNA(Cys)
+L-Cystine
+L-Dehydroascorbate
+L-Dopachrome
+L-Galactono-1,4-lactone
+L-Galactose 1-phosphate
+L-Galactose
+L-Glutamate 5-semialdehyde
+L-Glutamate
+L-Glutamine
+L-Glutamyl 5-phosphate
+L-Glutamyl-tRNA(Gln)
+L-Glutamyl-tRNA(Glu)
+L-Histidinal
+L-Histidine
+L-Histidinol phosphate
+L-Histidinol
+L-Histidyl-tRNA(His)
+L-Homocysteine
+L-Homoserine
+L-Isoleucine
+L-Isoleucyl-tRNA(Ile)
+L-Leucine
+L-Leucyl-tRNA(Leu)
+L-Lysine
+L-Lysyl-tRNA(Lys)
+L-Lyxonate
+L-Methionine
+L-Methionyl-tRNA(Met)
+L-Ornithine
+L-Phenylalanine
+L-Phenylalanyl-tRNA(Phe)
+L-Proline
+L-Prolyl-tRNA(Pro)
+L-Serine
+L-Seryl-tRNA(Ser)
+L-Threonine
+L-Threonyl-tRNA(Thr)
+L-Tryptophan
+L-Tryptophanyl-tRNA(Trp)
+L-Tyrosine
+L-Tyrosyl-tRNA(Tyr)
+L-Valine
+L-Valyl-tRNA(Val)
+L-Xylonate
+L-erythro-4-Hydroxyglutamate
+LL-2,6-Diaminoheptanedioate
+Lactose 6-phosphate
+Lactose
+beta-D-Galactosyl-1,4-beta-D-glucosylceramide
+Lanosterol
+Lauroyl-CoA
+Paragloboside
+Leucocyanidin
+Leucodelphinidin
+Leukotriene A4
+Leukotriene B4
+Leukotriene C4
+Leukotriene D4
+Lignin
+Linoleate
+Linoleoyl-CoA
+Lipoamide
+Lipoyl-[acp]
+Lipoylprotein
+Liquiritigenin
+Lutein
+Luteolin
+Lycopene
+Magnesium protoporphyrin monomethyl ester
+Magnesium protoporphyrin
+Magnesium
+Maleamate
+Maleic acid
+Malonyl-CoA
+Malonyl-[acyl-carrier protein]
+Maltose
+Mannan
+Melibiitol
+Melibiose
+Menaquinone
+Mercaptopyruvate
+Methanol
+Methostenol
+Methylcobalamin
+Methylglyoxal
+Methylmalonate
+Monodehydroascorbate
+Monofucosyllactoisooctaosylceramide
+MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol
+Myricetin
+Myrtenal
+Myrtenol
+N(pi)-Methyl-L-histidine
+N,N'-Chitobiosyldiphosphodolichol
+N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide
+N-(5-Phospho-D-ribosyl)anthranilate
+N-(L-Arginino)succinate
+N-Acetyl-D-galactosamine
+N-Acetyl-D-glucosamine 1-phosphate
+N-Acetyl-D-glucosamine 6-phosphate
+N-Acetyl-D-glucosamine
+N-Acetyl-D-glucosaminide
+N-Acetyl-D-glucosaminyldiphosphodolichol
+N-Acetyl-L-glutamate 5-phosphate
+N-Acetyl-L-glutamate 5-semialdehyde
+N-Acetyl-L-glutamate
+N-Acetyl-alpha-D-glucosamine 1-phosphate
+N-Acetylornithine
+N-Acylsphingosine
+N-Carbamoyl-L-aspartate
+N-Cyclohexylformamide
+N-Formylmethionyl-tRNA
+N-Methylethanolamine phosphate
+N-Methylputrescine
+N-Methyltyramine
+N-Ribosylnicotinamide
+N-Succinyl-2-L-amino-6-oxoheptanedioate
+N-Succinyl-LL-2,6-diaminoheptanedioate
+N4-Acetylaminobutanal
+N6,N6,N6-Trimethyl-L-lysine
+N6-(1,2-Dicarboxyethyl)-AMP
+N6-(L-1,3-Dicarboxypropyl)-L-lysine
+N6-(delta2-Isopentenyl)-adenosine 5'-monophosphate
+N6-D-Biotinyl-L-lysine
+NAD+
+NADH
+NADP+
+NADPH
+NDP
+NH3
+Naphthyl-2-hydroxymethyl-succinyl CoA
+Naphthyl-2-methyl-succinyl-CoA
+Naphthyl-2-methylene-succinyl-CoA
+Naphthyl-2-oxomethyl-succinyl-CoA
+Naringenin
+Neurosporene
+Nicotinamide D-ribonucleotide
+Nicotinamide
+Nicotinate D-ribonucleoside
+Nicotinate D-ribonucleotide
+Nicotinate
+Nitrate
+Nitrile
+Nitrite
+Nitrobenzene
+Nucleoside triphosphate
+O-1-Alk-1-enyl-2-acyl-sn-glycero-3-phosphoethanolamine
+O-Acetylhomoserine
+O-Acetyl-L-serine
+O-Alkylglycerone phosphate
+O-Phospho-4-hydroxy-L-threonine
+O-Phospho-L-homoserine
+O-Phospho-L-serine
+O-Phosphorylhomoserine
+O-Succinylhomoserine
+OPC4-CoA
+OPC6-CoA
+OPC8-CoA
+Octadecanoic acid
+Octadecanoyl-[acyl-carrier protein]
+Octanoic acid
+Octanoyl-CoA
+Octanoyl-[acp]
+Oleoyl-CoA
+Orotate
+Orotidine 5'-phosphate
+Orthophosphate
+Oxaloacetate
+Oxidized ferredoxin
+Oxidized flavoprotein
+Oxidized glutathione
+Oxidized thioredoxin
+Oxygen
+P1,P3-Bis(5'-adenosyl) triphosphate
+P1,P4-Bis(5'-adenosyl) tetraphosphate
+P1,P4-Bis(5'-guanosyl) tetraphosphate
+P1,P4-Bis(5'-xanthosyl) tetraphosphate
+Palmitoyl-CoA
+Pantetheine 4'-phosphate
+Pantothenate
+Pectate
+Pectin
+Pelargonidin 3-O-glucoside
+Pelargonidin
+Pelargonin
+Pentahydroxyflavanone
+Pentosans
+Peptide
+Perillic acid
+Perillyl aldehyde
+Phenethylamine
+Phenol
+Phenolic phosphate
+Phenylacetaldehyde
+Phenylacetic acid
+Phenylacetonitrile
+Phenylacetyl-CoA
+Phenylacetylglycine
+Phenylboronic acid
+Phenylpyruvate
+Phoenicoxanthin
+Phosphatidate
+Phosphatidylcholine
+Phosphatidylethanolamine
+Phosphatidylglycerol
+Phosphatidylglycerophosphate
+Phosphatidylinositol-3,4,5-trisphosphate
+Phosphatidylserine
+Phosphodimethylethanolamine
+Phosphoenolpyruvate
+Phosphonoacetaldehyde
+Phosphoribosyl-AMP
+Phosphoribosyl-ATP
+Phylloquinone
+Phytoene
+Phytofluene
+Phytol
+Phytyl diphosphate
+Pinobanksin
+Pinocarveol
+Pinocarvone
+Pinocembrin chalcone
+Pinocembrin
+Poly-L-glutamate
+Poly-beta-hydroxybutyrate
+Polyneuridine aldehyde
+Porphobilinogen
+Precorrin 2
+Prephenate
+Presqualene diphosphate
+Primary alcohol
+Propanoate
+Propanoyl-CoA
+Propenoyl-CoA
+Propinol adenylate
+Propynoate
+Prostaglandin E2
+Prostaglandin F2alpha
+Protein N6,N6,N6-trimethyl-L-lysine
+Protein N6-(lipoyl)lysine
+Protein N6-(octanoyl)lysine
+Protein asparagine
+Protein disulfide
+Protein dithiol
+Protein
+Protochlorophyllide
+Protoporphyrin
+Protoporphyrinogen IX
+Pseudotropine
+Pseudouridine 5'-phosphate
+Putrescine
+Pyridine-2,3-dicarboxylate
+Pyridoxal phosphate
+Pyridoxal
+Pyridoxamine phosphate
+Pyridoxamine
+Pyridoxine phosphate
+Pyridoxine
+Pyrophosphate
+Pyruvate
+Quercetin 3-O-glucoside
+Quercetin
+R-S-Alanine
+R-S-Alanylglycine
+R-S-Glutathione
+ROH
+RX
+R
+Raffinose
+Reduced acceptor
+Reduced electron-transferring flavoprotein
+Reduced ferredoxin
+Reduced flavoprotein
+Retinal
+Retinol
+Riboflavin
+Ribonucleoside diphosphate
+S-(1,2-Dichlorovinyl)glutathione
+S-(2,2-Dichloro-1-hydroxy)ethyl glutathione
+S-(2-Chloroacetyl)glutathione
+S-(2-Methylbutanoyl)-dihydrolipoamide
+S-(2-Methylpropanoyl)-dihydrolipoamide
+S-(3-Methylbutanoyl)-dihydrolipoamide
+S-(Formylmethyl)glutathione
+S-(Hydroxymethyl)glutathione
+S-Acetyldihydrolipoamide
+S-Adenosyl-4-methylthio-2-oxobutanoate
+S-Adenosyl-L-homocysteine
+S-Adenosyl-L-methionine
+S-Adenosylmethioninamine
+S-Aminomethyldihydrolipoylprotein
+S-Benzoate coenzyme A
+S-Formylglutathione
+S-Glutaryldihydrolipoamide
+S-Sulfo-L-cysteine
+Sabinene hydrate
+Salicylate
+Sarcosine
+Se-Adenosylselenohomocysteine
+Se-Adenosylselenomethionine
+Se-Methylselenocysteine
+Se-Methylselenomethionine
+Secologanin
+Sedoheptulose 1,7-bisphosphate
+Selenate
+Selenide
+Selenite
+Selenocystathionine
+Selenocysteine
+Selenohomocysteine
+Selenomethionine
+Selenomethionyl-tRNA(Met)
+Shikimate 3-phosphate
+Shikimate
+Sinapate
+Sinapoyl aldehyde
+Sinapoyl malate
+Sinapoyl-CoA
+Sinapoylcholine
+Sinapyl alcohol
+Sitosterol
+Spermidine
+Spermine
+Sphinganine 1-phosphate
+Sphinganine
+Sphingosine 1-phosphate
+Squalene
+Stachyose
+Starch
+Stearoyl-CoA
+Stigmasterol
+Succinate semialdehyde
+Succinate
+Succinyl-CoA
+Sucrose 6-phosphate
+Sucrose
+Sulfate
+Sulfite
+Sulfoquinovosyldiacylglycerol
+Sulfur
+Tamoxifen N-oxide
+Tamoxifen
+Taurine
+Taxifolin
+Teasterone
+Tetracosanoic acid
+Tetracosanoyl-CoA
+Tetracosenoyl-CoA
+Tetradecanoic acid
+Tetradecanoyl-CoA
+Tetradecanoyl-[acp]
+Tetrahydrocorticosterone
+Tetrahydrofolate
+Tetrahydrofolyl-[Glu](2)
+Tetrahydrofolyl-[Glu](n)
+Tetrahydropteroyltri-L-glutamate
+Theobromine
+Thiamin diphosphate
+Thiamin monophosphate
+Thiamin triphosphate
+Thiamin
+Thiocysteine
+Thioguanine
+Thioredoxin
+Thiosulfate
+Thymidine
+Thymine
+Trichloroethanol
+Trichloroethene
+Tropine
+Tropinone
+Trypanothione disulfide
+Trypanothione
+Tryparedoxin disulfide
+Tryparedoxin
+Tryptamine
+Type IB glycolipid
+Type II B antigen
+Type IIIH glycolipid
+Typhasterol
+Tyramine
+UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine
+UDP-6-sulfoquinovose
+UDP-D-galactose
+UDP-D-xylose
+UDP-N-acetyl-D-glucosamine
+UDP-glucose
+UDP-glucuronate
+UDP
+UMP
+UTP
+Ubiquinol
+Ubiquinone
+Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutaminyl-L-lysyl-D-alanyl-D-alanine
+Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutaminyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine
+Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-isoglutaminyl-L-lysyl-D-alanyl-D-alanine
+Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine
+Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine
+Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+Uracil
+Urate
+Urea
+Uridine
+Uroporphyrinogen III
+Uroporphyrinogen I
+VI2Fuc-nLc6
+Vitamin B12
+XTP
+Xanthine
+Xanthosine 5'-phosphate
+Xanthosine
+Xanthurenic acid
+Zeatin
+Zeaxanthin
+Zeinoxanthin
+Zymosterol
+[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine
+[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine
+[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine
+[Dihydrolipoyllysine-residue succinyltransferase]S-succinyldihydrolipoyllysine
+all-trans-Hexaprenyl diphosphate
+all-trans-Octaprenyl diphosphate
+alpha,alpha'-Trehalose 6-phosphate
+alpha,alpha-Trehalose
+alpha-Aminopropiononitrile
+alpha-Carotene
+alpha-Cryptoxanthin
+alpha-D-Galactose 1-phosphate
+alpha-D-Galactose
+alpha-D-Glucose 6-phosphate
+alpha-D-Glucose
+alpha-D-Ribose 1-phosphate
+alpha-Fluoro-beta-alanine
+alpha-Fluoro-beta-ureidopropionic acid
+alpha-Zeacarotene
+beta-Alanine
+beta-Aminopropion aldehyde
+beta-Carotene
+beta-Cryptoxanthin
+beta-D-Fructose 2,6-bisphosphate
+beta-D-Galactose
+beta-D-Glucose 6-phosphate
+beta-D-Glucose
+beta-Tocopherol
+beta-Zeacarotene
+cis-1,2-Dihydroxy-1,2-dihydro-8-carboxynaphthalene
+cis-2,3-Dihydrodiol 1,1,1-Trichloro-2,2-bis(4'-chlorophenyl)ethane
+cis-2-Hydroxycinnamate
+cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA
+cis-3,4-Leucopelargonidin
+cis-3,4-leucopelargonidin:NADP+ 4-oxidoreductase; Luteoforol
+cis-4-(1'-Hydroxynaphth-2'-yl)-2-oxobut-3-enoate
+cis-Aconitate
+cis-beta-D-Glucosyl-2-hydroxycinnamate
+dADP
+dAMP
+dATP
+dCDP
+dCMP
+dCTP
+dGDP
+dGMP
+dGTP
+dIDP
+dITP
+dTDP-galactose
+dTDP-glucose
+dTDP
+dTMP
+dTTP
+dUDP
+dUMP
+dUTP
+delta-Carotene
+delta-Tocopherol
+delta7-Avenasterol
+di-trans,poly-cis-Undecaprenyl diphosphate
+e-
+ent-7alpha-Hydroxykaur-16-en-19-oic acid
+ent-Copalyl diphosphate
+ent-Kaurene
+epsilon-Carotene
+gamma-Amino-gamma-cyanobutanoate
+gamma-Carotene
+gamma-Glutamyl-Se-methylselenocysteine
+gamma-Glutamyl-beta-aminopropiononitrile
+gamma-Glutamyl-beta-cyanoalanine
+gamma-L-Glutamyl-L-cysteine
+gamma-Linolenoyl-CoA
+gamma-Tocopherol
+hv
+iso-nLc8Cer
+meso-2,6-Diaminoheptanedioate
+myo-Inositol 4-phosphate
+myo-Inositol hexakisphosphate
+myo-Inositol
+nLc5Cer
+nLc6Cer
+p-Benzoquinone
+p-Coumaroyl-CoA
+sn-Glycerol 3-phosphate
+sn-glycero-3-Phosphocholine
+sn-glycero-3-Phosphoethanolamine
+tRNA(Ala)
+tRNA(Arg)
+tRNA(Asn)
+tRNA(Asp)
+tRNA(Cys)
+tRNA(Gln)
+tRNA(Glu)
+tRNA(Gly)
+tRNA(His)
+tRNA(Ile)
+tRNA(Leu)
+tRNA(Lys)
+tRNA(Met)
+tRNA(Phe)
+tRNA(Pro)
+tRNA(Ser)
+tRNA(Thr)
+tRNA(Trp)
+tRNA(Tyr)
+tRNA(Val)
+trans,trans,cis-Geranylgeranyl diphosphate
+trans,trans-Farnesyl diphosphate
+trans-2-Enoyl-OPC4-CoA
+trans-2-Enoyl-OPC6-CoA
+trans-2-Enoyl-OPC8-CoA
+trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA
+trans-4-Hydroxy-L-proline
+trans-Cinnamate
+trans-Dec-2-enoyl-CoA
+trans-Dec-2-enoyl-[acp]
+trans-Dodec-2-enoyl-[acp]
+trans-Hex-2-enoyl-CoA
+trans-Hex-2-enoyl-[acp]
+trans-Hexadec-2-enoyl-CoA
+trans-Hexadec-2-enoyl-[acp]
+trans-Oct-2-enoyl-CoA
+trans-Oct-2-enoyl-[acp]
+trans-Tetradec-2-enoyl-CoA
+trans-Tetradec-2-enoyl-[acp]
+trans-Zeatin riboside  monophosphate
+trans-Zeatin riboside diphosphate
+trans-Zeatin riboside triphosphate
+trans-Zeatin-7-beta-D-glucoside
+trans-beta-D-Glucosyl-2-hydroxycinnamate
+zeta-Carotene

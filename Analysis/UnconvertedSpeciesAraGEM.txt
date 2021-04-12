@@ -1,0 +1,130 @@
+S_(2E)-Octadecenoyl-[acp]_c	(2E)-Octadecenoyl-[acp]
+S_(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]_c	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]_p	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]_c	(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]_p	(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]_c	(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]_p	(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]_c	(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]_p	(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]_c	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]_p	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]
+S_(R)-3-Hydroxydodecanoyl-[acp]_c	(R)-3-Hydroxydodecanoyl-[acp]
+S_(R)-3-Hydroxydodecanoyl-[acp]_p	(R)-3-Hydroxydodecanoyl-[acp]
+S_(R)-3-Hydroxyhexanoyl-[acp]_c	(R)-3-Hydroxyhexanoyl-[acp]
+S_(R)-3-Hydroxyhexanoyl-[acp]_p	(R)-3-Hydroxyhexanoyl-[acp]
+S_1-(2-Carboxyphenylamino)-1'-deoxy-D-ribulose 5'-phosphate_c	1-(2-Carboxyphenylamino)-1'-deoxy-D-ribulose 5'-phosphate
+S_2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)pyrimidine_c	2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)pyrimidine
+S_3-Hydroxyoctadecanoyl-[acp]_c	3-Hydroxyoctadecanoyl-[acp]
+S_3-Oxodecanoyl-[acp]_c	3-Oxodecanoyl-[acp]
+S_3-Oxodecanoyl-[acp]_p	3-Oxodecanoyl-[acp]
+S_3-Oxododecanoyl-[acp]_c	3-Oxododecanoyl-[acp]
+S_3-Oxododecanoyl-[acp]_p	3-Oxododecanoyl-[acp]
+S_3-Oxohexadecanoyl-[acp]_c	3-Oxohexadecanoyl-[acp]
+S_3-Oxohexadecanoyl-[acp]_p	3-Oxohexadecanoyl-[acp]
+S_3-Oxohexanoyl-[acp]_c	3-Oxohexanoyl-[acp]
+S_3-Oxohexanoyl-[acp]_p	3-Oxohexanoyl-[acp]
+S_3-Oxooctanoyl-[acp]_c	3-Oxooctanoyl-[acp]
+S_3-Oxooctanoyl-[acp]_p	3-Oxooctanoyl-[acp]
+S_3-Oxostearoyl-[acp]_c	3-Oxostearoyl-[acp]
+S_3-Oxotetradecanoyl-[acp]_c	3-Oxotetradecanoyl-[acp]
+S_3-Oxotetradecanoyl-[acp]_p	3-Oxotetradecanoyl-[acp]
+S_4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene_c	4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene
+S_6-Mercaptopurin_c	6-Mercaptopurin
+S_7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene_c	7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene
+S_8-[(1R,2R)-3-Oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate_c	8-[(1R,2R)-3-Oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate
+S_Acetoacetyl-[acp]_c	Acetoacetyl-[acp]
+S_Acetoacetyl-[acp]_p	Acetoacetyl-[acp]
+S_Acetyl-[acyl-carrier protein]_c	Acetyl-[acyl-carrier protein]
+S_Acetyl-[acyl-carrier protein]_p	Acetyl-[acyl-carrier protein]
+S_Benzo[a]pyrene-4,5-oxide_c	Benzo[a]pyrene-4,5-oxide
+S_Benzo[a]pyrene-7,8-diol_c	Benzo[a]pyrene-7,8-diol
+S_Biomass_biomass	Biomass_biomass
+S_But-2-enoyl-[acyl-carrier protein]_c	But-2-enoyl-[acyl-carrier protein]
+S_But-2-enoyl-[acyl-carrier protein]_p	But-2-enoyl-[acyl-carrier protein]
+S_Butyryl-[acp]_c	Butyryl-[acp]
+S_Butyryl-[acp]_p	Butyryl-[acp]
+S_C15811_c	C15811
+S_C15812_c	C15812
+S_Chenodeoxyglycocholoyl-CoA_c	Chenodeoxyglycocholoyl-CoA
+S_Cyanide_c	Cyanide
+S_Decanoyl-[acp]_c	Decanoyl-[acp]
+S_Decanoyl-[acp]_p	Decanoyl-[acp]
+S_Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A)_c	Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A)
+S_Dodecanoyl-[acyl-carrier protein]_c	Dodecanoyl-[acyl-carrier protein]
+S_Dodecanoyl-[acyl-carrier protein]_p	Dodecanoyl-[acyl-carrier protein]
+S_G00003_c	G00003
+S_G00004_c	G00004
+S_G00006_c	G00006
+S_G00007_c	G00007
+S_G00008_c	G00008
+S_G00009_c	G00009
+S_G00011_c	G00011
+S_G00012_c	G00012
+S_G00013_c	G00013
+S_G00014_c	G00014
+S_G00038_c	G00038
+S_G00057_c	G00057
+S_G00073_c	G00073
+S_G00074_c	G00074
+S_G00079_c	G00079
+S_G00143_c	G00143
+S_G00148_c	G00148
+S_G00149_c	G00149
+S_G00171_c	G00171
+S_G06780_c	G06780
+S_G08421_c	G08421
+S_G10526_c	G10526
+S_G10595_c	G10595
+S_G10596_c	G10596
+S_G10597_c	G10597
+S_G10598_c	G10598
+S_G10599_c	G10599
+S_G13032_c	G13032
+S_G13033_c	G13033
+S_G13038_c	G13038
+S_G13039_c	G13039
+S_Hexadecanoyl-[acp]_c	Hexadecanoyl-[acp]
+S_Hexadecanoyl-[acp]_p	Hexadecanoyl-[acp]
+S_Hexadecenoyl-[acyl-carrier protein]_c	Hexadecenoyl-[acyl-carrier protein]
+S_Hexanoyl-[acp]_c	Hexanoyl-[acp]
+S_Hexanoyl-[acp]_p	Hexanoyl-[acp]
+S_Holo-[carboxylase]_c	Holo-[carboxylase]
+S_Isopnetenyladenosine-5'-diphosphate_c	Isopnetenyladenosine-5'-diphosphate
+S_Lactose 6-phosphate_c	Lactose 6-phosphate
+S_Lipoyl-[acp]_c	Lipoyl-[acp]
+S_Malonyl-[acyl-carrier protein]_c	Malonyl-[acyl-carrier protein]
+S_Malonyl-[acyl-carrier protein]_p	Malonyl-[acyl-carrier protein]
+S_Monofucosyllactoisooctaosylceramide_c	Monofucosyllactoisooctaosylceramide
+S_Octadecanoyl-[acyl-carrier protein]_c	Octadecanoyl-[acyl-carrier protein]
+S_Octanoyl-[acp]_c	Octanoyl-[acp]
+S_Octanoyl-[acp]_p	Octanoyl-[acp]
+S_Poly-L-glutamate_c	Poly-L-glutamate
+S_R-S-Alanine_c	R-S-Alanine
+S_R-S-Alanylglycine_c	R-S-Alanylglycine
+S_R_c	R
+S_S-Benzoate coenzyme A_c	S-Benzoate coenzyme A
+S_Tetradecanoyl-[acp]_c	Tetradecanoyl-[acp]
+S_Tetradecanoyl-[acp]_p	Tetradecanoyl-[acp]
+S_Tetrahydrofolyl-[Glu](2)_c	Tetrahydrofolyl-[Glu](2)
+S_Tetrahydrofolyl-[Glu](n)_c	Tetrahydrofolyl-[Glu](n)
+S_[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine_c	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine
+S_[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine_c	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine
+S_[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine_c	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine
+S_[Dihydrolipoyllysine-residue succinyltransferase]S-succinyldihydrolipoyllysine_m	[Dihydrolipoyllysine-residue succinyltransferase]S-succinyldihydrolipoyllysine
+S_cis-3,4-leucopelargonidin:NADP+ 4-oxidoreductase; Luteoforol_c	cis-3,4-leucopelargonidin:NADP+ 4-oxidoreductase; Luteoforol
+S_hv_ext	hv_ext
+S_hv_p	hv_p
+S_trans-Dec-2-enoyl-[acp]_c	trans-Dec-2-enoyl-[acp]
+S_trans-Dec-2-enoyl-[acp]_p	trans-Dec-2-enoyl-[acp]
+S_trans-Dodec-2-enoyl-[acp]_c	trans-Dodec-2-enoyl-[acp]
+S_trans-Dodec-2-enoyl-[acp]_p	trans-Dodec-2-enoyl-[acp]
+S_trans-Hex-2-enoyl-[acp]_c	trans-Hex-2-enoyl-[acp]
+S_trans-Hex-2-enoyl-[acp]_p	trans-Hex-2-enoyl-[acp]
+S_trans-Hexadec-2-enoyl-[acp]_c	trans-Hexadec-2-enoyl-[acp]
+S_trans-Hexadec-2-enoyl-[acp]_p	trans-Hexadec-2-enoyl-[acp]
+S_trans-Oct-2-enoyl-[acp]_c	trans-Oct-2-enoyl-[acp]
+S_trans-Oct-2-enoyl-[acp]_p	trans-Oct-2-enoyl-[acp]
+S_trans-Tetradec-2-enoyl-[acp]_c	trans-Tetradec-2-enoyl-[acp]
+S_trans-Tetradec-2-enoyl-[acp]_p	trans-Tetradec-2-enoyl-[acp]
+S_trans-Zeatin riboside  monophosphate_c	trans-Zeatin riboside  monophosphate

@@ -1,0 +1,319 @@
+S_(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA_c	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA
+S_(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]_c	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]_p	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]_c	(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]_p	(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]_c	(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]_p	(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]_c	(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]_p	(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]_c	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]
+S_(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]_p	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]
+S_(3S)-3-Hydroxyadipyl-CoA_c	(3S)-3-Hydroxyadipyl-CoA
+S_(R)-3-Hydroxydodecanoyl-[acp]_c	(R)-3-Hydroxydodecanoyl-[acp]
+S_(R)-3-Hydroxydodecanoyl-[acp]_p	(R)-3-Hydroxydodecanoyl-[acp]
+S_(R)-3-Hydroxyhexanoyl-[acp]_c	(R)-3-Hydroxyhexanoyl-[acp]
+S_(R)-3-Hydroxyhexanoyl-[acp]_p	(R)-3-Hydroxyhexanoyl-[acp]
+S_(S)-3-Hydroxy-3-methylglutaryl-CoA_c	(S)-3-Hydroxy-3-methylglutaryl-CoA
+S_(S)-3-Hydroxybutanoyl-CoA_c	(S)-3-Hydroxybutanoyl-CoA
+S_(S)-3-Hydroxybutanoyl-CoA_x	(S)-3-Hydroxybutanoyl-CoA
+S_(S)-3-Hydroxydodecanoyl-CoA_x	(S)-3-Hydroxydodecanoyl-CoA
+S_(S)-3-Hydroxyhexadecanoyl-CoA_x	(S)-3-Hydroxyhexadecanoyl-CoA
+S_(S)-3-Hydroxyisobutyryl-CoA_c	(S)-3-Hydroxyisobutyryl-CoA
+S_(S)-3-Hydroxytetradecanoyl-CoA_x	(S)-3-Hydroxytetradecanoyl-CoA
+S_(S)-Hydroxydecanoyl-CoA_x	(S)-Hydroxydecanoyl-CoA
+S_(S)-Hydroxyhexanoyl-CoA_x	(S)-Hydroxyhexanoyl-CoA
+S_(S)-Hydroxyoctanoyl-CoA_x	(S)-Hydroxyoctanoyl-CoA
+S_1,4-Dihydroxy-2-naphthoyl-CoA_c	1,4-Dihydroxy-2-naphthoyl-CoA
+S_1-(2-Carboxyphenylamino)-1'-deoxy-D-ribulose 5'-phosphate_c	1-(2-Carboxyphenylamino)-1'-deoxy-D-ribulose 5'-phosphate
+|S
+45_Formyltetrahydrofolate_c|	10-Formyltetrahydrofolate
+S45_Dehydrocorticosterone_c	11-Dehydrocorticosterone
+|S40_1)-Hydroxy-magnesium-protoporphyrin IX_3245_monomethyl ester_c|	13(1)-Hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester
+|S40_1)-Oxo-magnesium-protoporphyrin IX_3245_monomethyl ester_c|	13(1)-Oxo-magnesium-protoporphyrin IX 13-monomethyl ester
+S40_S)-HPETE_c	15(S)-HPETE
+S45_Epivellosimine_c	16-Epivellosimine
+S45_Oxoandrost-4-ene-3,17-dione_c	19-Oxoandrost-4-ene-3,17-dione
+S45_Oxotestosterone_c	19-Oxotestosterone
+S_2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)pyrimidine_c	2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)pyrimidine
+S_2,6-Dihydroxycyclohexane-1-carboxyl-CoA_c	2,6-Dihydroxycyclohexane-1-carboxyl-CoA
+S_2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA_c	2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA
+S_2-C-Methyl-D-erythritol 2,4-cyclodiphosphate_c	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate
+S_2-C-Methyl-D-erythritol 4-phosphate_c	2-C-Methyl-D-erythritol 4-phosphate
+S_2-Carboxy-2,3-dihydro-5,6-dihydroxyindole_c	2-Carboxy-2,3-dihydro-5,6-dihydroxyindole
+S_2-Hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA_c	2-Hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA
+S_2-Methylacetoacetyl-CoA_c	2-Methylacetoacetyl-CoA
+S_2-Methylbut-2-enoyl-CoA_c	2-Methylbut-2-enoyl-CoA
+S_2-Methylbutanoyl-CoA_c	2-Methylbutanoyl-CoA
+S_2-Methylprop-2-enoyl-CoA_c	2-Methylprop-2-enoyl-CoA
+S_2-Methylpropanoyl-CoA_c	2-Methylpropanoyl-CoA
+S_2-Naphthoyl-CoA_c	2-Naphthoyl-CoA
+S_2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol_c	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+S_2-Succinylbenzoyl-CoA_c	2-Succinylbenzoyl-CoA
+S_2-trans-Dodecenoyl-CoA_x	2-trans-Dodecenoyl-CoA
+S_3-Carboxy-1-hydroxypropyl-ThPP_m	3-Carboxy-1-hydroxypropyl-ThPP
+S_3-Cyano-L-alanine_c	3-Cyano-L-alanine
+S_3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA_c	3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA
+S_3-Hydroxybutanoyl-CoA_c	3-Hydroxybutanoyl-CoA
+S_3-Hydroxyisovaleryl-CoA_c	3-Hydroxyisovaleryl-CoA
+S_3-Hydroxypimeloyl-CoA_c	3-Hydroxypimeloyl-CoA
+S_3-Hydroxypropionyl-CoA_c	3-Hydroxypropionyl-CoA
+S_3-Isopropylbut-3-enoyl-CoA_c	3-Isopropylbut-3-enoyl-CoA
+S_3-Methylbutanoyl-CoA_c	3-Methylbutanoyl-CoA
+S_3-Methylcrotonyl-CoA_c	3-Methylcrotonyl-CoA
+S_3-Methylglutaconyl-CoA_c	3-Methylglutaconyl-CoA
+S_3-Oxoadipyl-CoA_c	3-Oxoadipyl-CoA
+S_3-Oxodecanoyl-CoA_x	3-Oxodecanoyl-CoA
+S_3-Oxodecanoyl-[acp]_c	3-Oxodecanoyl-[acp]
+S_3-Oxodecanoyl-[acp]_p	3-Oxodecanoyl-[acp]
+S_3-Oxododecanoyl-CoA_x	3-Oxododecanoyl-CoA
+S_3-Oxododecanoyl-[acp]_c	3-Oxododecanoyl-[acp]
+S_3-Oxododecanoyl-[acp]_p	3-Oxododecanoyl-[acp]
+S_3-Oxohexadecanoyl-[acp]_c	3-Oxohexadecanoyl-[acp]
+S_3-Oxohexadecanoyl-[acp]_p	3-Oxohexadecanoyl-[acp]
+S_3-Oxohexanoyl-CoA_x	3-Oxohexanoyl-CoA
+S_3-Oxohexanoyl-[acp]_c	3-Oxohexanoyl-[acp]
+S_3-Oxohexanoyl-[acp]_p	3-Oxohexanoyl-[acp]
+S_3-Oxooctanoyl-CoA_x	3-Oxooctanoyl-CoA
+S_3-Oxooctanoyl-[acp]_c	3-Oxooctanoyl-[acp]
+S_3-Oxooctanoyl-[acp]_p	3-Oxooctanoyl-[acp]
+S_3-Oxopalmitoyl-CoA_x	3-Oxopalmitoyl-CoA
+S_3-Oxopimeloyl-CoA_c	3-Oxopimeloyl-CoA
+S_3-Oxotetradecanoyl-CoA_x	3-Oxotetradecanoyl-CoA
+S_3-Oxotetradecanoyl-[acp]_c	3-Oxotetradecanoyl-[acp]
+S_3-Oxotetradecanoyl-[acp]_p	3-Oxotetradecanoyl-[acp]
+S_3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA_c	3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA
+S_3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA_c	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA
+S_3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoyl-CoA_c	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoyl-CoA
+S_3alpha,7alpha-Dihydroxy-5beta-24-oxocholestanoyl-CoA_c	3alpha,7alpha-Dihydroxy-5beta-24-oxocholestanoyl-CoA
+S_3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA_c	3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA
+S_3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA_c	3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA
+S_4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene_c	4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene
+S_4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol_c	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+S_4-Coumarate_c	4-Coumarate
+S_4-Coumaryl alcohol_c	4-Coumaryl alcohol
+S_4-Hydroxyphenylacetyl-CoA_c	4-Hydroxyphenylacetyl-CoA
+S_4-Isopropenyl-2-oxy-cyclohexanecarboxyl-CoA_c	4-Isopropenyl-2-oxy-cyclohexanecarboxyl-CoA
+S_4-Trimethylammoniobutanal:NAD+ oxidoreductase; 4-Trimethylammoniobutanal_c	4-Trimethylammoniobutanal:NAD+ oxidoreductase; 4-Trimethylammoniobutanal
+S_5-(3'-Carboxy-3'-oxopropenyl)-4,6-dihydroxypicolinate_c	5-(3'-Carboxy-3'-oxopropenyl)-4,6-dihydroxypicolinate
+S_5-(3'-Carboxy-3'-oxopropyl)-4,6-dihydroxypicolinate_c	5-(3'-Carboxy-3'-oxopropyl)-4,6-dihydroxypicolinate
+S_5-Carboxy-2-pentenoyl-CoA_c	5-Carboxy-2-pentenoyl-CoA
+S_5-O-(1-Carboxyvinyl)-3-phosphoshikimate_c	5-O-(1-Carboxyvinyl)-3-phosphoshikimate
+S_5alpha-Cholesta-7,24-dien-3beta-ol_c	5alpha-Cholesta-7,24-dien-3beta-ol
+S_6-Oxo-2-hydroxycyclohexane-1-carboxyl-CoA_c	6-Oxo-2-hydroxycyclohexane-1-carboxyl-CoA
+S_7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene_c	7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene
+S_Acetoacetyl-CoA_c	Acetoacetyl-CoA
+S_Acetoacetyl-CoA_m	Acetoacetyl-CoA
+S_Acetoacetyl-CoA_p	Acetoacetyl-CoA
+S_Acetoacetyl-CoA_x	Acetoacetyl-CoA
+S_Acetoacetyl-[acp]_c	Acetoacetyl-[acp]
+S_Acetoacetyl-[acp]_p	Acetoacetyl-[acp]
+S_Acetyl-CoA_c	Acetyl-CoA
+S_Acetyl-CoA_m	Acetyl-CoA
+S_Acetyl-CoA_p	Acetyl-CoA
+S_Acetyl-CoA_x	Acetyl-CoA
+S_Acetyl-[acyl-carrier protein]_c	Acetyl-[acyl-carrier protein]
+S_Acetyl-[acyl-carrier protein]_p	Acetyl-[acyl-carrier protein]
+S_Acyl-CoA_c	Acyl-CoA
+S_Adenylylsulfate_c	Adenylylsulfate
+S_Benzo[a]pyrene-4,5-oxide_c	Benzo[a]pyrene-4,5-oxide
+S_Benzo[a]pyrene-7,8-diol_c	Benzo[a]pyrene-7,8-diol
+S_Benzoyl acetyl-CoA_c	Benzoyl acetyl-CoA
+S_But-2-enoyl-[acyl-carrier protein]_c	But-2-enoyl-[acyl-carrier protein]
+S_But-2-enoyl-[acyl-carrier protein]_p	But-2-enoyl-[acyl-carrier protein]
+S_Butanoyl-CoA_x	Butanoyl-CoA
+S_Butyryl-[acp]_c	Butyryl-[acp]
+S_Butyryl-[acp]_p	Butyryl-[acp]
+S_CDP-diacylglycerol_c	CDP-diacylglycerol
+S_CDP-ethanolamine_c	CDP-ethanolamine
+S_CDP_c	CDP
+S_CH3-R_c	CH3-R
+S_CMP-2-aminoethylphosphonate_c	CMP-2-aminoethylphosphonate
+S_CMP-3-deoxy-D-manno-octulosonate_c	CMP-3-deoxy-D-manno-octulosonate
+S_CMP_c	CMP
+S_CTP_c	CTP
+S_Cadaverine_c	Cadaverine
+S_Caffeoyl-CoA_c	Caffeoyl-CoA
+S_Carbamate_c	Carbamate
+S_Carbamoyl phosphate_c	Carbamoyl phosphate
+S_Carbamoyl phosphate_m	Carbamoyl phosphate
+S_Carbamoyl phosphate_p	Carbamoyl phosphate
+S_Carboxybiotin-carboxyl-carrier protein_c	Carboxybiotin-carboxyl-carrier protein
+S_Carboxylate_c	Carboxylate
+S_Cellobiose_c	Cellobiose
+S_Cellulose_c	Cellulose
+S_Ceramide 1-phosphate_c	Ceramide 1-phosphate
+S_Chenodeoxycholoyl-CoA_c	Chenodeoxycholoyl-CoA
+S_Chenodeoxyglycocholoyl-CoA_c	Chenodeoxyglycocholoyl-CoA
+S_Chitin_c	Chitin
+S_Chitobiose_c	Chitobiose
+S_Chloral hydrate_c	Chloral hydrate
+S_Chloroacetyl chloride_c	Chloroacetyl chloride
+S_Chlorophyll a_c	Chlorophyll a
+S_Chlorophyllide_c	Chlorophyllide
+S_Cholesta-5,7-dien-3beta-ol_c	Cholesta-5,7-dien-3beta-ol
+S_Cholesterol_c	Cholesterol
+S_Choline phosphate_c	Choline phosphate
+S_Choline_c	Choline
+S_Choloyl-CoA_c	Choloyl-CoA
+S_Chorismate_c	Chorismate
+S_Cinnamoyl-CoA_c	Cinnamoyl-CoA
+S_Cinnavalininate_c	Cinnavalininate
+S_Coniferyl alcohol_c	Coniferyl alcohol
+S_Coniferyl aldehyde_c	Coniferyl aldehyde
+S_Coproporphyrinogen III_c	Coproporphyrinogen III
+S_Corticosterone_c	Corticosterone
+S_Cortisol_c	Cortisol
+S_Cortisone_c	Cortisone
+S_Crotonoyl-CoA_c	Crotonoyl-CoA
+S_Crotonoyl-CoA_x	Crotonoyl-CoA
+S_Cyanate_c	Cyanate
+S_Cyanide_c	Cyanide
+S_Cyanidin 3-O-glucoside_c	Cyanidin 3-O-glucoside
+S_Cyanidin_c	Cyanidin
+S_Cyanoglycoside_c	Cyanoglycoside
+S_Cyanohydrin_c	Cyanohydrin
+S_Cycloartenol_c	Cycloartenol
+S_Cyclohexylamine_c	Cyclohexylamine
+S_Cys-Gly_c	Cys-Gly
+S_Cystathionine_c	Cystathionine
+S_Cytidine_c	Cytidine
+S_Decanoyl-CoA_x	Decanoyl-CoA
+S_Decanoyl-[acp]_c	Decanoyl-[acp]
+S_Decanoyl-[acp]_p	Decanoyl-[acp]
+S_Dephospho-CoA_c	Dephospho-CoA
+S_Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A)_c	Di[3-deoxy-D-manno-octulosonyl]-lipid IV(A)
+S_Dodecanoyl-[acyl-carrier protein]_c	Dodecanoyl-[acyl-carrier protein]
+S_Dodecanoyl-[acyl-carrier protein]_p	Dodecanoyl-[acyl-carrier protein]
+S_Feruloyl-CoA_c	Feruloyl-CoA
+S_G00003_c	G00003
+S_G00004_c	G00004
+S_G00006_c	G00006
+S_G00007_c	G00007
+S_G00008_c	G00008
+S_G00009_c	G00009
+S_G00011_c	G00011
+S_G00012_c	G00012
+S_G00013_c	G00013
+S_G00014_c	G00014
+S_G00038_c	G00038
+S_G00057_c	G00057
+S_G00073_c	G00073
+S_G00074_c	G00074
+S_G00079_c	G00079
+S_G00143_c	G00143
+S_G00148_c	G00148
+S_G00149_c	G00149
+S_G00171_c	G00171
+S_G10526_c	G10526
+S_G10595_c	G10595
+S_G10596_c	G10596
+S_G10597_c	G10597
+S_G10598_c	G10598
+S_G10599_c	G10599
+S_Glutaconyl-1-CoA_c	Glutaconyl-1-CoA
+S_Glutaryl-CoA_c	Glutaryl-CoA
+S_HCO3-_c	HCO3-
+S_HCO3-_m	HCO3-
+S_HCO3-_p	HCO3-
+S_HCl_c	HCl
+S_Hexadecanoyl-[acp]_c	Hexadecanoyl-[acp]
+S_Hexadecanoyl-[acp]_p	Hexadecanoyl-[acp]
+S_Hexanoyl-CoA_x	Hexanoyl-CoA
+S_Hexanoyl-[acp]_c	Hexanoyl-[acp]
+S_Hexanoyl-[acp]_p	Hexanoyl-[acp]
+S_Holo-[carboxylase]_c	Holo-[carboxylase]
+S_IV2Fuc-Lc4Cer_c	IV2Fuc-Lc4Cer
+S_IV2Fuc-nLc4Cer_c	IV2Fuc-nLc4Cer
+S_L-Cystathionine_c	L-Cystathionine
+S_L-Cysteate_c	L-Cysteate
+S_L-Cysteine_c	L-Cysteine
+S_L-Cysteinyl-tRNA(Cys)_c	L-Cysteinyl-tRNA(Cys)
+S_L-Cystine_c	L-Cystine
+S_Lactose 6-phosphate_c	Lactose 6-phosphate
+S_Lauroyl-CoA_x	Lauroyl-CoA
+S_Lc4Cer_c	Lc4Cer
+S_Leukotriene C4_c	Leukotriene C4
+S_Malonyl-CoA_c	Malonyl-CoA
+S_Malonyl-CoA_p	Malonyl-CoA
+S_Malonyl-[acyl-carrier protein]_c	Malonyl-[acyl-carrier protein]
+S_Malonyl-[acyl-carrier protein]_p	Malonyl-[acyl-carrier protein]
+S_Monofucosyllactoisooctaosylceramide_c	Monofucosyllactoisooctaosylceramide
+S_N,N'-Chitobiosyldiphosphodolichol_c	N,N'-Chitobiosyldiphosphodolichol
+S_N-Carbamoyl-L-aspartate_c	N-Carbamoyl-L-aspartate
+S_N-Cyclohexylformamide_c	N-Cyclohexylformamide
+S_Naphthyl-2-hydroxymethyl-succinyl CoA_c	Naphthyl-2-hydroxymethyl-succinyl CoA
+S_Naphthyl-2-methyl-succinyl-CoA_c	Naphthyl-2-methyl-succinyl-CoA
+S_Naphthyl-2-methylene-succinyl-CoA_c	Naphthyl-2-methylene-succinyl-CoA
+S_Naphthyl-2-oxomethyl-succinyl-CoA_c	Naphthyl-2-oxomethyl-succinyl-CoA
+S_Octanoyl-CoA_x	Octanoyl-CoA
+S_Octanoyl-[acp]_c	Octanoyl-[acp]
+S_Octanoyl-[acp]_p	Octanoyl-[acp]
+S_Palmitoyl-CoA_c	Palmitoyl-CoA
+S_Palmitoyl-CoA_x	Palmitoyl-CoA
+S_Phenylacetyl-CoA_c	Phenylacetyl-CoA
+S_Poly-L-glutamate_c	Poly-L-glutamate
+S_Propanoyl-CoA_c	Propanoyl-CoA
+S_Propenoyl-CoA_c	Propenoyl-CoA
+S_Prostaglandin F2alpha:NADP+ oxidoreductase; Prostaglandin F2alpha_c	Prostaglandin F2alpha:NADP+ oxidoreductase; Prostaglandin F2alpha
+S_R-S-Alanine_c	R-S-Alanine
+S_R-S-Alanylglycine_c	R-S-Alanylglycine
+S_R_c	R
+S_S-(2-Chloroacetyl)glutathione_c	S-(2-Chloroacetyl)glutathione
+S_S-Benzoate coenzyme A_c	S-Benzoate coenzyme A
+S_Sinapoyl-CoA_c	Sinapoyl-CoA
+S_Succinyl-CoA_c	Succinyl-CoA
+S_Succinyl-CoA_m	Succinyl-CoA
+S_Tetradecanoyl-CoA_x	Tetradecanoyl-CoA
+S_Tetradecanoyl-[acp]_c	Tetradecanoyl-[acp]
+S_Tetradecanoyl-[acp]_p	Tetradecanoyl-[acp]
+S_Tetrahydrofolyl-[Glu](2)_c	Tetrahydrofolyl-[Glu](2)
+S_Tetrahydrofolyl-[Glu](n)_c	Tetrahydrofolyl-[Glu](n)
+S_UDP-glucose:anthocyanidin 3-O-D-glucosyltransferase; Cyanidin_c	UDP-glucose:anthocyanidin 3-O-D-glucosyltransferase; Cyanidin
+S_UDP-glucose:anthocyanidin 3-O-D-glucosyltransferase; Delphinidin_c	UDP-glucose:anthocyanidin 3-O-D-glucosyltransferase; Delphinidin
+S_UDP-glucose:anthocyanidin 3-O-D-glucosyltransferase; Pelargonidin_c	UDP-glucose:anthocyanidin 3-O-D-glucosyltransferase; Pelargonidin
+S_[Dihydrolipoyllysine-residue succinyltransferase]S-succinyldihydrolipoyllysine_m	[Dihydrolipoyllysine-residue succinyltransferase]S-succinyldihydrolipoyllysine
+S_alpha-Carotene_c	alpha-Carotene
+S_alpha-D-galactoside galactohydrolase; Melibiose_c	alpha-D-galactoside galactohydrolase; Melibiose
+S_beta-Carotene_c	beta-Carotene
+S_cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA_c	cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA
+S_cis-3,4-Leucopelargonidin:NADP+ 4-oxidoreductase; Leucocyanidin_c	cis-3,4-Leucopelargonidin:NADP+ 4-oxidoreductase; Leucocyanidin
+S_cis-3,4-Leucopelargonidin:NADP+ 4-oxidoreductase; Leucodelphinidin_c	cis-3,4-Leucopelargonidin:NADP+ 4-oxidoreductase; Leucodelphinidin
+S_cis-3,4-leucopelargonidin:NADP+ 4-oxidoreductase; Luteoforol_c	cis-3,4-leucopelargonidin:NADP+ 4-oxidoreductase; Luteoforol
+S_cis-3,4-leucopelargonidin:NADP+ 4-oxidoreductase; Naringenin_c	cis-3,4-leucopelargonidin:NADP+ 4-oxidoreductase; Naringenin
+S_dCDP_c	dCDP
+S_dCMP_c	dCMP
+S_dCTP_c	dCTP
+S_delta-Carotene_c	delta-Carotene
+S_ent-Copalyl diphosphate_c	ent-Copalyl diphosphate
+S_flavanone,NADPH:oxygen oxidoreductase; Dihydrokaempferol_c	flavanone,NADPH:oxygen oxidoreductase; Dihydrokaempferol
+S_flavanone,NADPH:oxygen oxidoreductase; Naringenin_c	flavanone,NADPH:oxygen oxidoreductase; Naringenin
+S_gamma-Carotene_c	gamma-Carotene
+S_hv_ext	hv_ext
+S_hv_p	hv_p
+S_hv_total	hv_total
+S_iso-nLc8Cer_c	iso-nLc8Cer
+S_nLc5Cer_c	nLc5Cer
+S_nLc6Cer_c	nLc6Cer
+S_p-Coumaroyl-CoA_c	p-Coumaroyl-CoA
+S_tRNA(Cys)_c	tRNA(Cys)
+S_trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA_c	trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA
+S_trans-Cinnamate_c	trans-Cinnamate
+S_trans-Dec-2-enoyl-CoA_x	trans-Dec-2-enoyl-CoA
+S_trans-Dec-2-enoyl-[acp]_c	trans-Dec-2-enoyl-[acp]
+S_trans-Dec-2-enoyl-[acp]_p	trans-Dec-2-enoyl-[acp]
+S_trans-Dodec-2-enoyl-[acp]_c	trans-Dodec-2-enoyl-[acp]
+S_trans-Dodec-2-enoyl-[acp]_p	trans-Dodec-2-enoyl-[acp]
+S_trans-Hex-2-enoyl-CoA_x	trans-Hex-2-enoyl-CoA
+S_trans-Hex-2-enoyl-[acp]_c	trans-Hex-2-enoyl-[acp]
+S_trans-Hex-2-enoyl-[acp]_p	trans-Hex-2-enoyl-[acp]
+S_trans-Hexadec-2-enoyl-CoA_x	trans-Hexadec-2-enoyl-CoA
+S_trans-Hexadec-2-enoyl-[acp]_c	trans-Hexadec-2-enoyl-[acp]
+S_trans-Hexadec-2-enoyl-[acp]_p	trans-Hexadec-2-enoyl-[acp]
+S_trans-Oct-2-enoyl-CoA_x	trans-Oct-2-enoyl-CoA
+S_trans-Oct-2-enoyl-[acp]_c	trans-Oct-2-enoyl-[acp]
+S_trans-Oct-2-enoyl-[acp]_p	trans-Oct-2-enoyl-[acp]
+S_trans-Tetradec-2-enoyl-CoA_x	trans-Tetradec-2-enoyl-CoA
+S_trans-Tetradec-2-enoyl-[acp]_c	trans-Tetradec-2-enoyl-[acp]
+S_trans-Tetradec-2-enoyl-[acp]_p	trans-Tetradec-2-enoyl-[acp]
+S_zeta-Carotene_c	zeta-Carotene

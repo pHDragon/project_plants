@@ -1,0 +1,7 @@
+Repository ID	Model ID	Reaction in Repository
+rxn02226	reac_295	reac_34
+rxn02752	reac_1774	reac_982
+rxn00102	reac_1802	reac_381
+rxn00776	reac_1820	reac_1016
+rxn01297	reac_1830	reac_1418
+rxn03973	reac_1937	reac_40
